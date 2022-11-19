@@ -436,6 +436,8 @@ https://bdcast-live2.b-cdn.net/jago/1/live-orgin/jonmobhumitv.stream/chunks.m3u8
 
 #EXTINF:-1,MATRI BHUMI
 http://tv.anwarlinkisp.com:1895/live/bangladesh/chunklist_w632900092.m3u8
+#EXTINF:-1,MATRI BHUMI
+http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 
 #EXTINF:-1,Bangla TV Online
 http://208.86.19.13:81/504.stream/index.m3u8
