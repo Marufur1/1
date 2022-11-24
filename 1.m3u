@@ -786,6 +786,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
 #EXTINF:-1,JioCinema
 http://ranapk-nxt.ml/MOB/play.m3u8?id=F22_M2_BengaliHD_DIG_MOB/x/F22_M2_BengaliHD_DIG_MOB-audio_108035_ben=108000-video=2624400.m3u8
+#EXTINF:-1,JioCinema
+https://medialive.jiocinema.com/bpk-tv/F22_M2_BengaliHD_DIG_MOB/x/F22_M2_BengaliHD_DIG_MOB-audio_108035_ben=108000-video=2624400.m3u8
+#EXTINF:-1,JioCinema
+https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_BTS/Fallback/F22_M1_BengaliHD_DIG_BTS-audio_140835_ben=140800-video=867200.m3u8
 
 #EXTINF:-1,itv
 http://20.220.226.152/live/TKIKI/chunks.m3u8
