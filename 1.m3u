@@ -484,6 +484,8 @@ http://103.106.2.152:13456/sangsad.m3u8
 #EXTINF:-1,Songsad TV https://tvs1.aynaott.com
 https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8
 -----------------------------------------------------------
+EXTINF:-1,STAR JALSHA HD http://mag.x-iptv.live
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=155770&extension=ts&play_token=bwumWdjMTp
 #EXTINF:-1,STAR JALSHA HD http://103.118.76.146
 http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
 #EXTINF:-1,STAR JALSHA HD http://xtream.efiberbd.net
@@ -493,6 +495,8 @@ http://45.127.244.7:8080/hls/channel12.m3u8
 #EXTINF:-1,STAR JALSHA HD https://tvs1.aynaott.com
 https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Zee bangla
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225786&extension=ts&play_token=KCU2LYaCua
 #EXTINF:-1,ZEE BANGLA HD http://xtv.ooo
 http://xtv.ooo:8080/live/11111/11111/245893.ts
 #EXTINF:-1,ZEE BANGLA HD http://45.127.244.7
