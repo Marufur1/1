@@ -456,6 +456,10 @@ http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 #EXTINF:-1,Bangla TV Online
 http://208.86.19.13:81/504.stream/index.m3u8
 -----------------------------------------------------------
+#EXTINF:-1,BTV https://smallscreen.net
+https://smallscreen.net/tv/secure/live/btv/xogWpYs6lZIiCVgoQ9OQPA/1669428157/1080p.m3u8
+#EXTINF:-1,BTV https://smallscreen.net
+https://smallscreen.net/tv/secure/live/btv/xogWpYs6lZIiCVgoQ9OQPA/1669428157/360p.m3u8
 #EXTINF:-1,BTV http://cdn01.palki.tv
 http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8
 #EXTINF:-1,BTV https://tvs1.aynaott.com
