@@ -233,6 +233,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 #EXTINF:-1,MOHONA TV https://tvs1.aynaott.com
 https://tvs1.aynaott.com/mohonatv/index.m3u8
 
+#EXTINF:-1,GAZI TV http://103.127.93.82
+http://103.127.93.82:8234/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GAZI TV http://103.153.154.34
 http://103.153.154.34/hls/Gazi-TV.m3u8
 #EXTINF:-1,GAZI TV http://humiptv.live
@@ -256,6 +258,8 @@ https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1666870200-now.m3u8
 
 #EXTINF:-1,T-Sports TOFFEE LIVE 1000P
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1,T-Sports http://103.127.93.82
+http://103.127.93.82:8234/Ttv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T-Sports TOFFEE LIVE 850P
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
 #EXTINF:-1,T-Sports TOFFEE LIVE 640P
