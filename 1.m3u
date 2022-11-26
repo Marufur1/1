@@ -256,6 +256,8 @@ http://cdn01.palki.tv/live/Gazi-M/index.fmp4.m3u8
 #EXTINF:-1,GAZI TV https://tvs2.aynaott.com
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1666870200-now.m3u8
 
+#EXTINF:-1,T-Sports http://103.127.93.82
+http://103.127.93.82:8234/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T-Sports TOFFEE LIVE 1000P
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1,T-Sports http://103.127.93.82
