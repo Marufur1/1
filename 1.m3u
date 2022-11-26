@@ -495,8 +495,9 @@ http://103.106.2.152:13456/sangsad.m3u8
 https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8
 -----------------------------------------------------------
 
-
-#EXTINF:-1,STAR JALSHA
+#EXTINF:-1,STAR JALSHA https://livetvm3u8.xyz
+https://livetvm3u8.xyz/live/starjalsha/playlist.m3u8
+#EXTINF:-1,STAR JALSHA http://mag.x-iptv.live
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=155770&extension=ts&play_token=bwumWdjMTp
 #EXTINF:-1,STAR JALSHA HD http://103.118.76.146
 http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
@@ -800,6 +801,8 @@ http://51.210.199.12/hls/stream.m3u8
 #EXTINF:-1,Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
+#EXTINF:-1,Fifa
+https://livetvm3u8.xyz/live/fifa/playlist.m3u8
 #EXTINF:-1,JioCinema
 http://ranapk-nxt.ml/MOB/play.m3u8?id=F22_M2_BengaliHD_DIG_MOB/x/F22_M2_BengaliHD_DIG_MOB-audio_108035_ben=108000-video=2624400.m3u8
 #EXTINF:-1,JioCinema
