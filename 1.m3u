@@ -253,12 +253,20 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 http://cdn01.palki.tv/live/Gazi-M/playlist.m3u8
 #EXTINF:-1,GAZI TV palki
 http://cdn01.palki.tv/live/Gazi-M/index.fmp4.m3u8
+#EXTINF:-1,GAZI TV http://tv2.efiberbd.net
+http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-1,GAZI TV https://tvs2.aynaott.com
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1666870200-now.m3u8
 
+#EXTINF:-1,T SPORTS HD http://humiptv.live
+http://humiptv.live:8080/live/arijit38815/A437638815/18452.m3u8
+#EXTINF:-1,T SPORTS HD http://humiptv.live
+http://humiptv.live:8080/live/arijit38815/A437638815/52500.m3u8
 #EXTINF:-1,T-Sports http://103.127.93.82
 http://103.127.93.82:8234/TSports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T-Sports TOFFEE LIVE 1000P
+#EXTINF:-1,Toffee FIFA LIVE free
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:-1,T-Sports TOFFEE LIVE 1000P paid
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1,T-Sports http://103.127.93.82
 http://103.127.93.82:8234/Ttv/tracks-v1a1/mono.m3u8
@@ -502,6 +510,10 @@ https://live.jeniusplay.com/live/starjalsha/playlist.m3u8
 https://livetvm3u8.xyz/live/starjalsha/playlist.m3u8
 #EXTINF:-1,STAR JALSHA http://mag.x-iptv.live
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=155770&extension=ts&play_token=bwumWdjMTp
+#EXTINF:-1,STAR JALSHA http://vip.4kiptv.pro
+http://vip.4kiptv.pro:2095/play/live.php?mac=00:1A:79:B6:E0:70&stream=438216&extension=ts&play_token=hLur7vqgxz
+#EXTINF:-1,STAR JALSHA http://102.222.232.18
+http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
 #EXTINF:-1,STAR JALSHA HD http://103.118.76.146
 http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
 #EXTINF:-1,STAR JALSHA HD http://xtream.efiberbd.net
@@ -511,6 +523,10 @@ http://45.127.244.7:8080/hls/channel12.m3u8
 #EXTINF:-1,STAR JALSHA HD https://tvs1.aynaott.com
 https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Zee Bangla HD
+https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=800&e=.m3u8
+#EXTINF:-1,Zee bangla
+http://vip.4kiptv.pro:2095/play/live.php?mac=00:1A:79:B6:E0:70&stream=438292&extension=ts&play_token=Nu4FDbsiPH
 #EXTINF:-1,Zee bangla
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225786&extension=ts&play_token=KCU2LYaCua
 #EXTINF:-1,ZEE BANGLA HD http://xtv.ooo
@@ -547,11 +563,17 @@ https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sanonda TV
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 
+#EXTINF:-1,Jalsha Movies
+http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/425.ts
+#EXTINF:-1,JALSHA MOVIES HD
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225805&extension=ts&play_token=5KMgbsoVg8
 #EXTINF:-1,JALSHA MOVIES HD
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-1,JALSHA MOVIES HD http://208.86.19.16
 http://208.86.19.16/609.stream/index.m3u8
 
+#EXTINF:-1,ZEE BANGLA CINEMA
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=155782&extension=ts&play_token=KzHYw3hgLb
 #EXTINF:-1,Zee Bangla Cinema
 http://45.127.244.7:8080/hls/channel11.m3u8
 #EXTINF:-1,Zee Bangla Cinema
@@ -559,6 +581,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/10.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://xtv.ooo:8080/live/11111/11111/245897.ts
 
+#EXTINF:-1,COLORS BANGLA SD
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225740&extension=ts&play_token=5FpJgR29Fw
 #EXTINF:-1,Colors Bangla Cinema
 http://xtream.efiberbd.net:8080/live/mkaua/stream/9.m3u8
 #EXTINF:-1,Colors Bangla Cinema
@@ -627,17 +651,25 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 #EXTINF:-1,Peace TV English
 https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,DISCOVERY BANGLA
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225747&extension=ts&play_token=gpVtHin114
 #EXTINF:-1,Discovery
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
 #EXTINF:-1,Discovery Channel (Guatemala)
 http://190.83.119.67:8000/play/a0tb/index.m3u8
 
+#EXTINF:-1,DISCOVERY WORLD HD
+http://ott-serveur.com:8000/504645251728170/515299363871871/178746
 #EXTINF:-1,Discovery World HD
 http://190.83.119.67:8000/play/a0tc/index.m3u8
 
 #EXTINF:-1,Discovery ID HD
 http://190.83.119.67:8000/play/a0tf/index.m3u8
 
+#EXTINF:-1,NAT GEO BANGLA
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=282665&extension=ts&play_token=5jiNGGBeNd
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://ott-serveur.com:8000/504645251728170/515299363871871/178767
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://190.83.119.67:8000/play/a0t8/index.m3u8
 
@@ -645,19 +677,32 @@ http://190.83.119.67:8000/play/a0t8/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1,Travelxp HD (Hindi) LTWS
+http://humiptv.live:8080/live/arijit38815/A437638815/20622.ts
 
 #EXTINF:-1,Animal Planet HD
 http://190.83.119.67:8000/play/a0sb/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://190.83.119.67:8000/play/a0q4/index.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://ott-serveur.com:8000/504645251728170/515299363871871/178727
 
 #EXTINF:-1,TLC
 http://190.83.119.67:8000/play/a0sd/index.m3u8
 
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:-1,NAT GEO WILD HD
+http://ott-serveur.com:8000/504645251728170/515299363871871/178766
 
+#EXTINF:-1,Discovery Science LTWS
+http://103.166.102.58:8000/play/a01k
 #EXTINF:-1,Discovery Science
 http://190.83.119.67:8000/play/a0ny/index.m3u8
+
+#EXTINF:-1,Discovery TURBO multi
+http://103.166.102.58:8000/play/a01l
+
+#EXTINF:-1,Investigation Discovery multi
+http://103.166.102.58:8000/play/a00j
 
 #EXTINF:-1,Love nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -675,6 +720,9 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 
 #EXTINF:-1,History HD
 http://190.83.119.67:8000/play/a0px/index.m3u8
+
+#EXTINF:-1,HISTORY TV18 HD
+http://ott-serveur.com:8000/504645251728170/515299363871871/178751
 
 #EXTINF:-1,Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
@@ -804,11 +852,33 @@ http://51.210.199.12/hls/stream.m3u8
 #EXTINF:-1,Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
-#EXTINF:-1,Fifa
+#EXTINF:-1,Qatar TV
+https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
+#EXTINF:-1,Qatar
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
+
+#EXTINF:-1,ESPN
+http://51.79.82.208:16417
+
+#EXTINF:-1,Fifa 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1,Fifa 3
+https://livetvm3u8.xyz/live/fifa/playlist.m3u8
+#EXTINF:-1,FIFA 1
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1053335&extension=ts&play_token=yd2Cv841n2
+#EXTINF:-1,FIFA 3 m4 sports
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1051534&extension=ts&play_token=WWE0GvaFk3
+#EXTINF:-1,FIFA 4
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1053342&extension=ts&play_token=MMcesPas9I
+#EXTINF:-1,FIFA 7
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1050774&extension=ts&play_token=ZrLvXgudgh
+#EXTINF:-1,FIFA 8
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049176&extension=ts&play_token=PQp9qzqQB3
+#EXTINF:-1,FIFA 9
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1055465&extension=ts&play_token=6b9t2bQRT1
+#EXTINF:-1,TYC SPORTS FIFA
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
-#EXTINF:-1,Fifa
-https://livetvm3u8.xyz/live/fifa/playlist.m3u8
 #EXTINF:-1,JioCinema
 http://ranapk-nxt.ml/MOB/play.m3u8?id=F22_M2_BengaliHD_DIG_MOB/x/F22_M2_BengaliHD_DIG_MOB-audio_108035_ben=108000-video=2624400.m3u8
 #EXTINF:-1,JioCinema
@@ -856,6 +926,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 http://45.127.244.7:8080/hls/channel4.m3u8
 #EXTINF:-1,Sony SPORTS 5 HD http://xtream.efiberbd.ne
 http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
+#EXTINF:-1,SONY SPORTS 5 HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 
 #EXTINF:-1,Sony Ten 1 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
@@ -879,18 +951,31 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/01.m3u8
 
 #EXTINF:-1,BeIN Sports 1
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766
+#EXTINF:-1,bein sports 1 http://mag.x-iptv.live
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049175&extension=ts&play_token=DUNQuifhbG
 
 #EXTINF:-1,BeIN Sports 2
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2767
-
+#EXTINF:-1,BeIN Sports 2 http://mag.x-iptv.live
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049169&extension=ts&play_token=aeoitpNWb8
 #EXTINF:-1,BeIN Sports 3
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2768
-
+#EXTINF:-1,bein sports 3 http://mag.x-iptv.liv
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049165&extension=ts&play_token=lPpdxWHxFi
+#EXTINF:-1,bein sports 4 http://mag.x-iptv.live
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049173&extension=ts&play_token=ACQAlEnsaM
 #EXTINF:-1,BeIN Sports 4
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2769
+#EXTINF:-1,bein sports 4 mag.x-iptv.live:80
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049163&extension=ts&play_token=6N0oxqx2nY
+#EXTINF:-1,bein sports 4 http://mag.x-iptv.live
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049162&extension=ts&play_token=Aq4rgFJvqq
 
 #EXTINF:-1,BeIN Sports 5
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
+
+#EXTINF:-1,bein sports 5 http://mag.x-iptv.live
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1050777&extension=ts&play_token=Rp2Sj79D2s
 
 #EXTINF:-1,BeIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
@@ -924,6 +1009,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
+
+#EXTINF:-1,SPORTS 18+
+http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 
 #EXTINF:-1,Cbc tv 8
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
