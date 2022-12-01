@@ -829,6 +829,15 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/13.m3u8
 #EXTINF:-1,GUBBARE KIDS
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
+#EXTINF:-1,ANIMAX SG
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=941676&extension=ts&play_token=M0tUu4zhAq
+#EXTINF:-1,ANIMAX-1
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=731865&extension=ts&play_token=MeCQWHsYLX
+#EXTINF:-1,ANIMAX
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=683165&extension=ts&play_token=CgP5iZeVKH
+#EXTINF:-1,O Kids
+http://51.210.199.11/hls/stream.m3u8
+
 #EXTINF:-1,SONY YAY
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=156089&extension=ts&play_token=VAcN5kQUpY
 #EXTINF:-1,|INDIA| SONY YAY 2
@@ -1063,6 +1072,11 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 #EXTINF:-1,SETMAX HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/25.m3u8
+#EXTINF:-1,SONY MAX HD-1
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=156106&extension=ts&play_token=A6h7K4B1VR
+
+#EXTINF:-1,MAX HD
+http://103.166.102.58:8000/play/a00h
 
 #EXTINF:-1,SONY HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/22.m3u8
@@ -1082,19 +1096,31 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
 #EXTINF:-1,ZEE TV HD https://tvs2.aynaott.com
 https://tvs2.aynaott.com/ZeeTvHD/tracks-v1a1/index-1666933200-now.m3u8
 
+#EXTINF:-1,ZEE.ACTION
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=156139&extension=ts&play_token=JshQosONjj
+#EXTINF:-1,ZEE ACTION-01
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1,Zee Cinema HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Cinema HD http://xtream.efiberbd.net
 http://xtream.efiberbd.net:8080/live/mkaua/stream/26.m3u8
+#EXTINF:-1,ZEE CINEMA http://mag.x-iptv.live
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=280772&extension=ts&play_token=7n6dDNy2A1
+#EXTINF:-1,Zee Cinema http://144.217.70.18
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,Colors HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/24.m3u8
 #EXTINF:-1,Colors HD https://tvs1.aynaott.com
 https://tvs1.aynaott.com/ColorsHD/index.m3u8
 
-
 #EXTINF:-1,And Pictures
 https://tvs1.aynaott.com/andpictureshd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,& pictures HD
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=155997&extension=ts&play_token=tAxHuONPTA
+#EXTINF:-1,&tv HD
+http://103.166.102.58:8000/play/a01u
 
 #EXTINF:-1,Star Plus HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/20.m3u8
@@ -1102,6 +1128,14 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/20.m3u8
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,Star Plus HD http://tvs1.aynaott.com
 http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star gold
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1070
+#EXTINF:-1,STAR GOLD HD
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=155969&extension=ts&play_token=b8Q4RFtnsw
+
+#EXTINF:-1,UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,Star Gold2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
@@ -1141,6 +1175,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/45.m3u8
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,B4U Music
+http://208.86.19.13:81/733.stream/index.m3u8
+#EXTINF:-1,B4U Music-01
 http://xtream.efiberbd.net:8080/live/mkaua/stream/46.m3u8
 
 #EXTINF:-1,ZEE ANMOL CINEMA
