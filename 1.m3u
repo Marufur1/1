@@ -233,6 +233,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 #EXTINF:-1,MOHONA TV https://tvs1.aynaott.com
 https://tvs1.aynaott.com/mohonatv/index.m3u8
 
+#EXTINF:-1,GAZI TV http://103.102.27.173
+http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1,GAZI TV http://103.127.93.82
 http://103.127.93.82:8234/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GAZI TV http://103.153.154.34
@@ -258,6 +260,8 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-1,GAZI TV https://tvs2.aynaott.com
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1666870200-now.m3u8
 
+#EXTINF:-1,T SPORTS HD http://103.102.27.173
+http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1,T SPORTS HD http://humiptv.live
 http://humiptv.live:8080/live/arijit38815/A437638815/18452.m3u8
 #EXTINF:-1,T SPORTS HD http://humiptv.live
@@ -974,6 +978,8 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
 #EXTINF:-1,PTV SPORTS
 http://xtream.efiberbd.net:8080/live/mkaua/stream/01.m3u8
 
+#EXTINF:-1,BeIN Sports 1 http://103.102.27.173
+http://103.102.27.173/live/tvfeed1004/index.m3u8
 #EXTINF:-1,BeIN Sports 1
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766
 #EXTINF:-1,bein sports 1 http://mag.x-iptv.live
