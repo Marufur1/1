@@ -516,6 +516,9 @@ http://103.106.2.152:13456/sangsad.m3u8
 #EXTINF:-1,Songsad TV https://tvs1.aynaott.com
 https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8
 -----------------------------------------------------------
+
+#EXTINF:-1,#EXTINF:-1,STAR JALSHA -1http://mag.x-iptv.live
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225777&extension=ts&play_token=V2ZScIF2KE
 #EXTINF:-1,STAR JALSHA https://live.jeniusplay.com
 https://live.jeniusplay.com/live/starjalsha/playlist.m3u8
 #EXTINF:-1,STAR JALSHA https://livetvm3u8.xyz
