@@ -270,8 +270,10 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1,T-Sports http://103.127.93.82
 http://103.127.93.82:8234/Ttv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T-Sports TOFFEE LIVE 850P
+#EXTINF:-1,T-Sports TOFFEE LIVE 850P m1
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+#EXTINF:-1,T-Sports TOFFEE LIVE 850P m2
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
 #EXTINF:-1,T-Sports TOFFEE LIVE 640P
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_640.m3u8
 #EXTINF:-1,T-Sports TOFFEE LIVE 360P
