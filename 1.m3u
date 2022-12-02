@@ -52,7 +52,8 @@ http://202.53.170.254:8080/ATNNews/tracks-v1a1/mono.m3u8?token=6b69f50ef081e6563
 #EXTINF:-1,ATN NEWS palki
 http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8
 #EXTINF:-1,ATN NEWS https://tvs1.aynaott.com
-https://tvs1.aynaott.com/atnnews/tracks-v1a1/mono.m3u8
+https://tvs1.aynaott.com/atnnews/tracks-v1a1/mono.m3u8?hdnts=st%3D1670005323%7Eexp%3D1670035323%7Eacl%3D%2Fatnnews%2F%2A%7Edata%3D113.11.100.169-WEB%7Ehmac%3Dbb225f80c9074b804aa5c5290faebd8e81e4b79bef907ffa180aef43421073af
+
 #EXTINF:-1,ATN NEWS Jagobd
 http://iptvbd.jagobd.com:444/live-orgin/atnws-sg.stream/chunks.m3u8
 
