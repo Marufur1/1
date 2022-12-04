@@ -238,6 +238,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 #EXTINF:-1,MOHONA TV https://tvs1.aynaott.com
 https://tvs1.aynaott.com/mohonatv/index.m3u8
 
+#EXTINF:-1,GAZI TV
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1,GAZI TV http://202.53.170.254
 http://202.53.170.254:8080/GaziTV/tracks-v1a1/mono.m3u8?token=dc4f7e9d12ff8140d09259c39c7eb64d5f03944d-c8d13df28ff997f564dd1a50e607963c-1669899376-1669888576
 #EXTINF:-1,GAZI TV http://103.102.27.173
