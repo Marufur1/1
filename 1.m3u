@@ -484,6 +484,10 @@ http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
 http://103.106.2.152:13456/sangsad.m3u8
 -----------------------------------------------------------
 
+#EXTINF:-1,Star Jalsha HD http://103.132.181.98
+http://103.132.181.98:81/play/a001
+#EXTINF:-1,Star Jalsha HD http://watchindia.net
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2281.ts
 #EXTINF:-1,#EXTINF:-1,STAR JALSHA -1http://mag.x-iptv.live
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225777&extension=ts&play_token=V2ZScIF2KE
 #EXTINF:-1,STAR JALSHA https://live.jeniusplay.com
@@ -503,6 +507,10 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
 #EXTINF:-1,STAR JALSHA HD http://45.127.244.7
 http://45.127.244.7:8080/hls/channel12.m3u8
 
+#EXTINF:-1,Zee Bangla HD http://103.132.181.98
+http://103.132.181.98:81/play/a00k
+#EXTINF:-1,Zee Bangla http://watchindia.ne
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2283.ts
 #EXTINF:-1,Zee Bangla HD
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=800&e=.m3u8
 #EXTINF:-1,Zee bangla
@@ -526,8 +534,15 @@ https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=600&e=.m3u8
 #EXTINF:-1,Zee Bangla HD 360P
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=400&e=.m3u8
 
-#EXTINF:-1,Colors Bangla SD
+#EXTINF:-1,COLORS BANGLA SD
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225740&extension=ts&play_token=5FpJgR29Fw
+#EXTINF:-1,Color BAngla HD
+http://103.132.181.98:81/play/a008
 
+#EXTINF:-1,Sony AATH
+http://103.132.181.98:81/play/a009
+#EXTINF:-1,Sony Aath
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2286.ts
 #EXTINF:-1,SONY AATH
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225775&extension=ts&play_token=CMpK7iSzJk
 #EXTINF:-1,Sony AATH-01
@@ -540,11 +555,15 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1,Sanonda TV
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 
-#EXTINF:-1,Jalsha Movies
+#EXTINF:-1,Jalsha Movie SD-1
+http://103.132.181.98:81/play/a00o
+#EXTINF:-1,Jalsha Movies HD-2
+http://103.132.181.98:81/play/a004
+#EXTINF:-1,Jalsha Movies-3
 http://starshare.live:8080/live/5601748_8yh23_@fa7pojn4g/Jgh_78jhu9@ud_9jkbk_8tyg9/425.ts
-#EXTINF:-1,JALSHA MOVIES HD
+#EXTINF:-1,JALSHA MOVIES HD-4
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225805&extension=ts&play_token=5KMgbsoVg8
-#EXTINF:-1,JALSHA MOVIES HD
+#EXTINF:-1,JALSHA MOVIES HD-5
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-1,JALSHA MOVIES HD http://208.86.19.16
 http://208.86.19.16/609.stream/index.m3u8
@@ -557,9 +576,6 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/10.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://xtv.ooo:8080/live/11111/11111/245897.ts
-
-#EXTINF:-1,COLORS BANGLA SD
-http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225740&extension=ts&play_token=5FpJgR29Fw
 
 #EXTINF:-1,Colors Bangla Cinema
 http://208.86.19.13:81/907.stream/index.m3u8
@@ -633,27 +649,33 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 
 #EXTINF:-1,Peace TV English
 
+#EXTINF:-1,Discovery HD
+http://103.132.181.98:81/play/a007
 #EXTINF:-1,DISCOVERY BANGLA
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225747&extension=ts&play_token=gpVtHin114
 #EXTINF:-1,Discovery
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
 #EXTINF:-1,Discovery Channel (Guatemala)
 http://190.83.119.67:8000/play/a0tb/index.m3u8
-
+#EXTINF:-1,Discovery Channel Hindi
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/841.ts
 #EXTINF:-1,DISCOVERY WORLD HD
 http://ott-serveur.com:8000/504645251728170/515299363871871/178746
 #EXTINF:-1,Discovery World HD
 http://190.83.119.67:8000/play/a0tc/index.m3u8
-
 #EXTINF:-1,Discovery ID HD
 http://190.83.119.67:8000/play/a0tf/index.m3u8
 
+#EXTINF:-1,NAT GEO HDmulti
+http://103.132.181.98:81/play/a006
 #EXTINF:-1,NAT GEO BANGLA
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=282665&extension=ts&play_token=5jiNGGBeNd
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://ott-serveur.com:8000/504645251728170/515299363871871/178767
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://190.83.119.67:8000/play/a0t8/index.m3u8
+#EXTINF:-1,National Geographic HD hindi
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/790.ts
 
 #EXTINF:-1,TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -661,7 +683,11 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/2000.m3u8
 #EXTINF:-1,Travelxp HD (Hindi) LTWS
 http://humiptv.live:8080/live/arijit38815/A437638815/20622.ts
+#EXTINF:-1,TravelXP HD
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/792.ts
 
+#EXTINF:-1,Animal Planet HD multi
+http://103.132.181.98:81/play/a00w
 #EXTINF:-1,Animal Planet HD
 http://190.83.119.67:8000/play/a0sb/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -671,6 +697,8 @@ http://ott-serveur.com:8000/504645251728170/515299363871871/178727
 
 #EXTINF:-1,TLC
 http://190.83.119.67:8000/play/a0sd/index.m3u8
+#EXTINF:-1,TLC Hindi
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/840.ts
 
 #EXTINF:-1,NAT GEO WILD HD
 http://ott-serveur.com:8000/504645251728170/515299363871871/178766
@@ -691,7 +719,8 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,Love nature
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
-#EXTINF:-1,BBC Earth HD
+#EXTINF:-1,Sony BBC Earth HD
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/789.ts
 
 #EXTINF:-1,Fox Life HD
 
@@ -703,6 +732,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 #EXTINF:-1,History HD
 http://190.83.119.67:8000/play/a0px/index.m3u8
 
+#EXTINF:-1,History TV18 HD
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/791.ts
 #EXTINF:-1,HISTORY TV18 HD
 http://ott-serveur.com:8000/504645251728170/515299363871871/178751
 
@@ -784,7 +815,16 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/13.m3u8
 
 #EXTINF:-1,Nickelodeon
+#EXTINF:-1,Nick HD Plus
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2237.ts
+#EXTINF:-1,Nick Hindi
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2182.ts
 
+#EXTINF:-1,Super Hungama multi
+http://103.166.102.58:8000/play/a05p
+
+#EXTINF:-1,Hungama
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/18456.ts
 
 #EXTINF:-1,GUBBARE KIDS
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
@@ -807,12 +847,14 @@ http://watchindia.net:8880/live/vvv/vvv/2104.m3u8
 #EXTINF:-1,Sony Yay Hindi-4
 http://humiptv.live:8080/live/arijit38815/A437638815/204.ts
 #EXTINF:-1,Sony Yay
-https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2104.ts
 
 #EXTINF:-1,Nick Bangla
 https://rcsfacility.com/jiotv/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
 #EXTINF:-1,Nick Hindi
 http://humiptv.live:8080/live/arijit38815/A437638815/205.ts
+#EXTINF:-1,Nick Pakistan
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/18457.ts
 #EXTINF:-1,Nick Junior
 http://humiptv.live:8080/live/arijit38815/A437638815/206.ts
 #EXTINF:-1,Nick Jr.
@@ -830,9 +872,15 @@ https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1,Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/8.ts
+#EXTINF:-1,Sony Yay
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2104.ts
 
 #EXTINF:-1,POGO KIDS
 http://ott-serveur.com:8000/504645251728170/515299363871871/178795
+#EXTINF:-1,Pogo_Hindi
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/1918.ts
 
 #EXTINF:-1,PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -845,12 +893,23 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 #EXTINF:-1,Disney JR
 http://190.83.119.67:8000/play/a0pb/index.m3u8
+#EXTINF:-1,Disney channel
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/19741.ts
+#EXTINF:-1,Disney Junior
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/35713.ts
 
 #EXTINF:-1,O Kids
 http://51.210.199.11/hls/stream.m3u8
 
 #EXTINF:-1,O Kids Movies
 http://51.210.199.12/hls/stream.m3u8
+
+#EXTINF:-1,GUBBARE KIDS
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1,AKARAM KIDS
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1,DISNEY SD
+http://ott-serveur.com:8000/504645251728170/515299363871871/178803
 
 #EXTINF:-1,Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
