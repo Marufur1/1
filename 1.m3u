@@ -53,6 +53,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u
 #EXTINF:-1,JAMUNA TV http://103.78.255.178
 http://103.78.255.178:8080/jamuna/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,71 tv
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=165520&extension=ts&play_token=k2KEFSL1Xo
 #EXTINF:-1,EKATTOR TV palki
 http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8
 #EXTINF:-1,EKATTOR TV http://208.86.19.13:81
@@ -203,6 +205,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 #EXTINF:-1,MOHONA TV https://tvs1.aynaott.com
 https://tvs1.aynaott.com/mohonatv/index.m3u8
 
+#EXTINF:-1,GAZI TV HD
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=165524&extension=ts&play_token=GVdFhE1J3d
 #EXTINF:-1,GAZI TV http://dotfli.net
 http://dotfli.net/s-2-gtv/tracks-v1a1/mono.m3u8?token=218b3f74b1f5ab9c289ed6fc9a906549d7a4be4b-5e6d62686277d33e2c6a191ddeb29b43-1670224704-1670219904
 #EXTINF:-1,GAZI TV http://tv.maguraplex.net
@@ -287,6 +291,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 
 #EXTINF:-1,Duronto tv palki
 http://cdn01.palki.tv/live/Duronto-M/index.fmp4.m3u8
+#EXTINF:-1,Duronto Tv
+http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Nexus TV http://cdn01.palki.tv
 http://cdn01.palki.tv/live/NexusTV-M/index.fmp4.m3u8
@@ -576,6 +582,8 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/10.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://xtv.ooo:8080/live/11111/11111/245897.ts
+#EXTINF:-1,Zee Bangla Cinema
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2287.ts
 
 #EXTINF:-1,Colors Bangla Cinema
 http://208.86.19.13:81/907.stream/index.m3u8
@@ -768,7 +776,8 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1,SPACE
 http://190.83.119.67:8000/play/a0ph/index.m3u8
 
-#EXTINF:-1,STAR MOVIEAS HD
+#EXTINF:-1,STar Movies HD
+http://103.132.181.98:81/play/a005
 
 #EXTINF:-1,ENGLISH
 http://xtream.efiberbd.net:8080/live/mkaua/stream/32.m3u8
