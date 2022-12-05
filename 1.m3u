@@ -6,8 +6,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 http://cdn01.palki.tv/live/SomoyTV-M/index.fmp4.m3u8
 #EXTINF:-1,Somoy TV http://103.78.255.178
 http://103.78.255.178:8080/somoy/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Somoy TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/somoytv/index.m3u8
 #EXTINF:-1,Somoy TV http://208.86.19.13
 http://208.86.19.13:81/693.stream/index.m3u8
 #EXTINF:-1,Somoy TV http://103.78.255.178
@@ -17,8 +15,6 @@ http://103.78.255.178:8080/somoy/tracks-v1a1/mono.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,INDEPENDENT TV palki
 http://cdn01.palki.tv/live/Independent-M/index.fmp4.m3u8
-#EXTINF:-1,INDEPENDENT TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/independenttv/index.m3u8
 #EXTINF:-1,INDEPENDENT TV http://208.86.19.13
 http://208.86.19.13:81/601.stream/index.m3u8
 
@@ -26,8 +22,6 @@ http://208.86.19.13:81/601.stream/index.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1,NEWS24 http://cdn01.palki.tv/live
 http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8
-#EXTINF:-1,NEWS24 https://tvs1.aynaott.com
-https://tvs1.aynaott.com/news24/index.m3u8
 
 #EXTINF:-1,DBC NEWS palki
 http://cdn01.palki.tv/live/DBC-M/index.fmp4.m3u8
@@ -35,8 +29,6 @@ http://cdn01.palki.tv/live/DBC-M/index.fmp4.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,DBC NEWS http://208.86.19.13
 http://208.86.19.13:81/614.stream/index.m3u8
-#EXTINF:-1,DBC NEWS https://tvs1.aynaott.com
-https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Channel 24 palki
 http://cdn01.palki.tv/live/Channel24-M/index.fmp4.m3u8
@@ -51,9 +43,6 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/51.m3u8
 http://202.53.170.254:8080/ATNNews/tracks-v1a1/mono.m3u8?token=6b69f50ef081e65634fcabad11797eb5c4c47ed5-28855723413565c78ecb1d66996d6f0f-1669899283-1669888483
 #EXTINF:-1,ATN NEWS palki
 http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8
-#EXTINF:-1,ATN NEWS https://tvs1.aynaott.com
-https://tvs1.aynaott.com/atnnews/tracks-v1a1/mono.m3u8?hdnts=st%3D1670005323%7Eexp%3D1670035323%7Eacl%3D%2Fatnnews%2F%2A%7Edata%3D113.11.100.169-WEB%7Ehmac%3Dbb225f80c9074b804aa5c5290faebd8e81e4b79bef907ffa180aef43421073af
-
 #EXTINF:-1,ATN NEWS Jagobd
 http://iptvbd.jagobd.com:444/live-orgin/atnws-sg.stream/chunks.m3u8
 
@@ -63,15 +52,11 @@ http://cdn01.palki.tv/live/JamunaTV-M/index.fmp4.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,JAMUNA TV http://103.78.255.178
 http://103.78.255.178:8080/jamuna/tracks-v1a1/mono.m3u8
-#EXTINF:-1,JAMUNA TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/jamunatv/index.m3u8
 
 #EXTINF:-1,EKATTOR TV palki
 http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8
 #EXTINF:-1,EKATTOR TV http://208.86.19.13:81
 http://208.86.19.13:81/675.stream/index.m3u8
-#EXTINF:-1,EKATTOR TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,CHANNEL I palki
 http://cdn01.palki.tv/live/Channeli-M/index.fmp4.m3u8
@@ -111,8 +96,6 @@ https://bdcast-sec.b-cdn.net/bcdn_token=fUxKF6OKBcEfpSJ2kWvQwD10Ta8NSWSP5BJVJAOi
 http://cdn01.palki.tv/live/BanglaVision-M/index.fmp4.m3u8
 #EXTINF:-1,BANGLA VISION Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1,BANGLA VISION https://tvs2.aynaott.com
-https://tvs2.aynaott.com/banglavision/index.m3u8
 
 #EXTINF:-1,MAASRANGA TV palki
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.fmp4.m3u8
@@ -128,8 +111,6 @@ https://bdcast-origin.b-cdn.net/live/maasranga.m3u8
 http://103.78.255.178:8080/deeptotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAASRANGA TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/mass.stream/chunks.m3u8
-#EXTINF:-1,MAASRANGA TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/maasrangatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,SATV palki
 http://cdn01.palki.tv/live/SATV-M/index.fmp4.m3u8
@@ -146,8 +127,6 @@ https://bdcast-sec.b-cdn.net/bcdn_token=8rHyYFmKgYLc8KxxbgCZZXHhi6F97VTvKtX7xz-i
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.fmp4.m3u8
 #EXTINF:-1,Boishakhi TV Jagobd
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1,Boishakhi TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/boishakhitv/index.m3u8
 
 #EXTINF:-1,NAGORIK TV palki
 http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
@@ -160,13 +139,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 http://208.86.19.13:81/608.stream/index.m3u8
 #EXTINF:-1,CHANNEL 9 http://xtream.efiberbd.net
 http://xtream.efiberbd.net:8080/live/mkaua/stream/17.m3u8
-#EXTINF:-1,CHANNEL 9 https://tvs1.aynaott.com
-https://tvs1.aynaott.com/channel9/index.m3u8
 
 #EXTINF:-1,EKUSHEY TV palki
 http://cdn01.palki.tv/live/EkusheyTV-M/index.fmp4.m3u8
-#EXTINF:-1,EKUSHEY TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,EKUSHEY Jagobd
@@ -178,8 +153,6 @@ http://208.86.19.13:81/660.stream/index.m3u8
 
 #EXTINF:-1,DESH TV palki
 http://cdn01.palki.tv/live/DeshTV-M/index.fmp4.m3u8
-#EXTINF:-1,DESH TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/deshtv/index.m3u8
 #EXTINF:-1,DESH TV Jagobd
 http://iptvbd.jagobd.com:444/live-orgin/deshtv.stream/chunks.m3u8
 
@@ -200,15 +173,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/47.m3u8
 #EXTINF:-1,MY TV http://208.86.19.13
 http://208.86.19.13:81/651.stream/index.m3u8
-#EXTINF:-1,MY TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/mytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,ASIAN TV palki
 http://cdn01.palki.tv/live/AsianTV-M/index.fmp4.m3u8
 #EXTINF:-1,ASIAN TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1,ASIAN TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/asiantv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Ananda TV palki
 http://cdn01.palki.tv/live/AnandaTV-M/index.fmp4.m3u8
@@ -219,8 +188,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 http://cdn01.palki.tv/live/BijoyTV-M/index.fmp4.m3u8
 #EXTINF:-1,BIJOY TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1,BIJOY TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/bijoytv/index.m3u8
 
 #EXTINF:-1,BANGLA TV palki
 http://cdn01.palki.tv/live/BanglaTV-M/index.fmp4.m3u8
@@ -228,8 +195,6 @@ http://cdn01.palki.tv/live/BanglaTV-M/index.fmp4.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV http://xtream.efiberbd.net
 http://xtream.efiberbd.net:8080/live/mkaua/stream/53.m3u8
-#EXTINF:-1,BANGLA TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/banglatv/index.m3u8
 
 #EXTINF:-1,MOHONA TV palki
 http://cdn01.palki.tv/live/MohonaTV-M/index.fmp4.m3u8
@@ -268,8 +233,6 @@ http://cdn01.palki.tv/live/Gazi-M/playlist.m3u8
 http://cdn01.palki.tv/live/Gazi-M/index.fmp4.m3u8
 #EXTINF:-1,GAZI TV http://tv2.efiberbd.net
 http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-#EXTINF:-1,GAZI TV https://tvs2.aynaott.com
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1666870200-now.m3u8
 
 #EXTINF:-1,T SPORTS HD http://dotfli.net
 http://dotfli.net/s-1-tsports/tracks-v4a1/mono.m3u8?token=f38450387fa4b636b8b56c8e55d5d0711c6494f5-e248d8f9f47972bfa7ab6da61d0e5aa6-1670224908-1670220108
@@ -495,14 +458,9 @@ http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 #EXTINF:-1,Bangla TV Online
 http://208.86.19.13:81/504.stream/index.m3u8
 -----------------------------------------------------------
-#EXTINF:-1,BTV https://smallscreen.net
-https://smallscreen.net/tv/secure/live/btv/xogWpYs6lZIiCVgoQ9OQPA/1669428157/1080p.m3u8
-#EXTINF:-1,BTV https://smallscreen.net
-https://smallscreen.net/tv/secure/live/btv/xogWpYs6lZIiCVgoQ9OQPA/1669428157/360p.m3u8
+
 #EXTINF:-1,BTV http://cdn01.palki.tv
 http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8
-#EXTINF:-1,BTV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV Apps
 http://103.106.2.152:13456/btv.m3u8
 
@@ -524,8 +482,6 @@ http://103.106.2.152:13456/btv_ctg.m3u8
 http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
 #EXTINF:-1,Songsad TV Apps
 http://103.106.2.152:13456/sangsad.m3u8
-#EXTINF:-1,Songsad TV https://tvs1.aynaott.com
-https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8
 -----------------------------------------------------------
 
 #EXTINF:-1,#EXTINF:-1,STAR JALSHA -1http://mag.x-iptv.live
@@ -546,8 +502,6 @@ http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
 #EXTINF:-1,STAR JALSHA HD http://45.127.244.7
 http://45.127.244.7:8080/hls/channel12.m3u8
-#EXTINF:-1,STAR JALSHA HD https://tvs1.aynaott.com
-https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Zee Bangla HD
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=800&e=.m3u8
@@ -571,8 +525,6 @@ https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=800&e=.m3u8
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=600&e=.m3u8
 #EXTINF:-1,Zee Bangla HD 360P
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=400&e=.m3u8
-#EXTINF:-1,Zee Bangla HD
-https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Colors Bangla SD
 
@@ -580,8 +532,6 @@ https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225775&extension=ts&play_token=CMpK7iSzJk
 #EXTINF:-1,Sony AATH-01
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1,Sony AATH-02
-https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sun Bangla
 
@@ -682,7 +632,6 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 
 #EXTINF:-1,Peace TV English
-https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,DISCOVERY BANGLA
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225747&extension=ts&play_token=gpVtHin114
@@ -873,8 +822,6 @@ http://190.83.119.67:8000/play/a0p9/index.m3u8
 http://humiptv.live:8080/live/arijit38815/A437638815/208.ts
 #EXTINF:-1,DISCOVERY KIDS
 http://ott-serveur.com:8000/504645251728170/515299363871871/178867
-#EXTINF:-1,Discovery Kids
-https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Wow Kids
 https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
@@ -1095,21 +1042,15 @@ http://103.166.102.58:8000/play/a00h
 
 #EXTINF:-1,SONY HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/22.m3u8
-#EXTINF:-1,SONY TV HD http://tvs2.aynaott.com
-http://tvs2.aynaott.com/SonyHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,SONY SAB HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/23.m3u8
-#EXTINF:-1,Sony Sab https://tvs1.aynaott.com
-https://tvs1.aynaott.com/SabHD/index.m3u8
 
 #EXTINF:-1,SONY WAH
 
 
 #EXTINF:-1,ZEE TV HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
-#EXTINF:-1,ZEE TV HD https://tvs2.aynaott.com
-https://tvs2.aynaott.com/ZeeTvHD/tracks-v1a1/index-1666933200-now.m3u8
 
 #EXTINF:-1,ZEE.ACTION
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=156139&extension=ts&play_token=JshQosONjj
@@ -1127,8 +1068,6 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,Colors HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/24.m3u8
-#EXTINF:-1,Colors HD https://tvs1.aynaott.com
-https://tvs1.aynaott.com/ColorsHD/index.m3u8
 
 #EXTINF:-1,And Pictures
 https://tvs1.aynaott.com/andpictureshd/tracks-v1a1/mono.m3u8
@@ -1141,8 +1080,6 @@ http://103.166.102.58:8000/play/a01u
 http://xtream.efiberbd.net:8080/live/mkaua/stream/20.m3u8
 #EXTINF:-1,Star Plus HD http://144.217.70.181
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,Star Plus HD http://tvs1.aynaott.com
-http://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star gold
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1070
@@ -1221,7 +1158,6 @@ https://idvd.multitvsolution.com/idvo/manoranjanmovies.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 
 #EXTINF:-1,Zing
-https://tvs1.aynaott.com/zing/index.m3u8
 
 #EXTINF:-1,WION TV palki
 http://cdn01.palki.tv/live/WION-M/index.fmp4.m3u8
@@ -1254,6 +1190,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b380000_t64MTQ0cA==.m3u8
 #EXTINF:-1,WFC TV
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
 ***** FM Radio *****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFnUmxM.png" group-title="FM Radio", ABC Radio (89.2)
