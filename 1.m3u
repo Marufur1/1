@@ -153,6 +153,8 @@ https://bdcast-sec.b-cdn.net/bcdn_token=FgGq-M0yfiF7louJrldZxvM17viJ7xUxjSa-y7fw
 #EXTINF:-1,EKUSHEY TV http://208.86.19.13
 http://208.86.19.13:81/660.stream/index.m3u8
 
+#EXTINF:-1,DESH TV http://clientsportals.com
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131641
 #EXTINF:-1,DESH TV palki
 http://cdn01.palki.tv/live/DeshTV-M/index.fmp4.m3u8
 #EXTINF:-1,DESH TV Jagobd
@@ -464,7 +466,8 @@ http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 #EXTINF:-1,Bangla TV Online
 http://208.86.19.13:81/504.stream/index.m3u8
 -----------------------------------------------------------
-
+#EXTINF:-1,BTV http://clientsportals.com
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131621
 #EXTINF:-1,BTV http://cdn01.palki.tv
 http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8
 #EXTINF:-1,BTV Apps
@@ -513,6 +516,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
 #EXTINF:-1,STAR JALSHA HD http://45.127.244.7
 http://45.127.244.7:8080/hls/channel12.m3u8
 
+#EXTINF:-1,Zee Bangla HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131691
 #EXTINF:-1,Zee Bangla HD http://103.132.181.98
 http://103.132.181.98:81/play/a00k
 #EXTINF:-1,Zee Bangla http://watchindia.ne
@@ -574,6 +579,8 @@ http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-1,JALSHA MOVIES HD http://208.86.19.16
 http://208.86.19.16/609.stream/index.m3u8
 
+#EXTINF:-1,ZEE BANGLA CINEMA
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131694
 #EXTINF:-1,ZEE BANGLA CINEMA
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=155782&extension=ts&play_token=KzHYw3hgLb
 #EXTINF:-1,Zee Bangla Cinema
@@ -657,6 +664,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 
 #EXTINF:-1,Peace TV English
 
+#EXTINF:-1,Discovery HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131646
 #EXTINF:-1,Discovery HD
 http://103.132.181.98:81/play/a007
 #EXTINF:-1,DISCOVERY BANGLA
