@@ -238,7 +238,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 #EXTINF:-1,MOHONA TV https://tvs1.aynaott.com
 https://tvs1.aynaott.com/mohonatv/index.m3u8
 
-#EXTINF:-1,GAZI TV
+#EXTINF:-1,GAZI TV http://dotfli.net
+http://dotfli.net/s-2-gtv/tracks-v1a1/mono.m3u8?token=218b3f74b1f5ab9c289ed6fc9a906549d7a4be4b-5e6d62686277d33e2c6a191ddeb29b43-1670224704-1670219904
+#EXTINF:-1,GAZI TV http://tv.maguraplex.net
 http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1,GAZI TV http://202.53.170.254
 http://202.53.170.254:8080/GaziTV/tracks-v1a1/mono.m3u8?token=dc4f7e9d12ff8140d09259c39c7eb64d5f03944d-c8d13df28ff997f564dd1a50e607963c-1669899376-1669888576
@@ -269,6 +271,8 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-1,GAZI TV https://tvs2.aynaott.com
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1666870200-now.m3u8
 
+#EXTINF:-1,T SPORTS HD http://dotfli.net
+http://dotfli.net/s-1-tsports/tracks-v4a1/mono.m3u8?token=f38450387fa4b636b8b56c8e55d5d0711c6494f5-e248d8f9f47972bfa7ab6da61d0e5aa6-1670224908-1670220108
 #EXTINF:-1,T SPORTS HD http://103.102.27.173
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1,T SPORTS HD http://humiptv.live
@@ -277,6 +281,10 @@ http://humiptv.live:8080/live/arijit38815/A437638815/18452.m3u8
 http://humiptv.live:8080/live/arijit38815/A437638815/52500.m3u8
 #EXTINF:-1,T-Sports http://103.127.93.82
 http://103.127.93.82:8234/TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Toffee http://tv.maguraplex.ne
+http://tv.maguraplex.net:8000/live/toffee/index.m3u8
+#EXTINF:-1,T SPORTS http://tv.maguraplex.ne
+http://tv.maguraplex.net:8000/live/tsports/index.m3u8
 #EXTINF:-1,Toffee FIFA LIVE free
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1,T-Sports TOFFEE LIVE 1000P paid
@@ -1064,10 +1072,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,1SPORTS
 http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 
-#EXTINF:-1,SPORTS 18+
+#EXTINF:-1,sports18
+http://tv.maguraplex.net:8000/live/sports18/index.m3u8
+#EXTINF:-1,SPORTS 18
 http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
-#EXTINF:-1,SPORTS 18+
+#EXTINF:-1,SPORTS 18
 https://tv.bdflix.xyz//FIFA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Cbc tv 8
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 
