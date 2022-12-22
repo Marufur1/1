@@ -242,6 +242,8 @@ http://cdn01.palki.tv/live/Gazi-M/index.fmp4.m3u8
 #EXTINF:-1,GAZI TV http://tv2.efiberbd.net
 http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 
+#EXTINF:-1,T SPORTS HD
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,T SPORTS HD http://dotfli.net
 http://dotfli.net/s-1-tsports/tracks-v4a1/mono.m3u8?token=f38450387fa4b636b8b56c8e55d5d0711c6494f5-e248d8f9f47972bfa7ab6da61d0e5aa6-1670224908-1670220108
 #EXTINF:-1,T SPORTS HD http://103.102.27.173
