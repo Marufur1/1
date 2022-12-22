@@ -208,6 +208,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 https://tvs1.aynaott.com/mohonatv/index.m3u8
 
 #EXTINF:-1,GAZI TV HD
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/apJgf-4QaHtGxo_etJ6EQPzUTwbVloBFAKS-isPpDSP6blBzcRSxTMFBofVIye7kcb1zwsRlQbXzL0wymwTX_w/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?key=thenayeemparvez&type=live
+#EXTINF:-1,GAZI TV HD
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=165524&extension=ts&play_token=GVdFhE1J3d
 #EXTINF:-1,GAZI TV http://dotfli.net
 http://dotfli.net/s-2-gtv/tracks-v1a1/mono.m3u8?token=218b3f74b1f5ab9c289ed6fc9a906549d7a4be4b-5e6d62686277d33e2c6a191ddeb29b43-1670224704-1670219904
