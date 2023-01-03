@@ -2,77 +2,32 @@
 
 #EXTINF:-1,Somoy TV JAGO
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1,Somoy TV palki
-http://cdn01.palki.tv/live/SomoyTV-M/index.fmp4.m3u8
-#EXTINF:-1,Somoy TV http://103.78.255.178
-http://103.78.255.178:8080/somoy/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Somoy TV http://208.86.19.13
-http://208.86.19.13:81/693.stream/index.m3u8
-#EXTINF:-1,Somoy TV http://103.78.255.178
-http://103.78.255.178:8080/somoy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,INDEPENDENT TV JAGO
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1,INDEPENDENT TV palki
-http://cdn01.palki.tv/live/Independent-M/index.fmp4.m3u8
-#EXTINF:-1,INDEPENDENT TV http://208.86.19.13
-http://208.86.19.13:81/601.stream/index.m3u8
 
 #EXTINF:-1,NEWS24 Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1,NEWS24 http://cdn01.palki.tv/live
-http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8
 
-#EXTINF:-1,DBC NEWS palki
-http://cdn01.palki.tv/live/DBC-M/index.fmp4.m3u8
 #EXTINF:-1,DBC NEWS Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1,DBC NEWS http://208.86.19.13
-http://208.86.19.13:81/614.stream/index.m3u8
 
-#EXTINF:-1,Channel 24 palki
-http://cdn01.palki.tv/live/Channel24-M/index.fmp4.m3u8
 #EXTINF:-1,CHANNEL 24 Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL 24 http://208.86.19.13
-http://208.86.19.13:81/687.stream/index.m3u8
-#EXTINF:-1,CHANNEL 24 http://xtream.efiberbd.net
-http://xtream.efiberbd.net:8080/live/mkaua/stream/51.m3u8
 
-#EXTINF:-1,ATN NEWS
-http://202.53.170.254:8080/ATNNews/tracks-v1a1/mono.m3u8?token=6b69f50ef081e65634fcabad11797eb5c4c47ed5-28855723413565c78ecb1d66996d6f0f-1669899283-1669888483
-#EXTINF:-1,ATN NEWS palki
-http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8
 #EXTINF:-1,ATN NEWS Jagobd
 http://iptvbd.jagobd.com:444/live-orgin/atnws-sg.stream/chunks.m3u8
 
-#EXTINF:-1,JAMUNA TV palki
-http://cdn01.palki.tv/live/JamunaTV-M/index.fmp4.m3u8
 #EXTINF:-1,JAMUNA TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,JAMUNA TV http://103.78.255.178
-http://103.78.255.178:8080/jamuna/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,71 tv
-http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=165520&extension=ts&play_token=k2KEFSL1Xo
-#EXTINF:-1,EKATTOR TV palki
-http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8
-#EXTINF:-1,EKATTOR TV http://208.86.19.13:81
-http://208.86.19.13:81/675.stream/index.m3u8
+#EXTINF:-1,EKATTOR TV
 
-#EXTINF:-1,CHANNEL I palki
-http://cdn01.palki.tv/live/Channeli-M/index.fmp4.m3u8
 #EXTINF:-1,CHANNEL I Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL I http://xtream.efiberbd.net
-http://xtream.efiberbd.net:8080/live/mkaua/stream/50.m3u8
 
-#EXTINF:-1,ATN BANGLA palki
-http://cdn01.palki.tv/live/ATNBangla-M/index.fmp4.m3u8
 #EXTINF:-1,ATN BANGLA Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1,ATN BANGLA http://xtream.efiberbd.net
-http://xtream.efiberbd.net:8080/live/mkaua/stream/49.m3u8
 
 #EXTINF:-1,N TV http://202.53.170.254
 http://202.53.170.254:8080/NTV/tracks-v1a1/mono.m3u8?token=14b86c4ee2440b4c15ff51e19fabba8e55360870-352651dcf90e3e16631e1268dba58e8b-1669899476-1669888676
@@ -83,8 +38,6 @@ http://208.86.19.13:81/652.stream/index.m3u8
 #EXTINF:-1,NTV http://xtream.efiberbd.net
 http://xtream.efiberbd.net:8080/live/mkaua/stream/48.m3u8
 
-#EXTINF:-1,R TV palki
-http://cdn01.palki.tv/live/RTV-M/index.fmp4.m3u8
 #EXTINF:-1,RTV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,RTV Official https://stream.cstfctg.com
