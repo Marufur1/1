@@ -16,7 +16,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1,ATN NEWS
-http://iptvbd.jagobd.com:444/live-orgin/atnws-sg.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1,JAMUNA TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -54,7 +54,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 https://bdcast-sec.b-cdn.net/bcdn_token=8rHyYFmKgYLc8KxxbgCZZXHhi6F97VTvKtX7xz-iPNI&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1666987425/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1,Boishakhi TV
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
 
 #EXTINF:-1,NAGORIK TV
 
@@ -67,14 +67,13 @@ http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u
 http://iptvbd.jagobd.com:444/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,DESH TV Jagobd
-http://iptvbd.jagobd.com:444/live-orgin/deshtv.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1,DEEPTO TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1,MY TV
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
-
 
 #EXTINF:-1,ASIAN TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -108,8 +107,11 @@ http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 
 #EXTINF:-1,GLOBAL TV
 http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/chunks.m3u8
+#EXTINF:-1,GLOBAL TV
+http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1,Green TV
+http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 
 #EXTINF:-1,Ekhon TV
 
