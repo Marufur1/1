@@ -114,7 +114,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 
 #EXTINF:-1,Ekhon TV
-
+http://103.172.29.174/0_13222.ts
 #EXTINF:-1,JAGONEWS 24 TV
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
