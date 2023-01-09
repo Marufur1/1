@@ -91,7 +91,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,MOHONA TV
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1,GAZI TV HD
+#EXTINF:-1,BPL
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/cv3UtWaETc8KSxZ7hDqHZfDW-EegP7GvlEu2W6w_Ddp1rAy9KiIbFF-SCE_JupXj-DiezTb13bUiHCMbNA2zhg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?token=https://t.me/freesports4all
 
 #EXTINF:-1,T SPORTS HD
 https://live.tsports.com/live/tsports_live_720/index.m3u8
