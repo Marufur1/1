@@ -8,12 +8,18 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,NEWS24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1,NEWS24
+http://14.128.12.154:25461/live/test/test/6.m3u8
 
 #EXTINF:-1,DBC NEWS
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1,DBC NEWS
+http://14.128.12.154:25461/live/test/test/4.m3u8
 
 #EXTINF:-1,CHANNEL 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL 24
+http://14.128.12.154:25461/live/test/test/8.m3u8
 
 #EXTINF:-1,ATN NEWS
 http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
@@ -72,6 +78,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1,DEEPTO TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1,DEEPTO TV
+http://14.128.12.154:25461/live/test/test/7.m3u8
 
 #EXTINF:-1,MY TV
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
@@ -209,6 +217,8 @@ https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 
 #EXTINF:-1,Movie Bangla Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:-1,Movie Bangla Jagobd
+http://14.128.12.154:25461/live/test/test/3.m3u8
 
 #EXTINF:-1,Nokshi TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/nakshitv.stream/chunks.m3u8
@@ -261,6 +271,8 @@ https://bdcast-live2.b-cdn.net/jago/1/live-orgin/jonmobhumitv.stream/chunks.m3u8
 http://tv.anwarlinkisp.com:1895/live/bangladesh/chunklist_w632900092.m3u8
 #EXTINF:-1,MATRI BHUMI
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
+#EXTINF:-1,MATRI BHUMI
+http://14.128.12.154:25461/live/test/test/2.m3u8
 
 #EXTINF:-1,Bangla TV Online
 http://208.86.19.13:81/504.stream/index.m3u8
@@ -310,6 +322,8 @@ https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=400&e=.m3u8
 
 #EXTINF:-1,Sanonda TV
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
+#EXTINF:-1,Sanonda TV
+http://14.128.12.154:25461/live/test/test/1.m3u8
 
 #EXTINF:-1,Jalsha Movie
 
@@ -534,6 +548,8 @@ https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 
 #EXTINF:-1,AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,AlJazeera
+http://14.128.12.154:25461/live/test/test/12.m3u8
 
 #EXTINF:-1,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
