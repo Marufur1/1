@@ -369,6 +369,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 #EXTINF:-1,Peace TV English
 
 #EXTINF:-1,Discovery
+http://smh.a0001.net/Discovery.m3u8
+#EXTINF:-1,Discovery
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
 #EXTINF:-1,Discovery
 http://my-iptv.mk/play/live.php?mac=00:1A:79:B6:3C:59&stream=225832&extension=m3u8&play_token=iLDm3wSEAI
