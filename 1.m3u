@@ -61,6 +61,8 @@ http://epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=225719&extension=
 
 #EXTINF:-1,CHANNEL 9
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL 9
+http://188.241.218.14:8070/faucontv/RETORVY0fvyp5RPX/69344
 
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
