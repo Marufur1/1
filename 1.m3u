@@ -42,14 +42,14 @@ https://bdcast-sec.b-cdn.net/bcdn_token=fUxKF6OKBcEfpSJ2kWvQwD10Ta8NSWSP5BJVJAOi
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1,MAASRANGA TV official
-http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAASRANGA TV https://bdcast-origin.b-cdn.net
 https://bdcast-origin.b-cdn.net/live/maasranga.m3u8
 #EXTINF:-1,MAASRANGA TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/mass.stream/chunks.m3u8
 
 #EXTINF:-1,SA TV
-http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1,SA TV https://bdcast-sec.b-cdn.net
 https://bdcast-sec.b-cdn.net/bcdn_token=8rHyYFmKgYLc8KxxbgCZZXHhi6F97VTvKtX7xz-iPNI&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1666987425/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
@@ -127,8 +127,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1,JAGONEWS 24 TV
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
+#EXTINF:-1,b24c TV
+http://iptvbd.jagobd.com:1931/live-orgin/b24c.stream/chunks.m3u8
+
 #EXTINF:-1,PEN TV
-http://iptvbd.jagobd.com:1931/live-orgin/boulive.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/b24c.stream/playlist.m3u8
 
 #EXTINF: -1,NRB TV
 http://iptvbd.jagobd.com:1931/live-orgin/nrb-eu.stream/chunks.m3u8
