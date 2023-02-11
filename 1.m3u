@@ -280,7 +280,13 @@ http://14.128.12.154:25461/live/test/test/2.m3u8
 http://208.86.19.13:81/504.stream/index.m3u8
 -----------------------------------------------------------
 #EXTINF:-1,BTV Apps
-http://103.106.2.152:13456/btv.m3u8
+https://smallscreen.net/tvviewer/635e5c192c429260db4b5d76
+#EXTINF:-1,BTV Apps
+https://smallscreen.net/tv/secure/live/btv/7a0wZ7tqNgYoxkCX7Xb1oQ/1676179782/1080p.m3u8
+#EXTINF:-1,BTV Apps
+https://smallscreen.net/tv/secure/live/btv/7a0wZ7tqNgYoxkCX7Xb1oQ/1676179782/1080p.m3u8 [Refer https://smallscreen.net/tvviewer/635e5c192c429260db4b5d76]
+#EXTINF:-1,BTV Apps
+https://smallscreen.net/tv/secure/live/btv/7a0wZ7tqNgYoxkCX7Xb1oQ/1676179782/1080p.m3u8[Refer https://smallscreen.net/tvviewer/635e5c192c429260db4b5d76]
 #EXTINF:-1,BTV WORLD Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1,BTV WORLD Apps
