@@ -31,6 +31,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,N TV
+https://edge4.bioscopelive.com/hls/anonymous/xs-7-UucyNuwcGw_hmM8iA/1676137572/live-n-tv_hi/index.m3u8
 
 #EXTINF:-1,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -58,7 +59,7 @@ https://bdcast-sec.b-cdn.net/bcdn_token=8rHyYFmKgYLc8KxxbgCZZXHhi6F97VTvKtX7xz-i
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
 
 #EXTINF:-1,NAGORIK TV
-http://epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=225719&extension=ts&play_token=gFQW8yGsg0
+https://bldcmprod-cdn.toffeelive.com/cdn/live/nagorik_tv_hd/playlist.m3u8
 
 #EXTINF:-1,CHANNEL 9
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
@@ -299,6 +300,8 @@ http://103.106.2.152:13456/sangsad.m3u8
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2281.ts
 #EXTINF:-1,Star Jalsha HD
 http://102.222.232.18:9981/stream/channelid/1504925537
+#EXTINF:-1,Star Jalsha HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/star_jalsha/playlist.m3u8
 
 #EXTINF:-1,Zee Bangla HD
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=800&e=.m3u8
@@ -359,7 +362,8 @@ https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,GAAN BANGLA https://bdcast-sec.b-cdn.net
 https://bdcast-sec.b-cdn.net/bcdn_token=psnGBVoiapRED0L2Hb93-nTodbJdbQFuFaca8rm2nk0&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1664565790/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-
+#EXTINF:-1,GAAN BANGLA
+https://live.bongobd.com/hls/owLLNcKm2KP-LiJ-uSsAbA/1676126534/gaan_bangla_hi/index.m3u8
 #EXTINF:-1,Sangeet Bangla
 
 #EXTINF:-1,Bangla Talkies
@@ -397,6 +401,9 @@ http://my-iptv.mk/play/live.php?mac=00:1A:79:B6:3C:59&stream=225832&extension=m3
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://watchindia.net:8880/live/62379/61325/790.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ngc_sd/playlist.m3u8
+
 #EXTINF:-1,TravelXP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Travelxp HD
@@ -409,6 +416,8 @@ http://watchindia.net:8880/live/62379/61325/792.m3u8
 http://190.83.119.67:8000/play/a0sb/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://190.83.119.67:8000/play/a0q4/index.m3u8
+#EXTINF:-1,Animal Planet HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
 
 #EXTINF:-1,TLC
 http://190.83.119.67:8000/play/a0sd/index.m3u8
@@ -433,6 +442,7 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/789.ts
 http://us-e1.watchindia.net:8880/live/62379/61325/789.m3u8
 
 #EXTINF:-1,Fox Life HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/fox_life/playlist.m3u8
 
 #EXTINF:-1,History HD
 http://190.83.119.67:8000/play/a0px/index.m3u8
