@@ -25,6 +25,14 @@ http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u
 
 #EXTINF:-1,CHANNEL I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL I iScreen
+https://stream.rockstreamer.com/master.m3u8
+#EXTINF:-1,CHANNEL I iScreen
+https://stream.rockstreamer.com/master_720p.m3u8
+#EXTINF:-1,CHANNEL I iScreen
+https://stream.rockstreamer.com/master_480p.m3u8
+#EXTINF:-1,CHANNEL I iScreen
+https://stream.rockstreamer.com/master_360p.m3u8
 
 #EXTINF:-1,ATN BANGLA
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -620,6 +628,8 @@ http://118.179.215.45:8000/;stream/1
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dbNaIjP.png" group-title="FM Radio", Radio Dhoni (91.2)
 http://103.148.172.30:1020/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbNaIjP.png" group-title="FM Radio", Radio Dhoni (91.2)
+https://stream-14.zeno.fm/ybf1umk1k18uv?zs=bzDiu7IWQ5GSL0AXW9Uzag
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UDrB3Z9.png" group-title="FM Radio", Radio Shadhin (92.4)
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oCqZq70.png" group-title="FM Radio", Radio Mirchi (98.3)
