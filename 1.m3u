@@ -135,6 +135,8 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1,T SPORTS HD http://humiptv.live
 http://humiptv.live:8080/live/arijit38815/A437638815/52500.m3u8
+#EXTINF:-1,Sky SPORTS HD
+https://es3.quest123.top:8088/live/webcrice09/playlist.m3u8?vidictid=194271157228&id=116730&pk=0280e2f518e69f9d75601895517f537273e776b2565fdbfe559fa2cc23aef9ba5079c3834cc45c0aceb25a7df0e173d4f0fe17546873366a350c55e2c7402ad1
 
 #EXTINF:-1,Duronto Tv
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
