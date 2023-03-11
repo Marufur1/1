@@ -122,12 +122,8 @@ https://bdcast-sec.b-cdn.net/bcdn_token=JEq8hXSoZC11aYMxL9q_lrMdWvmIIEv7vNwKeqs6
 #EXTINF:-1,MOHONA TV
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1,BPL
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/cv3UtWaETc8KSxZ7hDqHZfDW-EegP7GvlEu2W6w_Ddp1rAy9KiIbFF-SCE_JupXj-DiezTb13bUiHCMbNA2zhg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?token=https://t.me/freesports4all
-#EXTINF:-1,BPL toffee
-https://mprod-cdn.toffeelive.com/ilt20/channel-1/index.m3u8
-#EXTINF:-1,BPL
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
+#EXTINF:-1,gtv
+http://103.109.56.116/live/skyfeed1015/index.m3u8
 
 #EXTINF:-1,T SPORTS HD
 https://live.tsports.com/live/tsports_live_720/index.m3u8
@@ -454,18 +450,26 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/ngc_sd/playlist.m3u8
 
 #EXTINF:-1,TravelXP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,xlpore HD
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Travelxp HD
 http://humiptv.live:8080/live/arijit38815/A437638815/20622.ts
 #EXTINF:-1,Travelxp HD
 http://humiptv.live:8080/live/arijit38815/A437638815/20622.m3u8
 #EXTINF:-1,Travelxp HD
 http://watchindia.net:8880/live/62379/61325/792.m3u8
+
+#EXTINF:-1,Animal Planet HD
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1,Animal Planet HD
 http://190.83.119.67:8000/play/a0sb/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://190.83.119.67:8000/play/a0q4/index.m3u8
 #EXTINF:-1,Animal Planet HD
 https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
+
+#EXTINF:-1,wild-earth
+https://wildearth-roku.amagi.tv/master.m3u8
 
 #EXTINF:-1,TLC
 http://190.83.119.67:8000/play/a0sd/index.m3u8
@@ -626,6 +630,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1,NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 
+#EXTINF:-1,global-fashion
+http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:-1,ftv_paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b1150000_t64NDgwcA==.m3u8
 #EXTINF:-1,fashiontv-01
