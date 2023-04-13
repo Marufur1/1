@@ -123,6 +123,7 @@ https://bdcast-sec.b-cdn.net/bcdn_token=JEq8hXSoZC11aYMxL9q_lrMdWvmIIEv7vNwKeqs6
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1,gtv
+https://tv.rohabtv.stream/GTV/tracks-v1/index.fmp4.m3u8?token=85cc47acf8bbcfa42d6ee6edbe9bbbf303c73bf0-377e89408a0c60d0c9e5d1ef7e800ef0-1681365794-1681363994
 
 #EXTINF:-1,T SPORTS HD
 https://live.tsports.com/live/live_01_720/index.m3u8
@@ -222,6 +223,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 -----------------------------------------------------------
 #EXTINF:-1,Star Jalsha HD
+https://tv.rohabtv.stream/Star-jalsha/tracks-v1/index.fmp4.m3u8?token=05c9c00db4cfc88297aec586da8f64b19d0eb537-56357e68f3daabb159dc6472158ac5b6-1681365976-1681364176
 #EXTINF:-1,Zee Bangla HD
 #EXTINF:-1,COLORS BANGLA SD
 
@@ -278,7 +280,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 #EXTINF:-1,Peace TV English
 
 #EXTINF:-1,Discovery
-
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_25.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 
 #EXTINF:-1,TravelXP HD
@@ -290,31 +292,46 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Animal Planet HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 
+#EXTINF:-1,inwild
+https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
+
 #EXTINF:-1,wild-earth
 https://wildearth-roku.amagi.tv/master.m3u8
 
 #EXTINF:-1,CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 
+#EXTINF:-1,History HD
+http://cdn.connectbr.com.br/h2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sony BBC Earth HD
+https://lin-gd-001-cf.slivcdn.com/out/v1/25027865fc9548f4928ca62a36dda585/master_5.m3u8?hdntl=exp=1681405785~acl=*~hmac=ac58dda8e592a48714824ada1ddd77ae0cf81e29930c30822b34cc2691a388dc&originpath=/linear/hls/pb/event/6bVWYIKGS0CIa-cOpZZJPQ/stream/81056830-d01c-4cbb-9c77-2616147a4ebb:SIN/variant/51788df8045d43a33bea869029fa75c1/bandwidth/934027.m3u8
+
 #EXTINF:-1,TLC
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
+
 #EXTINF:-1,Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_16.m3u8
+
+#EXTINF:-1,Food Network
+https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_14.m3u8
 
 #EXTINF:-1,Discovery TURBO
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
 
 #EXTINF:-1,Investigation Discovery
 
 #EXTINF:-1,Love nature
 
-#EXTINF:-1,Sony BBC Earth HD
 #EXTINF:-1,Fox Life HD
 
-#EXTINF:-1,History HD
 
 #EXTINF:-1,History TV18 HD
 
 #EXTINF:-1,STar Movies HD
 
 #EXTINF:-1,Sony Pix
+https://lin-gd-001-cf.slivcdn.com/out/v1/f88af37f57d94cbd8c584cd5e83d92aa/master_7.m3u8?hdntl=exp=1681406842~acl=*~hmac=6c815c71c5328b7cb009ba155eb9ed8230dbc5b34282ba7f8e74453c23609f75&originpath=/linear/hls/pb/event/x7rXWd2ERZ2tvyQWPmO1HA/stream/fb8b8951-9cd4-427d-a74e-a80f8345f8a8:SIN2/variant/c170be74eb60022d98cf119092f0da4b/bandwidth/933741.m3u8
 
 #EXTINF:-1,MN+ HD
 
@@ -326,6 +343,27 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1,Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1,Rongon TV
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w1769050152.m3u8?token=IRkoHVzG1KIPUbn3FPlCja40Fw3sts
+
+#EXTINF:-1,Sony yay
+https://lin-gd-001-cf.slivcdn.com/out/v1/556cf446f0b1457b98640c553b652a4a/master_7.m3u8?hdntl=exp=1681406248~acl=*~hmac=6db87e35b3a6b2704db4577d6d19427ecbe6f0670289c869ae835889ed7ac3ca&originpath=/linear/hls/pb/event/GPY7RqOrSkmKJ8z1GbVNhg/stream/accec7c7-05f6-4052-8e58-55b6e61ebdd2:TPE2/variant/36aa9fe22e7012c487d1803eb5ab0b3a/bandwidth/933684.m3u8
+
+#EXTINF:-1,Pogo
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1,Happy Kids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1,zoomoo
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1,ebs
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1,Carton
+http://akaram.zecast.net/akaram-live/akaramkidz/chunklist_w99325612.m3u8?nimblesessionid=129493768
 
 #EXTINF:-1,wow-tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -341,7 +379,6 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,ZEE ANMOL CINEMA
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
-
 
 #EXTINF:-1,BBC World News
 
@@ -377,6 +414,7 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (88.8)
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIIvblK.png" group-title="FM Radio", Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meR71iP.png" group-title="FM Radio", Colours FM (101.6)
