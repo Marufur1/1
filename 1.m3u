@@ -368,6 +368,12 @@ http://akaram.zecast.net/akaram-live/akaramkidz/chunklist_w99325612.m3u8?nimbles
 #EXTINF:-1,wow-tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1,ChuChu TV Nursery Rhymes
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681395777/ei/4bs3ZIPUA5Cy2_gP-5ixgAM/ip/157.55.189.40/id/rCk6qnOwQAc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgRM2-nfropydW7G_Iu7inq5tFVc-PeTnzREh8ZWjiMh4CIQDf4acAyOhnMqJIdA1lEttpOqWg-8lb12DaEkp7O5MhOQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1,Power Ranger Official
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681395777/ei/4bs3ZNrNHIGMjQTAgqmICw/ip/157.55.189.40/id/ooPdxvEidyg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO7lttyf6X4q7VW8D-78elhTtVY7y2oi1E_AQLLo1LtaAiEA1NwK8vf02LclItrQ2UbG6o7B_smmCAWfGpf8r8cBDaI%3D/file/index.m3u8
+
 #EXTINF:-1,Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
@@ -384,6 +390,8 @@ http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,AlJazeera
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681395756/ei/zLs3ZNK-KMiYjQS1ga3gBA/ip/157.55.189.40/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKxn5zQHqAip-y0Qk6gvETkJThPuSVQTD81UsxUWrn3qAiB2AtTEvA5BtMdtvO49PUMg2l2LH-hmSXDgqLWj-M6olA%3D%3D/file/index.m3u8
 
 #EXTINF:-1,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
