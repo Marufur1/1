@@ -46,7 +46,7 @@ https://bdcast-sec.b-cdn.net/bcdn_token=hM89WmwTpDSQlicZMo5KZkPC_WStJHPVHxeNAowE
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,N TV
-
+http://on.deflix.xyz:8880//live/maruf60/maruf2559/1296.m3u8
 #EXTINF:-1,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,RTV Official https://stream.cstfctg.com
@@ -117,7 +117,6 @@ https://bdcast-sec.b-cdn.net/bcdn_token=JEq8hXSoZC11aYMxL9q_lrMdWvmIIEv7vNwKeqs6
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1,gtv
-https://tv.rohabtv.stream/GTV/tracks-v1/index.fmp4.m3u8?token=85cc47acf8bbcfa42d6ee6edbe9bbbf303c73bf0-377e89408a0c60d0c9e5d1ef7e800ef0-1681365794-1681363994
 
 #EXTINF:-1,T SPORTS HD
 https://live.tsports.com/live/live_01_720/index.m3u8
