@@ -46,7 +46,6 @@ https://bdcast-sec.b-cdn.net/bcdn_token=hM89WmwTpDSQlicZMo5KZkPC_WStJHPVHxeNAowE
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,N TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677115652/ei/pGz2Y8CDJebjjuMPsNiS2As/ip/113.11.100.165/id/TkJOWuTkdDE.1/source/yt_live_broadcast/requiressl/yes/tx/24468683/txs/24468683%2C24468684%2C24468685%2C24468686%2C24468687%2C24468688%2C24468689/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTPf_P6XqQnMQg62pxnoKzX11LWJngULpksJ7CL115oMCIQCM4J6laawqPMSO_AwpiSLDW4hWCWSBH8iMqvdmnZrimQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -62,8 +61,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAASRANGA TV BDCast
 https://bdcast-sgp.b-cdn.net/live/maasranga.m3u8
-#EXTINF:-1,MAASRANGA TV Jagobd
-http://iptvbd.jagobd.com:1931/live-orgin/mass.stream/chunks.m3u8
 
 #EXTINF:-1,SA TV
 http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -74,17 +71,14 @@ https://bdcast-sec.b-cdn.net/bcdn_token=8Y3g8CDYrgcE7HfrASLJnCtoqEDGiNe8Y6xXrKE9
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
 
 #EXTINF:-1,NAGORIK TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/nagorik_tv_hd/playlist.m3u8
+
 
 #EXTINF:-1,CHANNEL 9
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL 9
-http://188.241.218.14:8070/faucontv/RETORVY0fvyp5RPX/69344
+
 
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,EKUSHEY Jagobd
-http://iptvbd.jagobd.com:444/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
 #EXTINF:-1,EKUSHEY BDCast
 https://bdcast-sec.b-cdn.net/bcdn_token=cVTUdCtHUqBF5hq1O91xL2jrKz92hfYdergK4MCFO3Q&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677173281/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekusheytv-8-org.stream/chunks.m3u8
 
