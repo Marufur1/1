@@ -47,6 +47,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,N TV
 http://on.deflix.xyz:8880//live/maruf60/maruf2559/1296.m3u8
+
 #EXTINF:-1,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,RTV Official https://stream.cstfctg.com
@@ -130,6 +131,7 @@ https://live.tsports.com/live/live_01_480/index.m3u8
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1,GLOBAL TV
+https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1,Green TV
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
@@ -200,6 +202,7 @@ https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
 
 #EXTINF:-1,MATRI BHUMI
 http://tv.anwarlinkisp.com:1895/live/bangladesh/chunklist_w632900092.m3u8
+
 #EXTINF:-1,MATRI BHUMI
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 
@@ -214,12 +217,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1,BTV WORLD BDCast
 https://bdcast-sec.b-cdn.net/bcdn_token=9GRWfMuUl6sjimeEOK0z7TcFMFYtK9pXHOO6MmWHnIw&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MTc6MDQgUE0maGFzaF92YWx1ZT1PUUZvbkR2WE5TODRrckdObTdtNHF3PT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677172625/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
-#EXTINF:-1,Btv Chittagong Jagobd
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-
 -----------------------------------------------------------
 #EXTINF:-1,Star Jalsha HD
-https://tv.rohabtv.stream/Star-jalsha/tracks-v1/index.fmp4.m3u8?token=05c9c00db4cfc88297aec586da8f64b19d0eb537-56357e68f3daabb159dc6472158ac5b6-1681365976-1681364176
 #EXTINF:-1,Zee Bangla HD
 #EXTINF:-1,COLORS BANGLA SD
 
