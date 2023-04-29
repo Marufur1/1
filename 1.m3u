@@ -4,6 +4,8 @@
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Somoy TV BDCast
 https://bdcast-sec.b-cdn.net/bcdn_token=LaRUxv-8knmBi7YxNxzg4MiCjayKzjro7Zexih3Y3YM&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677171777/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1,Somoy TV youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682778823/ei/Z9ZMZPOyCbjLjuMPuK6iqAE/ip/202.51.176.58/id/DCjosyo1CWU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZQdbggXh8Vgd7RNJiJqHN1Xfvgi-cv52yAzxipuI5TACIH9KhjHuzEY49tjWZaRltjgmQNaoqvxqX7Dc9xXgG6B9/file/index.m3u8
 
 #EXTINF:-1,INDEPENDENT TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
@@ -14,24 +16,34 @@ https://bdcast-sec.b-cdn.net/bcdn_token=OPGxEiHo--WBfGdvbZRMy-gyionrb-Y6j_YHqCO-
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1,NEWS24 BDCast
 https://bdcast-sec.b-cdn.net/bcdn_token=jqSQriz9Q3GdINIu_EVyWGbT6XyoA4oRnY2R7mkzSrw&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677174135/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:-1,NEWS24 youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682787000/ei/WPZMZPT5Ir_MjuMPkI296A0/ip/202.51.176.58/id/0XUiYdGtn-s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBXc-tt0SonmqfPrfQuvD50KMz3aWM5VjSNUvDk2la5MCIBENtso0Xbyezo00nzyn2Q-dZ-q9Kc9ydGg3tdN9AQLD/file/index.m3u8
 
 #EXTINF:-1,DBC NEWS
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,DBC NEWS DBCast
 https://bdcast-sec.b-cdn.net/bcdn_token=wNuSfg2xhezDxNQVIlt_Q0tIz0WecWZz-nwyL-1HGF8&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677173128/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF:-1,DBC NEWS youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682786827/ei/q_VMZK34IciFjuMP_am62Ag/ip/202.51.176.58/id/veoDOMvzngo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbqJf6HTHuCja8Y2FaaEcWjhYqvYoYNycalFXLhGh9ucCIQCX4WSlaQQ_xE_nZZc8IEB7aF1llLUkpXRcT3xG14EWEQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1,CHANNEL 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL 24 BDCast
 https://bdcast-sec.b-cdn.net/bcdn_token=QzOgjzf-meu-bkV4gaoslpj916S802sTa0n9dq9TkjI&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677172843/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL 24 youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682779427/ei/w9hMZMm-MrCNjuMP3IC4mA0/ip/202.51.176.58/id/gCcswKVFJg0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSWSK8M02_619v6ucdS-yffKStEdBDKiNIreRmFHns_0CIQDk18EYZjS2Hoa427Mp7buvUp7oADiG_UiuDIbkODhuEw%3D%3D/file/index.m3u8
 
 #EXTINF:-1,ATN NEWS
 http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1,ATN NEWS youtube
+https://manifest.googlevideo.com/api/manifest/dash/expire/1682787315/ei/k_dMZMbBCqif3LUP9Oi1-A4/ip/202.51.176.58/id/v8SIO2ABKDw.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPryLr2hAJ2TFbF31UPNDwPNyq3hYvx5PAuPsyKZev9fAiEArsdiGXqPJTEZmYT3ejezTFbaLAwtveazzj2BTwjY2SU%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682787315/ei/k_dMZMbBCqif3LUP9Oi1-A4/ip/202.51.176.58/id/v8SIO2ABKDw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcoBNjZwmUlYL2uYbYhy-i3xpbmcZr1OVPFzgL5uVwTMCIEr65aHKTwIM0zmjJLKnXV8qsIntoR-OMmTWRVHbIwoK/file/index.m3u8
 
 #EXTINF:-1,JAMUNA TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,JAMUNA TV
 https://bdcast-sec.b-cdn.net/bcdn_token=bXGFGWy4F0dI9k6ujjTRdHLzfwZd0EoFQwuwtSAw5os&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MzQ6MTQgUE0maGFzaF92YWx1ZT1JQjVxdXBCY24yQ1EzS0tCcFJJOVJRPT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677173655/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1,JAMUNA TV youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682779681/ei/wdlMZNPUFJHnjuMP64SfyAU/ip/202.51.176.58/id/tG6j4sCaez8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALqeDfj-bsP7YSLOEKQvmHmoForOfaSjcCAcYysXlKtTAiBkoMMWi4eFUAP_als_acQ882gx7zjptHfM36xBclwwuQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1,EKATTOR TV
 
@@ -41,6 +53,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 https://stream.rockstreamer.com/121212.m3u8
 #EXTINF:-1,CHANNEL I BDCast
 https://bdcast-sec.b-cdn.net/bcdn_token=hM89WmwTpDSQlicZMo5KZkPC_WStJHPVHxeNAowEz2c&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MjM6NDEgUE0maGFzaF92YWx1ZT1WOGZrc05hTUJUVnJ6K0QvNkliM0RBPT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677173022/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL I youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682787638/ei/1vhMZOuOI56hjuMPm8uByA8/ip/202.51.176.58/id/XOZVZW8MZ3A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJnuqA4yyt5djtjS-Iwq-M0-pVmrL_uQiZJkd_tjOWc4CIDJFdTLMduTBx2RwyiEf5Z7SUOLk65UdJP9SSEF0DnWY/file/index.m3u8
+#EXTINF:-1,CHANNEL I youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682788128/ei/wPpMZM-mAdSPjuMPrty24A4/ip/202.51.176.58/id/z27otX5ba3o.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVTD4-yvp8Zrt9b1LCje06AwmGZmX6lwvnlzCT_uryTQCIQCxKZTEl5d4OqJFoFMZysqS8kw0D_uhenfgfCVjjCKGpA%3D%3D/file/index.m3u8
 
 #EXTINF:-1,ATN BANGLA
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -54,9 +70,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1,RTV BDCast
 https://bdcast-sec.b-cdn.net/bcdn_token=Gp1TDwydP7K91Dt6Ivyq9m-7q6oWavcpFUyNzoKUB9c&token_path=%2Fjago%2F0&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6NDQ6MzIgUE0maGFzaF92YWx1ZT1SK1JTeStxbTd3SCtHTnFFT0hwNWxBPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU%3D&expires=1677174272/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1,RTV youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682779134/ei/ntdMZMLuM6Wjmge545OQCA/ip/202.51.176.58/id/Oa_Ipedo8YM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEGCSuMjsz47jgvO5Cbigcq1ONTWxXlYOaTx5bgtY8iUCIHU-rpmxRdku6bfv8gNzJBhsEc_lcyed9nz1vSdSq6tV/file/index.m3u8
 
 #EXTINF:-1,BANGLA VISION
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1,BANGLA VISION youtube
+https://manifest.googlevideo.com/api/manifest/dash/expire/1682787485/ei/PfhMZIaKJ7Wnz7sP86eFqAE/ip/202.51.176.58/id/1kCg-VN_ta8.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMW-zOR7c6ZdWQ3exLxVeJ7QnVTgLsqvwH2a3nf-8ZR0AiEAk4K0yIt_0rfN7hNISO6tqFS1JZ4ld41OhnP4jX97PN0%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682787485/ei/PfhMZIaKJ7Wnz7sP86eFqAE/ip/202.51.176.58/id/1kCg-VN_ta8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMXaevHLEqAXGwORWs88WWwsadEkD_miVQUwL6rc34VEAiBSxf25itLDLTUkJulySZ7SLwMVELMj6-QIJ3FvecJzbQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1,MAASRANGA TV official
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -118,6 +138,7 @@ https://bdcast-sec.b-cdn.net/bcdn_token=JEq8hXSoZC11aYMxL9q_lrMdWvmIIEv7vNwKeqs6
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1,gtv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682788479/ei/H_xMZPuLLd_Jz7sPpIOHyAk/ip/202.51.176.58/id/mQHh5f8w8VI.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLXawODd9xZ17W4jr-QbvEbIR09D0ypmRWWV60WmgVB4CIB3JFj20r85iH-nkL4AYB2WnInljeutqjbSbzfMZ_K_W/file/index.m3u8
 
 #EXTINF:-1,T SPORTS HD
 https://live.tsports.com/live/live_01_720/index.m3u8
@@ -137,6 +158,7 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 
 #EXTINF:-1,Ekhon TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682787997/ei/PfpMZP_QE_W48QPJwar4AQ/ip/202.51.176.58/id/yEx8PrxbC0E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMKv7u-CJd2nVbhJDr1gyXdwHLaet6iiVcP69cq-gHR1AiAwJKw5TBGkxbEggwB3kw4NxjL2C5myr4YtX_QqVJPsuA%3D%3D/file/index.m3u8
 
 #EXTINF:-1,JAGONEWS 24 TV
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
