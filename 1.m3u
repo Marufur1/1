@@ -137,14 +137,17 @@ https://bdcast-sec.b-cdn.net/bcdn_token=JEq8hXSoZC11aYMxL9q_lrMdWvmIIEv7vNwKeqs6
 #EXTINF:-1,MOHONA TV
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1,gtv
+#EXTINF:-1,GAZI
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682788479/ei/H_xMZPuLLd_Jz7sPpIOHyAk/ip/202.51.176.58/id/mQHh5f8w8VI.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLXawODd9xZ17W4jr-QbvEbIR09D0ypmRWWV60WmgVB4CIB3JFj20r85iH-nkL4AYB2WnInljeutqjbSbzfMZ_K_W/file/index.m3u8
+#EXTINF:-1,GAZI
+https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/835553536.m3u8
 
 #EXTINF:-1,T SPORTS HD
 https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF:-1,T SPORTS
 https://live.tsports.com/live/live_01_480/index.m3u8
-
+#EXTINF:-1,T SPORTS
+https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/835542865.m3u8
 
 #EXTINF:-1,Duronto Tv
 
