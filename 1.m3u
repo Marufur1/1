@@ -218,6 +218,9 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 ---------------------------------------------------------
 #EXTINF:-1,BTV WORLD Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1,BTV
+http://209.58.168.113:1935/live/BTV/playlist.m3u8
+
 #EXTINF:-1,BTV WORLD BDCast
 https://bdcast-sec.b-cdn.net/bcdn_token=9GRWfMuUl6sjimeEOK0z7TcFMFYtK9pXHOO6MmWHnIw&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MTc6MDQgUE0maGFzaF92YWx1ZT1PUUZvbkR2WE5TODRrckdObTdtNHF3PT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677172625/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
