@@ -117,18 +117,12 @@ https://bdcast-sec.b-cdn.net/bcdn_token=JEq8hXSoZC11aYMxL9q_lrMdWvmIIEv7vNwKeqs6
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1,GAZI
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682788479/ei/H_xMZPuLLd_Jz7sPpIOHyAk/ip/202.51.176.58/id/mQHh5f8w8VI.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLXawODd9xZ17W4jr-QbvEbIR09D0ypmRWWV60WmgVB4CIB3JFj20r85iH-nkL4AYB2WnInljeutqjbSbzfMZ_K_W/file/index.m3u8
-#EXTINF:-1,GAZI
-https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/835553536.m3u8
-#EXTINF:-1,GAZI##
-http://103.190.35.2:8082/GAZI/tracks-v1a1/index.m3u8
+https://rohabtv.musajeeb.online/GTV/tracks-v1/index.fmp4.m3u8?token=aece435c8ea9ea9aef9e2deb0eb72b1bc4bb5e9b-e028557973eff2de0fc03109ceeb290c-1688816102-1688805302
 
 #EXTINF:-1,T SPORTS HD
-https://live.tsports.com/live/live_01_720/index.m3u8
-#EXTINF:-1,T SPORTS
-https://live.tsports.com/live/live_01_480/index.m3u8
-#EXTINF:-1,T SPORTS
-https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/835542865.m3u8
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1,T SPORTS HD
+https://rohabtv.musajeeb.online/T-Sports-HD/tracks-v1/index.fmp4.m3u8?token=11a96fc245085b97b0ade4a94a0c405d2d569013-b766d0340348954eaff6a8641a32eac3-1688816229-1688805429
 
 #EXTINF:-1,Duronto Tv
 
@@ -151,6 +145,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/b24c.stream/chunks.m3u8
 
 #EXTINF:-1,PEN TV
+http://iptvbd.jagobd.com:1931/live-orgin/boulive.stream/chunks.m3u8
 
 #EXTINF: -1,NRB TV
 http://iptvbd.jagobd.com:1931/live-orgin/nrb-eu.stream/chunks.m3u8
@@ -220,6 +215,7 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 ---------------------------------------------------------
 #EXTINF:-1,BTV WORLD Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+
 #EXTINF:-1,BTV
 http://209.58.168.113:1935/live/BTV/playlist.m3u8
 
@@ -295,9 +291,9 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 #EXTINF:-1,Discovery
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_25.m3u8
 #EXTINF:-1,Discovery
-https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/835575634.ts
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF:-1,Discovery
-http://103.141.2.37:25461/live/web/web/540.m3u8
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/835575635.ts
@@ -327,6 +323,8 @@ https://lin-gd-001-cf.slivcdn.com/out/v1/25027865fc9548f4928ca62a36dda585/master
 
 #EXTINF:-1,TLC
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
+#EXTINF:-1,TLC
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_15.m3u8
 
 #EXTINF:-1,Discovery Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_16.m3u8
