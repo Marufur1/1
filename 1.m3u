@@ -7,40 +7,26 @@ https://bdcast-sec.b-cdn.net/bcdn_token=LaRUxv-8knmBi7YxNxzg4MiCjayKzjro7Zexih3Y
 
 #EXTINF:-1,INDEPENDENT TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1,INDEPENDENT TV BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=OPGxEiHo--WBfGdvbZRMy-gyionrb-Y6j_YHqCO-Z0s&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677173536/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,NEWS24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1,NEWS24 BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=jqSQriz9Q3GdINIu_EVyWGbT6XyoA4oRnY2R7mkzSrw&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677174135/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
 #EXTINF:-1,DBC NEWS
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1,DBC NEWS DBCast
-https://bdcast-sec.b-cdn.net/bcdn_token=wNuSfg2xhezDxNQVIlt_Q0tIz0WecWZz-nwyL-1HGF8&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677173128/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1,CHANNEL 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL 24 BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=QzOgjzf-meu-bkV4gaoslpj916S802sTa0n9dq9TkjI&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677172843/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1,ATN NEWS
 http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1,JAMUNA TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,JAMUNA TV
-https://bdcast-sec.b-cdn.net/bcdn_token=bXGFGWy4F0dI9k6ujjTRdHLzfwZd0EoFQwuwtSAw5os&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MzQ6MTQgUE0maGFzaF92YWx1ZT1JQjVxdXBCY24yQ1EzS0tCcFJJOVJRPT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677173655/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1,EKATTOR TV
 
 #EXTINF:-1,CHANNEL I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL I iScreen
-https://stream.rockstreamer.com/live/121212.m3u8
-#EXTINF:-1,CHANNEL I BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=hM89WmwTpDSQlicZMo5KZkPC_WStJHPVHxeNAowEz2c&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MjM6NDEgUE0maGFzaF92YWx1ZT1WOGZrc05hTUJUVnJ6K0QvNkliM0RBPT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677173022/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,ATN BANGLA
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -49,69 +35,47 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1,RTV Official https://stream.cstfctg.com
-https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
-#EXTINF:-1,RTV BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=Gp1TDwydP7K91Dt6Ivyq9m-7q6oWavcpFUyNzoKUB9c&token_path=%2Fjago%2F0&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6NDQ6MzIgUE0maGFzaF92YWx1ZT1SK1JTeStxbTd3SCtHTnFFT0hwNWxBPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU%3D&expires=1677174272/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-1,BANGLA VISION
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1,MAASRANGA TV official
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MAASRANGA TV BDCast
-https://bdcast-sgp.b-cdn.net/live/maasranga.m3u8
 
 #EXTINF:-1,SA TV
 http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1,SA TV https://bdcast-sec.b-cdn.net
-https://bdcast-sec.b-cdn.net/bcdn_token=8Y3g8CDYrgcE7HfrASLJnCtoqEDGiNe8Y6xXrKE9Pl0&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677168207/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8?nimblesessionid=32948662
 
 #EXTINF:-1,Boishakhi TV
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
 
 #EXTINF:-1,NAGORIK TV
 
-
 #EXTINF:-1,CHANNEL 9
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 
-
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,EKUSHEY BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=cVTUdCtHUqBF5hq1O91xL2jrKz92hfYdergK4MCFO3Q&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677173281/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekusheytv-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,DESH TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1,DEEPTO TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1,DEEPTO TV BDCast
-https://bdcast-sec.b-cdn.net/direct/87.117.234.51:8554/pose/deeptotvhd/chunks.m3u8?nimblesessionid=41715227&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MDg6MTcgUE0maGFzaF92YWx1ZT10THRwRExCb1JXNmpEcXZHN1ZPVUdRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1,MY TV
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1,MY TV BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=mDMOweqvmRX72DUHn7jNXvNGsHF-IJdyK7Bj2ASTvVM&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDU6MDQ6MDEgUE0maGFzaF92YWx1ZT0yend6Nkt4QTNOa2pQR3J1MDU4WU5BPT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677175442/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8?nimblesessionid=1105113629
 
 #EXTINF:-1,ASIAN TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1,ASIAN TV BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=sU1x6FOkoAnv8odO5MF9fvqERy-9Dt2s7uL2wDu2VfI&token_path=%2Fjago%2F0&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MTI6NTQgUE0maGFzaF92YWx1ZT14TlQ1S1BKTEkwS0FnTEc0enB2RitRPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU%3D&expires=1677172374/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1,Ananda TV
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1,BIJOY TV
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:-1,BIJOY TV BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=yf2hG60bYruMEaIDGDyruFafARQuWK_hC-wAGtD9V58&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677175048/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1,BANGLA TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1,BANGLA TV BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=JEq8hXSoZC11aYMxL9q_lrMdWvmIIEv7vNwKeqs6_Ao&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677174946/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1,MOHONA TV
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -298,6 +262,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 
 #EXTINF:-1,Peace TV English
 
+#EXTINF:-1,Discovery
+http://103.141.2.37:25461/live/web/web/540.m3u8
 #EXTINF:-1,Discovery
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_25.m3u8
 #EXTINF:-1,Discovery
