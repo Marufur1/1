@@ -2,8 +2,6 @@
 
 #EXTINF:-1,Somoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1,Somoy TV BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=LaRUxv-8knmBi7YxNxzg4MiCjayKzjro7Zexih3Y3YM&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677171777/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1,INDEPENDENT TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
@@ -84,6 +82,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1,GAZI
 https://rohabtv.musajeeb.online/GTV/tracks-v1/index.fmp4.m3u8?token=aece435c8ea9ea9aef9e2deb0eb72b1bc4bb5e9b-e028557973eff2de0fc03109ceeb290c-1688816102-1688805302
+#EXTINF:-1,GAZI
+http://103.102.27.173/live/tvfeed1002/index.m3u8
 
 #EXTINF:-1,T SPORTS HD
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
