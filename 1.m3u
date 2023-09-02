@@ -2,15 +2,21 @@
 
 #EXTINF:-1,Somoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1,Somoy TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDQsp5MStk73DKDOK54hBL7A/m3u8
 
 #EXTINF:-1,INDEPENDENT TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,NEWS24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1,NEWS24
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDYsdZLZQHfCmZY55r54fdbw/m3u8
 
 #EXTINF:-1,DBC NEWS
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1,DBC NEWS
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDQXcx5laDEVxbA6nv1zkcAs/m3u8
 
 #EXTINF:-1,CHANNEL 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
@@ -20,11 +26,16 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1,JAMUNA TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1,JAMUNA TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDdarDczw6W2I0Fie7fiGHLw/m3u8
 
 #EXTINF:-1,EKATTOR TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDYwnvr4xQCUfxjoLY4FQgUk/m3u8
 
 #EXTINF:-1,CHANNEL I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL I
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDXPrdfugLk1xKYEZwc5hcxw/m3u8
 
 #EXTINF:-1,ATN BANGLA
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -33,15 +44,23 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1,RTV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDVvLJq7FFkhOkxwhcN16GKY/m3u8
 
 #EXTINF:-1,BANGLA VISION
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1,BANGLA VISION
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDeZ36ye3YGg4m66dLPYgSWE/m3u8
 
 #EXTINF:-1,MAASRANGA TV official
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MAASRANGA TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDfDYHwlj_EL0xOFuSjBVTks/m3u8
 
 #EXTINF:-1,SA TV
 http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1,SA TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDZPtVdos-tKUVwBmEZ1690M/m3u8
 
 #EXTINF:-1,Boishakhi TV
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
@@ -59,9 +78,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1,DEEPTO TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1,DEEPTO TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDQqUV7IVni6Km6yybCOdTbY/m3u8
 
 #EXTINF:-1,MY TV
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1,MY TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDWDY5HyI0XyZjdgg_430uTA/m3u8
 
 #EXTINF:-1,ASIAN TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -71,9 +94,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1,BIJOY TV
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:-1,BIJOY TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDdXh46ZIz7wFZnYbOQQeMiU/m3u8
 
 #EXTINF:-1,BANGLA TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1,BANGLA TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDZNnQ4TmRR7tmCU4ySO9awE/m3u8
 
 #EXTINF:-1,MOHONA TV
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -89,10 +116,10 @@ http://103.102.27.173/live/tvfeed1002/index.m3u8
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1,T SPORTS HD
 https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1,T SPORTS HD sonyplex
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDUdgoGsjPtzDiixScpY2zcs/m3u8
 #EXTINF:-1,T SPORTS HD
 http://g4b.alwaysdata.net/tsports1080p.m3u8
-#EXTINF:-1,T SPORTS HD
-https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,T SPORTS HD
 https://rohabtv.musajeeb.online/T-Sports-HD/tracks-v1/index.fmp4.m3u8?token=11a96fc245085b97b0ade4a94a0c405d2d569013-b766d0340348954eaff6a8641a32eac3-1688816229-1688805429
 
@@ -100,15 +127,19 @@ https://rohabtv.musajeeb.online/T-Sports-HD/tracks-v1/index.fmp4.m3u8?token=11a9
 
 #EXTINF:-1,Nexus TV
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
+#EXTINF:-1,Nexus TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDTUnCT_ORlXjug0jfiXISyg/m3u8
 
 #EXTINF:-1,GLOBAL TV
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/chunks.m3u8
+#EXTINF:-1,GLOBAL TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDY7TgEN9uGEQaEPhGGvUjI0/m3u8
 
 #EXTINF:-1,Green TV
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 
 #EXTINF:-1,Ekhon TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682787997/ei/PfpMZP_QE_W48QPJwar4AQ/ip/202.51.176.58/id/yEx8PrxbC0E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMKv7u-CJd2nVbhJDr1gyXdwHLaet6iiVcP69cq-gHR1AiAwJKw5TBGkxbEggwB3kw4NxjL2C5myr4YtX_QqVJPsuA%3D%3D/file/index.m3u8
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDT0pyC07xfg25kYM9s_UOUU/m3u8
 
 #EXTINF:-1,JAGONEWS 24 TV
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
@@ -240,6 +271,9 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,GAAN BANGLA BDCast
 https://bdcast-sec.b-cdn.net/bcdn_token=3hRf91G2hxiY0gjGwzR4BCxv2Qu3Ki2wq4cOOeVEvrw&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6Mjk6MzUgUE0maGFzaF92YWx1ZT1HOHJJck1ITnpyUFZlRlY4L0RsQlpnPT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677173375/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1,GAAN BANGLA
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDXss2Y8CJrfMcDkTqYOtO1c/m3u8
+
 #EXTINF:-1,Sangeet Bangla
 
 -------------------------------------------------------------------------
@@ -381,6 +415,15 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,ZEE ANMOL CINEMA
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1,SONY SPORTS TEN 1
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDcVO16H5g_y5tsrmwFpY2qE/m3u8
+#EXTINF:-1,SONY SPORTS TEN 2
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDfpWRwrcMVStY3QGUz7q6Iw/m3u8
+#EXTINF:-1,SONY SPORTS TEN 3
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDde2KfxbUB8XiubtJn9snco/m3u8
+#EXTINF:-1,SONY SPORTS TEN 5
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDRyHfe7Ce8ayp-2hDigJYbE/m3u8
 
 #EXTINF:-1,BBC World News
 
