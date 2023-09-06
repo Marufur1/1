@@ -77,10 +77,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 
 #EXTINF:-1,GAZI
 http://113.212.111.246:8080/hls/col2.m3u8
-#EXTINF:-1,GAZI
-https://rohabtv.musajeeb.online/GTV/tracks-v1/index.fmp4.m3u8?token=aece435c8ea9ea9aef9e2deb0eb72b1bc4bb5e9b-e028557973eff2de0fc03109ceeb290c-1688816102-1688805302
-#EXTINF:-1,GAZI
-http://103.102.27.173/live/tvfeed1002/index.m3u8
 
 #EXTINF:-1,T SPORTS HD
 http://lifetvbd.xyz:8080/fahim.old/fahim112000/88
@@ -90,8 +86,6 @@ https://live.tsports.com/live/tsports_live_1080/index.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,T SPORTS HD
 http://g4b.alwaysdata.net/tsports1080p.m3u8
-#EXTINF:-1,T SPORTS HD
-https://rohabtv.musajeeb.online/T-Sports-HD/tracks-v1/index.fmp4.m3u8?token=11a96fc245085b97b0ade4a94a0c405d2d569013-b766d0340348954eaff6a8641a32eac3-1688816229-1688805429
 
 #EXTINF:-1,Duronto Tv
 
@@ -105,7 +99,6 @@ https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 
 #EXTINF:-1,Ekhon TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDT0pyC07xfg25kYM9s_UOUU/m3u8
 
 #EXTINF:-1,JAGONEWS 24 TV
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
@@ -193,38 +186,11 @@ https://bdcast-sec.b-cdn.net/bcdn_token=9GRWfMuUl6sjimeEOK0z7TcFMFYtK9pXHOO6MmWH
 
 -----------------------------------------------------------
 #EXTINF:-1,Star Jalsha HD
-http://103.141.2.37:25461/live/web/web/603.m3u8
-#EXTINF:-1,Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8?token=%40LiveSportsLinks_Official
-#EXTINF:-1,Star Jalsha HD
-http://103.141.2.37:25461/live/web/web/603.m3u8
 
-#EXTINF:-1,Zee Bangla HD
-https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/835559332.m3u8
+
 #EXTINF:-1,Zee Bangla HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/thenayeemparvez.m3u8
-
-#EXTINF:-1,COLORS BANGLA SD
-
-#EXTINF:-1,Sony Aath
-https://bdcast-events-sgp.b-cdn.net/live/sony8.m3u8?e=1677179852&st=66ckArdM6Ag_SClEPXGwpA
-#EXTINF:-1,Sun Bangla
-
-#EXTINF:-1,Akash Aath
-
-#EXTINF:-1,Sanonda TV
-http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
-
-#EXTINF:-1,Colors Bangla Cinema
-
-#EXTINF:-1,ENTER10 BANGLA
-
-#EXTINF:-1,R Plus
-
-#EXTINF:-1,Zee 24 Gonta
-https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
-
-#EXTINF:-1,ABP Ananda
 
 -------------------------------------------------------------------------
 #EXTINF:-1,ATN Music Jago
@@ -265,8 +231,6 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 #EXTINF:-1,Peace TV English
 
 #EXTINF:-1,Discovery
-http://103.141.2.37:25461/live/web/web/540.m3u8
-#EXTINF:-1,Discovery
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_25.m3u8
 #EXTINF:-1,Discovery
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
@@ -274,21 +238,14 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/835575635.ts
+
 #EXTINF:-1,TravelXP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1,xlpore HD
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,Animal Planet HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-
-#EXTINF:-1,inwild
-https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
-
-#EXTINF:-1,wild-earth
-https://wildearth-roku.amagi.tv/master.m3u8
 
 #EXTINF:-1,CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
@@ -301,8 +258,6 @@ https://lin-gd-001-cf.slivcdn.com/out/v1/25027865fc9548f4928ca62a36dda585/master
 
 #EXTINF:-1,TLC
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
-#EXTINF:-1,TLC
-https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_15.m3u8
 
 #EXTINF:-1,Discovery Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_16.m3u8
@@ -313,26 +268,6 @@ https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/i
 #EXTINF:-1,Discovery TURBO
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
 
-#EXTINF:-1,Investigation Discovery
-
-#EXTINF:-1,Love nature
-
-#EXTINF:-1,Fox Life HD
-
-
-#EXTINF:-1,History TV18 HD
-
-#EXTINF:-1,STar Movies HD
-
-#EXTINF:-1,Sony Pix
-https://lin-gd-001-cf.slivcdn.com/out/v1/f88af37f57d94cbd8c584cd5e83d92aa/master_7.m3u8?hdntl=exp=1681406842~acl=*~hmac=6c815c71c5328b7cb009ba155eb9ed8230dbc5b34282ba7f8e74453c23609f75&originpath=/linear/hls/pb/event/x7rXWd2ERZ2tvyQWPmO1HA/stream/fb8b8951-9cd4-427d-a74e-a80f8345f8a8:SIN2/variant/c170be74eb60022d98cf119092f0da4b/bandwidth/933741.m3u8
-
-#EXTINF:-1,MN+ HD
-
-#EXTINF:-1,Star World
-
-#EXTINF:-1,HBO
-
 #EXTINF:-1,Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1,Cartoon Network
@@ -340,12 +275,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1,Rongon TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w1769050152.m3u8?token=IRkoHVzG1KIPUbn3FPlCja40Fw3sts
-
-#EXTINF:-1,Sony yay
-https://lin-gd-001-cf.slivcdn.com/out/v1/556cf446f0b1457b98640c553b652a4a/master_7.m3u8?hdntl=exp=1681406248~acl=*~hmac=6db87e35b3a6b2704db4577d6d19427ecbe6f0670289c869ae835889ed7ac3ca&originpath=/linear/hls/pb/event/GPY7RqOrSkmKJ8z1GbVNhg/stream/accec7c7-05f6-4052-8e58-55b6e61ebdd2:TPE2/variant/36aa9fe22e7012c487d1803eb5ab0b3a/bandwidth/933684.m3u8
-
-#EXTINF:-1,Pogo
-http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,Happy Kids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
@@ -356,20 +285,8 @@ https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,ebs
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
 
-#EXTINF:-1,Carton
-http://akaram.zecast.net/akaram-live/akaramkidz/chunklist_w99325612.m3u8?nimblesessionid=129493768
-
 #EXTINF:-1,wow-tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1,ChuChu TV Nursery Rhymes
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681395777/ei/4bs3ZIPUA5Cy2_gP-5ixgAM/ip/157.55.189.40/id/rCk6qnOwQAc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgRM2-nfropydW7G_Iu7inq5tFVc-PeTnzREh8ZWjiMh4CIQDf4acAyOhnMqJIdA1lEttpOqWg-8lb12DaEkp7O5MhOQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1,Power Ranger Official
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681395777/ei/4bs3ZNrNHIGMjQTAgqmICw/ip/157.55.189.40/id/ooPdxvEidyg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO7lttyf6X4q7VW8D-78elhTtVY7y2oi1E_AQLLo1LtaAiEA1NwK8vf02LclItrQ2UbG6o7B_smmCAWfGpf8r8cBDaI%3D/file/index.m3u8
-
-#EXTINF:-1,Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 #EXTINF:-1,9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -486,6 +403,8 @@ https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDRyHfe7Ce8ayp-2hDigJYbE/m3
 https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDXss2Y8CJrfMcDkTqYOtO1c/m3u8
 #EXTINF:-1,GLOBAL TV
 https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDY7TgEN9uGEQaEPhGGvUjI0/m3u8
+#EXTINF:-1,Ekhon TV
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDT0pyC07xfg25kYM9s_UOUU/m3u8
 #EXTINF:-1,Nexus TV
 https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDTUnCT_ORlXjug0jfiXISyg/m3u8
 #EXTINF:-1,BANGLA TV
