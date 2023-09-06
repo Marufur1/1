@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,toffee-3
-http://lifetvbd.xyz:8080/fahim.old/fahim112000/88
 #EXTINF:-1,Somoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
@@ -32,7 +30,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-
 
 #EXTINF:-1,BANGLA VISION
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
@@ -86,11 +83,11 @@ https://rohabtv.musajeeb.online/GTV/tracks-v1/index.fmp4.m3u8?token=aece435c8ea9
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 
 #EXTINF:-1,T SPORTS HD
+http://lifetvbd.xyz:8080/fahim.old/fahim112000/88
+#EXTINF:-1,T SPORTS HD
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1,T SPORTS HD
 https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1,T SPORTS HD sonyplex
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDUdgoGsjPtzDiixScpY2zcs/m3u8
 #EXTINF:-1,T SPORTS HD
 http://g4b.alwaysdata.net/tsports1080p.m3u8
 #EXTINF:-1,T SPORTS HD
@@ -495,6 +492,8 @@ https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDTUnCT_ORlXjug0jfiXISyg/m3
 https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDZNnQ4TmRR7tmCU4ySO9awE/m3u8
 #EXTINF:-1,BIJOY TV
 https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDdXh46ZIz7wFZnYbOQQeMiU/m3u8
+#EXTINF:-1,T SPORTS HD sonyplex
+https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDUdgoGsjPtzDiixScpY2zcs/m3u8
 -----------------------------------------------------------------------------------
 For epg
 http://botallen.live/epg.xml.gz
