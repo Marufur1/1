@@ -362,55 +362,7 @@ http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SzLPkH4.png" group-title="FM Radio", Spice FM (96.4)
 http://162.254.149.187:9300/;stream.mp3
 -----------------------------------------------------------------------------------
-#EXTINF:-1,Somoy TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDQsp5MStk73DKDOK54hBL7A/m3u8
-#EXTINF:-1,NEWS24
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDYsdZLZQHfCmZY55r54fdbw/m3u8
-#EXTINF:-1,DBC NEWS
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDQXcx5laDEVxbA6nv1zkcAs/m3u8
-#EXTINF:-1,INDEPENDENT TV
-http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1,JAMUNA TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDdarDczw6W2I0Fie7fiGHLw/m3u8
-#EXTINF:-1,EKATTOR TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDYwnvr4xQCUfxjoLY4FQgUk/m3u8
-#EXTINF:-1,CHANNEL I
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDXPrdfugLk1xKYEZwc5hcxw/m3u8
-#EXTINF:-1,RTV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDVvLJq7FFkhOkxwhcN16GKY/m3u8
-#EXTINF:-1,BANGLA VISION
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDeZ36ye3YGg4m66dLPYgSWE/m3u8
-#EXTINF:-1,MAASRANGA TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDfDYHwlj_EL0xOFuSjBVTks/m3u8
-#EXTINF:-1,DEEPTO TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDQqUV7IVni6Km6yybCOdTbY/m3u8
-#EXTINF:-1,MY TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDWDY5HyI0XyZjdgg_430uTA/m3u8
-#EXTINF:-1,SA TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDZPtVdos-tKUVwBmEZ1690M/m3u8
-#EXTINF:-1,SONY SPORTS TEN 1
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDcVO16H5g_y5tsrmwFpY2qE/m3u8
-#EXTINF:-1,SONY SPORTS TEN 2
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDfpWRwrcMVStY3QGUz7q6Iw/m3u8
-#EXTINF:-1,SONY SPORTS TEN 3
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDde2KfxbUB8XiubtJn9snco/m3u8
-#EXTINF:-1,SONY SPORTS TEN 5
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDRyHfe7Ce8ayp-2hDigJYbE/m3u8
-#EXTINF:-1,GAAN BANGLA
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDXss2Y8CJrfMcDkTqYOtO1c/m3u8
-#EXTINF:-1,GLOBAL TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDY7TgEN9uGEQaEPhGGvUjI0/m3u8
-#EXTINF:-1,Ekhon TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDT0pyC07xfg25kYM9s_UOUU/m3u8
-#EXTINF:-1,Nexus TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDTUnCT_ORlXjug0jfiXISyg/m3u8
-#EXTINF:-1,BANGLA TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDZNnQ4TmRR7tmCU4ySO9awE/m3u8
-#EXTINF:-1,BIJOY TV
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDdXh46ZIz7wFZnYbOQQeMiU/m3u8
-#EXTINF:-1,T SPORTS HD sonyplex
-https://ott.sonyplex.com:444/play/xC4hk9-6g3s0XSVtu3TgDUdgoGsjPtzDiixScpY2zcs/m3u8
------------------------------------------------------------------------------------
+
 For epg
 http://botallen.live/epg.xml.gz
 
