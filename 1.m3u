@@ -18,13 +18,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1,JAMUNA TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1,EKATTOR TV
-https://premiumtvs.net:8080/live/mysbtv/mysbtv2023/428.ts
-#EXTINF:-1,EKATTOR TV
-http://188.241.219.14:25461/live/mysbtv/mysbtv2023/428.ts
-#EXTINF:-1,EKATTOR TV
-http://188.241.219.14:25461/live/mysbtv/mysbtv2023/428.ts?token=ShJcU0BbQQNHAAxdUlEHCgkFB1EHUFBUAQdQAFNdAwIDUwIDAgNWXVcbGBpEF0dcWF1vWQIXXlUDWk4VEBdWQG5ZUBAJEVAIUAwGDhVPF01QXVUSXARSWARSUwNXUwUeE0BdVhEJQQ1TCwQLFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWCgNXBxsVElNfE1sQE0hAWBUnIBEeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsADQNQAxtE
-
 #EXTINF:-1,CHANNEL I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
