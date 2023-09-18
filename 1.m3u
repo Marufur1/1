@@ -171,11 +171,13 @@ http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1,Songsod tv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/413.ts
 
+#EXTINF:-1,BTV Official
+http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1,BTV NW
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/998.ts
 -----------------------------------------------------------
 #EXTINF:-1,Star Jalsha HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8?token=%40LiveSportsLinks_Official
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1,Star Jalsha HD
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/198.ts
 #EXTINF:-1,Star Jalsha HD
