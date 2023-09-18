@@ -186,6 +186,8 @@ http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/8540.ts
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/23218.ts
 
 #EXTINF:-1,Zee Bangla HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+#EXTINF:-1,Zee Bangla HD
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/435.ts
 #EXTINF:-1,Zee Bangla HD
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/23305.ts
