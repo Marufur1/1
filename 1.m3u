@@ -101,6 +101,8 @@ https://live.tsports.com/live/tsports_live_1080/index.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,T SPORTS HD
 http://g4b.alwaysdata.net/tsports1080p.m3u8
+#EXTINF:-1,T SPORTS HD mysbtv
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/199491.ts
 
 #EXTINF:-1,Duronto Tv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/433.ts
@@ -115,6 +117,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1,Green TV
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
+
+#EXTINF:-1,GLOBAL TV
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/4231.ts
 
 #EXTINF:-1,JAGONEWS 24 TV
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
@@ -173,28 +178,43 @@ http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/998.ts
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8?token=%40LiveSportsLinks_Official
 #EXTINF:-1,Star Jalsha HD
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/198.ts
+#EXTINF:-1,Star Jalsha HD
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/8540.ts
+#EXTINF:-1,Star Jalsha HD
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/23218.ts
 
 #EXTINF:-1,Zee Bangla HD
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/435.ts
+#EXTINF:-1,Zee Bangla HD
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/23305.ts
 
 #EXTINF:-1,Colors Bengali HD
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/183.ts
+#EXTINF:-1,Colors Bengali HD
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/23306.ts
 
 #EXTINF:-1,Star Jalsha Movies HD
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/425.ts
+#EXTINF:-1,Star Jalsha Movies HD
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/23304.ts
 
 #EXTINF:-1,Zee Bangla Cinama
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/410.ts
+#EXTINF:-1,Zee Bangla Cinama
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/49615.ts
 -------------------------------------------------------------------------
 #EXTINF:-1,ATN Music Jago
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
 
 #EXTINF:-1,Rtv Music Jago NW
 http://iptvbd.jagobd.com:1931/live-orgin/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1,Rtv Music mysbtv
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/3799.ts
 
 #EXTINF:-1,GAAN BANGLA NW
 http://iptvbd.jagobd.com:1931/live-orgingaanbangla-8-orgd.stream/chunks.m3u8
-
+#EXTINF:-1,GAAN BANGLA mysbtv
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/3807.ts
 #EXTINF:-1,Sangeet Bangla
 
 -------------------------------------------------------------------------
@@ -221,6 +241,9 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 
 #EXTINF:-1,TravelXP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,TravelXP HD
+http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/20622.ts
+
 #EXTINF:-1,xlpore HD
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
