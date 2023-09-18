@@ -45,13 +45,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
 
 #EXTINF:-1,NAGORIK TV
 
-#EXTINF:-1,CHANNEL 9
+#EXTINF:-1,CHANNEL 9 NW
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1,DESH TV Jagobd
+#EXTINF:-1,DESH TV Jagobd NW
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1,DEEPTO TV
@@ -66,34 +66,32 @@ http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3
 #EXTINF:-1,Ananda TV
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 
-#EXTINF:-1,BIJOY TV
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:-1,BIJOY TV NW
+http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1,BANGLA TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
-#EXTINF:-1,MOHONA TV
+#EXTINF:-1,MOHONA TV NW
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1,GAZI
 http://stream1.asbd.top:8083/1102/mono.m3u8
 
-#EXTINF:-1,T SPORTS HD
-http://lifetvbd.xyz:8080/fahim.old/fahim112000/88.m3u8
-#EXTINF:-1,T SPORTS HD
+#EXTINF:-1,T SPORTS HD APPS 1080P
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
-#EXTINF:-1,T SPORTS HD
+#EXTINF:-1,T SPORTS HD APPS 720P
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,T SPORTS HD
 http://g4b.alwaysdata.net/tsports1080p.m3u8
 
 #EXTINF:-1,Duronto Tv
 
-#EXTINF:-1,Nexus TV
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
+#EXTINF:-1,Nexus TV NW
+http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
 
-#EXTINF:-1,GLOBAL TV
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/chunks.m3u8
+#EXTINF:-1,GLOBAL TV NW
+http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1,Green TV
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
@@ -112,21 +110,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/boulive.stream/chunks.m3u8
 #EXTINF: -1,NRB TV
 http://iptvbd.jagobd.com:1931/live-orgin/nrb-eu.stream/chunks.m3u8
 
-#EXTINF:-1,Can Bangla TV bdcast
-https://bdcast-sec.b-cdn.net/bcdn_token=axZUYkFobeN1dUEygpm3cMQHZZ0I3HYCvta_kCRnQpg&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1664566589/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
-#EXTINF:-1,Can Bangla TV
-http://iptvbd.jagobd.com:1931/live-orgin/canbanglatv.stream/chunks.m3u8
-
 #EXTINF: -1,The Channel TV
 http://iptvbd.jagobd.com:1931/live-orgin/thechanneltv.stream/chunks.m3u8
 
 #EXTINF: -1,iTV Official
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-
-#EXTINF: -1,DesheBideshe TV Jagobd
-http://iptvbd.jagobd.com:1931/live-orgin/deshebideshe.stream/chunks.m3u8
-#EXTINF: -1,DesheBideshe TV http://jupiter.bdcabletv.com
-http://ipm.oncast.me:1932/iplived/iptvdeshebideshe.stream/playlist.m3u8
 
 #EXTINF:-1,BanglachannelNY
 http://jupiter.bdcabletv.com/BanglachannelNY/video.m3u8
@@ -148,85 +136,43 @@ https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 #EXTINF:-1,TBN24 TV UK Official
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,VOICE TV Jagobd
-http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
-
 #EXTINF:-1,Boishakhi TV Plus Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
-
-#EXTINF: -1,Varendra TV Jagobd
-https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 
 #EXTINF: -1,Ktv bangla Official
 https://server1.jadubd.com/ktvbangla/ktvbangla/chunklist_w1725636576.m3u8
 
-#EXTINF:-1,TT TV UK Official
-https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
-
-#EXTINF:-1,MATRI BHUMI
-http://tv.anwarlinkisp.com:1895/live/bangladesh/chunklist_w632900092.m3u8
-
-#EXTINF:-1,MATRI BHUMI
-http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
-
 #EXTINF:-1,Bangla TV Online
 http://208.86.19.13:81/504.stream/index.m3u8
-
-#EXTINF:-1,ATN Bangla UK
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
 ---------------------------------------------------------
-#EXTINF:-1,BTV WORLD Jagobd
-http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-
 #EXTINF:-1,BTV
-http://209.58.168.113:1935/live/BTV/playlist.m3u8
-
-#EXTINF:-1,BTV WORLD BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=9GRWfMuUl6sjimeEOK0z7TcFMFYtK9pXHOO6MmWHnIw&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6MTc6MDQgUE0maGFzaF92YWx1ZT1PUUZvbkR2WE5TODRrckdObTdtNHF3PT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677172625/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 -----------------------------------------------------------
 #EXTINF:-1,Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8?token=%40LiveSportsLinks_Official
 
-
 #EXTINF:-1,Zee Bangla HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/thenayeemparvez.m3u8
 
 -------------------------------------------------------------------------
 #EXTINF:-1,ATN Music Jago
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
 
-#EXTINF:-1,Rtv Music Jago
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1,Rtv Music Jago NW
+http://iptvbd.jagobd.com:1931/live-orgin/rtvmusic.stream/chunks.m3u8
 
-#EXTINF:-1,GAAN BANGLA
-https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1,GAAN BANGLA BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=3hRf91G2hxiY0gjGwzR4BCxv2Qu3Ki2wq4cOOeVEvrw&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDQ6Mjk6MzUgUE0maGFzaF92YWx1ZT1HOHJJck1ITnpyUFZlRlY4L0RsQlpnPT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677173375/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1,GAAN BANGLA NW
+http://iptvbd.jagobd.com:1931/live-orgingaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1,Sangeet Bangla
 
 -------------------------------------------------------------------------
 #EXTINF:-1,ATN Islam jago
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1,ATN Islam BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=ohXahU8uyglG_zuHVIYzFnwlve4XBS1dpJSsjfjbg8I&token_path=%2Fjago%2F3&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIzIDU6MDc6MzggUE0maGFzaF92YWx1ZT1RK2EweDhZdXNxbnJVaHRxU21zVkVBPT0mdmFsaWRtaW51dGVzPTIyMA%3D%3D&expires=1677175658/jago/3/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 
-#EXTINF:-1,Azan TV BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=p0Gpt6AvVqvc3SG7RPX1FA4H5_wRC3E87O6nb64PZl4&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677175787/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/chunks.m3u8
-
-#EXTINF:-1,Iqra TV BDCast
-https://bdcast-sec.b-cdn.net/bcdn_token=UsSbKTnael09W64dicr7_e0hiiDB9kX5zIed6VcsApQ&token_path=%2Fjago%2F2&wmsAuthSign=&expires=1677175968/jago/2/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1,Iqra Bangla https://ap02.iqplay.tv
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1,Iqra Bangla https://cdn5.iqsat.net
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
-
-#EXTINF:-1,Madani TV Official
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-
-#EXTINF:-1,SAUDIA QURAN HD http://xtream.efiberbd.net
-http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
 
 #EXTINF:-1,Peace TV English
 
@@ -253,14 +199,8 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1,History HD
 http://cdn.connectbr.com.br/h2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Sony BBC Earth HD
-https://lin-gd-001-cf.slivcdn.com/out/v1/25027865fc9548f4928ca62a36dda585/master_5.m3u8?hdntl=exp=1681405785~acl=*~hmac=ac58dda8e592a48714824ada1ddd77ae0cf81e29930c30822b34cc2691a388dc&originpath=/linear/hls/pb/event/6bVWYIKGS0CIa-cOpZZJPQ/stream/81056830-d01c-4cbb-9c77-2616147a4ebb:SIN/variant/51788df8045d43a33bea869029fa75c1/bandwidth/934027.m3u8
-
 #EXTINF:-1,TLC
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
-
-#EXTINF:-1,Discovery Science
-https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_16.m3u8
 
 #EXTINF:-1,Food Network
 https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_14.m3u8
@@ -275,9 +215,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1,Rongon TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w1769050152.m3u8?token=IRkoHVzG1KIPUbn3FPlCja40Fw3sts
-
-#EXTINF:-1,Happy Kids Junior
-https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1,zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
@@ -307,23 +244,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF:-1,DW
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
 
-#EXTINF:-1,NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-
-#EXTINF:-1,global-fashion
-http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:-1,ftv_paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b1150000_t64NDgwcA==.m3u8
-#EXTINF:-1,fashiontv-01
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1667414609.m3u8
-#EXTINF:-1,fashiontv 02
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1,fashiontv 03
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,fashiontv 04
+#EXTINF:-1,fashiontv
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b380000_t64MTQ0cA==.m3u8
-#EXTINF:-1,WFC TV
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 -----------------------------------------------------------------------------------
 ***** FM Radio *****
 
