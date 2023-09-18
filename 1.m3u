@@ -90,13 +90,11 @@ http://g4b.alwaysdata.net/tsports1080p.m3u8
 #EXTINF:-1,Nexus TV NW
 http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
 
-#EXTINF:-1,GLOBAL TV NW
+#EXTINF:-1,EKHON TV
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1,Green TV
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
-
-#EXTINF:-1,Ekhon TV
 
 #EXTINF:-1,JAGONEWS 24 TV
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
