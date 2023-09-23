@@ -19,29 +19,41 @@ http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/427.ts
 
 #EXTINF:-1,JAMUNA TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1,JAMUNA TV
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM254snRdvIrKWmPuqjuigHk/m3u8
 
 #EXTINF:-1,Ekattor mysbtv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/428.ts
 
 #EXTINF:-1,CHANNEL I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL I
+https://ott.sonyplex.com:444/play/R1GtL6ZiMQDxxyHAkBu6wg/m3u8
 #EXTINF:-1,CHANNEL I mysbtv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/34665.ts
 
 #EXTINF:-1,ATN BANGLA
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1,ATN BANGLA
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM_g8TqqeFgchCzMKhdT527k/m3u8
 
 #EXTINF:-1,N TV
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/424.ts
 
 #EXTINF:-1,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1,RTV
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM66SEXUY5m2VRTTtZO86OMU/m3u8
 
 #EXTINF:-1,BANGLA VISION
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1,BANGLA VISION
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMweUZCOcuUU7Nx2vP0ie7A0/m3u8
 
 #EXTINF:-1,MAASRANGA TV official
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MAASRANGA TV
+https://ott.sonyplex.com:444/play/r9uz0YG1toFFQnoUeF5wGQ/m3u8
 #EXTINF:-1,MAASRANGA TV mysbtv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/1036.ts
 
@@ -69,6 +81,8 @@ http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/414.ts
 
 #EXTINF:-1,DEEPTO TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1,DEEPTO TV
+https://ott.sonyplex.com:444/play/joqV31jcCZ4g3lMIdwfH2g/m3u8
 
 #EXTINF:-1,MY TV
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
@@ -91,10 +105,14 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1,GAZI
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM4a9ZIbC6ZQPO9Uw1syBicM/m3u8
+#EXTINF:-1,GAZI
 http://stream1.asbd.top:8083/1102/mono.m3u8
 #EXTINF:-1,GAZI mysbtv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/676.ts
 
+#EXTINF:-1,T SPORTS
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwDr04b0BMc4QbtwsxKacAQ/m3u8
 #EXTINF:-1,T SPORTS HD APPS
 https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
 #EXTINF:-1,T SPORTS HD APPS 1080P
@@ -113,15 +131,21 @@ http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/433.ts
 
 #EXTINF:-1,Nexus TV NW
 http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1,Nexus TV
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM_BDujkOKBDJfjP-FiSELaQ/m3u8
 #EXTINF:-1,Nexus TV mysbtv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/411.ts
 
 #EXTINF:-1,EKHON TV
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
+#EXTINF:-1,EKHON TV
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwQQKxmPufT05vlG7kjq3dI/m3u8
 
 #EXTINF:-1,Green TV
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 
+#EXTINF:-1,GLOBAL TV
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM3eG9NtWTRBieGqy4aFre8U/m3u8
 #EXTINF:-1,GLOBAL TV
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/4231.ts
 
@@ -190,7 +214,11 @@ http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/198.ts
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/8540.ts
 #EXTINF:-1,Star Jalsha HD
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/23218.ts
+#EXTINF:-1,Star Jalsha HD
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM26nTIs-CCkzlqVXBGxfOl0/m3u8
 
+#EXTINF:-1,Zee Bangla HD
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM2kJ0CqyNI8M_f_3NpSDOeA/m3u8
 #EXTINF:-1,Zee Bangla HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 #EXTINF:-1,Zee Bangla HD
@@ -223,6 +251,8 @@ http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/3799.ts
 
 #EXTINF:-1,GAAN BANGLA NW
 http://iptvbd.jagobd.com:1931/live-orgingaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1,GAAN BANGLA
+https://ott.sonyplex.com:444/play/haRgtEU7WpC7ZnAnYz4R_A/m3u8
 #EXTINF:-1,GAAN BANGLA mysbtv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/3807.ts
 #EXTINF:-1,Sangeet Bangla
@@ -274,6 +304,9 @@ https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/i
 
 #EXTINF:-1,Discovery TURBO
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+
+#EXTINF:-1,Histroty tv
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM0WnE264Q9wT0nQ93EZELXk/m3u8
 
 #EXTINF:-1,Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
