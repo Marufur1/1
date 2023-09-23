@@ -101,10 +101,12 @@ https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1,T SPORTS HD APPS 720P
 https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1,T SPORTS HD
+#EXTINF:-1,T SPORTS HD Apps
 http://g4b.alwaysdata.net/tsports1080p.m3u8
 #EXTINF:-1,T SPORTS HD mysbtv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/199491.ts
+#EXTINF:-1,T SPORTS HD
+https://live.mvdn.castnest.io/xVVDLuXJInoRdoBZH2dcH5pund5ZQAJHVGIyfFhE/index.m3u8?token=
 
 #EXTINF:-1,Duronto Tv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/433.ts
