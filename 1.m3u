@@ -14,8 +14,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1,ATN NEWS
 http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1,ATN NEWS mysbtv
-http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/427.ts
 
 #EXTINF:-1,JAMUNA TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -23,14 +21,12 @@ http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM254snRdvIrKWmPuqjuigHk/m3u8
 
 #EXTINF:-1,Ekattor mysbtv
-http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/428.ts
+
 
 #EXTINF:-1,CHANNEL I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I
 https://ott.sonyplex.com:444/play/R1GtL6ZiMQDxxyHAkBu6wg/m3u8
-#EXTINF:-1,CHANNEL I mysbtv
-http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/34665.ts
 
 #EXTINF:-1,ATN BANGLA
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -38,7 +34,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM_g8TqqeFgchCzMKhdT527k/m3u8
 
 #EXTINF:-1,N TV
-http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/424.ts
 
 #EXTINF:-1,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
