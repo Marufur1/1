@@ -101,25 +101,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chu
 
 #EXTINF:-1,GAZI
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM4a9ZIbC6ZQPO9Uw1syBicM/m3u8
-#EXTINF:-1,GAZI
-http://stream1.asbd.top:8083/1102/mono.m3u8
-#EXTINF:-1,GAZI mysbtv
-http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/676.ts
 
 #EXTINF:-1,T SPORTS
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwDr04b0BMc4QbtwsxKacAQ/m3u8
 #EXTINF:-1,T SPORTS HD APPS
 https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
-#EXTINF:-1,T SPORTS HD APPS 1080P
-https://live.tsports.com/live/tsports_live_1080/index.m3u8
-#EXTINF:-1,T SPORTS HD APPS 720P
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1,T SPORTS HD Apps
-http://g4b.alwaysdata.net/tsports1080p.m3u8
-#EXTINF:-1,T SPORTS HD mysbtv
-http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/199491.ts
-#EXTINF:-1,T SPORTS HD
-https://live.mvdn.castnest.io/xVVDLuXJInoRdoBZH2dcH5pund5ZQAJHVGIyfFhE/index.m3u8?token=
 
 #EXTINF:-1,Duronto Tv
 http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/433.ts
@@ -128,8 +114,6 @@ http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/433.ts
 http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1,Nexus TV
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM_BDujkOKBDJfjP-FiSELaQ/m3u8
-#EXTINF:-1,Nexus TV mysbtv
-http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/411.ts
 
 #EXTINF:-1,EKHON TV
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
@@ -141,8 +125,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 
 #EXTINF:-1,GLOBAL TV
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM3eG9NtWTRBieGqy4aFre8U/m3u8
-#EXTINF:-1,GLOBAL TV
-http://premiumtvs.net:8080/live/mysbtv/mysbtv2023/4231.ts
 
 #EXTINF:-1,JAGONEWS 24 TV
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
