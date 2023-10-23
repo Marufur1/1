@@ -108,7 +108,9 @@ https://cdn.live247stream.com/thelight/tv/playlist.m3u8
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,T SPORTS
-https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwDr04b0BMc4QbtwsxKacAQ/m3u8
+http://103.175.242.10:8080/Tsports3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T SPORTS
+http://103.175.242.10:8080/TSPORTS2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T SPORTS HD APPS
 https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
 
