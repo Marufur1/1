@@ -77,7 +77,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3
 
 #EXTINF:-1,Ananda TV
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
-
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/chunks.m3u8
 #EXTINF:-1,BIJOY TV
 http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
 
@@ -335,18 +335,7 @@ http://162.254.149.187:9300/;stream.mp3
 
 For epg
 http://botallen.live/epg.xml.gz
-http//premiumtvs.net:8080/get.php?username=mysbtv&password=mysbtv2023&type=m3u_plus
 
-NEED TOKEN http://bciptv.net/
-http://bdiptv.net/
-http://ranapk01.in1.bitmana.io/
-http://dugdugilive.com/
-http://dds.oncast.me/
-https://nayeemparvez.tk/
-https://nayeem-parvez.tk/zeppytv/
-http://aklivetv.com/
-http://dotfli.tv/
-https://rohabtv.stream/
 -----------------------------------------------------------------------------------
 https://raw.githubusercontent.com/aniketda/iptv2050/main/iptv
 
