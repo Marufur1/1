@@ -4,6 +4,8 @@
 https://somoy.jaagobd.com/somoy/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Somoy TV
 https://ott.sonyplex.com:444/auth/cQHOdPMCx-7Sw3dlmkB0Ix16CuZD81sdfNe6p4HxArowOjgD1pQdVHVRVbVyupwQ-FRWtNrrqiPjaORCBTbdTYyUt9rvnzS_7OLuzTuF3ChdhMVkPYUKx452D2wP4mMISKuFUmvDnd7Opgen2VQao8Rd2eChY85yLR3MlUXp7K3gzRLeasNfiloKNtnhPHri6TeIpZcwTAK63d9BEdYUGr_TEwiuqgyW6ZteXAv1WyN6SgMv7LD2QtA0PMeUTdAXy8_IhR1igiK_0p9kvA_Q17vYw5oTgYi5kVFd2ziqxh4WluIMU-vavJ9e-C1zKSQuK2IhQmWtTC3YO5J2ExrXN2Dgkk3arR_P1rO4XcZ3gAC1P4ukMwS0ama2u0AW7L8qrIxPKyA3zCZ5adESYWwc0zr8bLF9RvtaoFOVvAQfeRPDKjxd95awJF6k3LcSFC0tKBhGQ8cTHTlvQU0Mxv5GhW5_KPp4o-w0RnZaVZJAq3iy5iY_01epLK-Fa2SjjiG72Utx9T8WJtY2qLruoXPvyOMcYB99JIiZlZhvFTLh-gV7py4cmoZnn7zwfA9EInenD3FrR4bugPY4gXsNv8ynPAFF6Ds5WCOpQGhpG0V-qb0
+#EXTINF:-1,Somoy TV
+https://live.bongobd.com/hls/gN1o5jv0SDE10b_V_4PGVQ/1700230469/shomoy_tv_hi/index.m3u8
 
 #EXTINF:-1,NEWS24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
@@ -29,11 +31,14 @@ https://ott.sonyplex.com:444/auth/OrKmIoarOcNEObzdPjvjGalFGVfnJ_M7va5liSl8x2Fwl-
 
 #EXTINF:-1,CHANNEL I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL I (iScreen)
+https://stream.rockstreamer.com/live/121212.m3u8
 
 #EXTINF:-1,ATN BANGLA
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,N TV
+https://edge4.bioscopelive.com/hls/anonymous/G2wSegNKi3jOgOOisqqgLA/1700230783/live-n-tv_hi/index.m3u8
 
 #EXTINF:-1,RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -89,21 +94,31 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 http://chanel.dekhaott.com/starsports3/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,Sky sports
 https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
+#EXTINF:-1,Sky sports
+https://bbm.pogocast.xyz:8059/view/hls/aCSd2RewA3mBZJd0V1w7lg/1700226668/astrocric.m3u8
 
 #EXTINF:-1,GAZI
 http://chanel.dekhaott.com/Gazi-TV/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,GAZI
 https://ott.sonyplex.com:444/auth/ltnxiM6ODiijn8THrHWe1TZb65A_J1Mf_SQiH_rGbA5aot8nMph8k4jsP4cF1dLd1zY5-qmt6ZRSnc5oXvTY0yj50g8AYm5jJpgTlRsG60DvuqV4JpOXmLJ36qZg-faGHar53rSq0OGfbEZp9PgxZ1wAHMn4DA9G8VIKReelQnlz4OYOO8PoFviF6Sx3jDf5YW7O7vINqCN5OKA1OiLgp4ejFHdiVez5Ft9bdQPDRyt4zIcEtguyF95d1A0Vqjm07gx5vMyXOwp35Xv35frOAAf37faWmsmcgvZ1PV-Y3iLcriSMIbLYpfPMkf8uAVIrT-uvsyjwynOR5XedqfdA16TBO-HRvCEMGnpcsAtJyoLNVPO4GtM2SdXHOZbqJXAL1ZZjAQ5JleN5zEZ34vIv_1_7GwChQCLgANB7-WjSL8zv0H_6u5ckTaIaVS3RuKUZV4g-NQCWElcyAOEprwS1L-6QdPUuJ5nif6StttwifP9Nn-u_fLk_64i0JUXsZsnIO4rEKFojb6YucWGD7qrDx5rB1DAOF-U2c-NlZaT4tTtKI6X_CYrvXsaWU_DujERE_L8hjR9wN1JOOf7ImHJK9Q
+#EXTINF:-1,GAZI
+https://ott.sonyplex.com:444/auth/ltnxiM6ODiijn8THrHWe1TZb65A_J1Mf_SQiH_rGbA5aot8nMph8k4jsP4cF1dLd1zY5-qmt6ZRSnc5oXvTY03hDO1mJMYekIU2RomgSQbH7DiDqLzSbt73MeQS4-4mQh1Z_Wm-8LBhBpNOTUPZ7xnd3MyhYMPJsLpZskzaPHduFYLFehXNVifhy-DKa-aZS63fDrtH58IC2ZnKqCACfbRnIQBDjjYZcyv2pn35wma0Cmo44A9KiQDt6FdLTlOSTxnN7VCaAJUgBTo7c7oGmiGB2acYa-xmc_iCv-jNu8npXgQg_cI8zdM72PcI5o4w9Ho7Cdn1Hcm0pDzT30omzOchr9m9f_2_T3OBpkAd5mBcbTe_kjiQYWghQSyKRGl9OavmgrTe22eXihPnHpUPTojFBXEaKHmpNpkIbqlKlhArW2h75OM9fzis0qy7haEhbTgANxsfhs7gTo2iEAO78YnpWLfSp24MLEkwXVo7sJmOdt6MTAzI9faXkGUH1yJKkuMj1GhjBSgbSWOA45_Zf2ESj25pi4seOw2h1fvK-652RRe7b8qwdKggy_XsquJFWi7C9dubbYtqt-bTOZ3Bbjg
+#EXTINF:-1,GAZI
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1700224968~exp=1700268168~acl=/*~data=45.61.146.183-WEB~hmac=a94b28f758bcf1856f5da40198d0a70471651f46a52f61f2908a44ec51a625ef
 
 #EXTINF:-1,T SPORTS
 http://chanel.dekhaott.com/Tsportshd/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,T SPORTS
 https://ott.sonyplex.com:444/auth/MGmglcrAPlaOVitsxtrxPf3N4bF5NQxTj02fyNIAWkmxSCX5jxeN5H9Jie_D0Efy4ZdPjjLBzdmGoXCTgvelsAKGcVKNUihYCQdg5knHtBiG3ouEwfhmBt2UA55Vgvk_Fil-bid0nJ1hjheAhlglxIsR7d-G_WRZQlI5jXRNjwVR7kmIw6M1DtsOz1vdMklMETSXy6Z5W3OuWKfLNHIRGhyCd-7Y4yvVewJod4JJAsINf-HTmMM0F4n1JH_gRXQpbG9onAO0iJA_aJFAwtnm25mRHv8scp2pgY9X4yZUAjyVtq3bUxKeML2jyUSz0KUell-0rqBe0rM4xQlPlgTKagC4503UAToshQpZOAn6ruLQ4KY-WWIMwugfvomqzmFfFjsuTsJeMGgSgxT0r8POOKN-Pt4Dfftgk1IZjBd-SRLD3OXi20AQmszY0RoawbcTikWrvdbv0sfcUwnMX69aTF71iEnpC2Nke2kHVMOJx2hLcnzGlyotz6DjOQLyj_aEIQoE4WmKU6CVUzzQwyR5Zs8toar20RmvFBTriTRtJo3Xhij153pgBmxTFvWeYXh0chgnYIP5d4yCH12IOs9mww
+#EXTINF:-1,T SPORTS
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1700225102~exp=1700268302~acl=/*~data=45.61.146.183-WEB~hmac=120341ebbea6f108b51482f4cc1757b85c8ffe8962e524628de4916978c46ff4
 
 #EXTINF:-1,Duronto Tv
 
 #EXTINF:-1,Nexus TV
 http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1,Nexus TV
+https://live.bongobd.com/hls/3P98U-g4Rdb12xHcnWagLQ/1700230637/nexus_tv_hi/index.m3u8
 
 #EXTINF:-1,EKHON TV
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
@@ -179,10 +194,13 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155770&extensi
 http://chanel.dekhaott.com/zeebanglahd/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,Zee Bangla HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-
+#EXTINF:-1,Zee Bangla HD
+https://tvs2.aynaott.com/ZeeBanglaHD/tracks-v1a1/mono.m3u8?hdnts=st=1700225411~exp=1700268611~acl=/*~data=45.61.146.183-WEB~hmac=6639e47a8bf78e9aedd52d59ff20693856ca57258e9419b2bae90bb367bdae61
 -------------------------------------------------------------------------
 #EXTINF:-1,ATN Music Jago
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF:-1,ATN Music Jago
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
 #EXTINF:-1,Rtv Music Jago NW
 http://iptvbd.jagobd.com:1931/live-orgin/rtvmusic.stream/chunks.m3u8
