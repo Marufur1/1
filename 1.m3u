@@ -186,9 +186,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
 
 #EXTINF:-1,Rtv Music Jago NW
 http://iptvbd.jagobd.com:1931/live-orgin/rtvmusic.stream/chunks.m3u8
-#EXTINF:-1,GAAN BANGLA NW
+#EXTINF:-1,GAAN BANGLA
 http://iptvbd.jagobd.com:1931/live-orgingaanbangla-8-orgd.stream/chunks.m3u8
-
+#EXTINF:-1,GAAN BANGLA
+https://ott.sonyplex.com:444/auth/aiDtiqmOQnzcV5mt6OmBcNQnoI4E5zhH1DfDq6jh3mWFOIEPHnvCznVhGIY8RoGMHzVjZYSaZTxQ762VnLpM_RZvpsJ8lif-bPm0AuzeFJas83fSiFK-bjFHganyAZ9ylotdE-WsQGwpovf7q1rWoMD7M0aSjgK1tLIyeu4Bus8uC7Ll39PonAHW74aGekeqckEr8czzZRdg3-JlUmhIauf9q_sfK-l1JaHPRvLUbSfRav3trJofjI4m7yaDNdRNthtcJbHsFG86xZ4qL9SZTaFQ1-Ip542c6mz8_UIxkDd68gOjQB6S5euJAzZNyG2FVA6NHp0ov95kKpYO-HH5py1nUSuKhyT4e0gOsDpidjAhB84tLvDBK4n-XDlSA-4iPOSkv98K50B-A4KhNPmdbqejZyn-8kmUqOpJuryl0eRC6wf3ezFUaiuXaDqjpwo6Wh0K-SGCA3QyZpo8rWxJQPZDoYBPnys0-NBPQZnT5czOHs7Xn5c5QD6P00TN8WNlw7tVMvBK-OlPgYNgkPcoKqwybVh6GLBq-f1naJYqpL7s4LLuqgesCkeIC0lbG7NFfE9pTWQVgiUgpjpY3C598SZn5osJDuklN9BFVMXXVrU
 -------------------------------------------------------------------------
 #EXTINF:-1,ATN Islam jago
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
