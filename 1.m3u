@@ -2,23 +2,15 @@
 
 #EXTINF:-1,Somoy TV
 http://bd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1,Somoy TV
-https://ott.sonyplex.com:444/auth/cQHOdPMCx-7Sw3dlmkB0Ix16CuZD81sdfNe6p4HxArowOjgD1pQdVHVRVbVyupwQ-FRWtNrrqiPjaORCBTbdTYyUt9rvnzS_7OLuzTuF3ChdhMVkPYUKx452D2wP4mMISKuFUmvDnd7Opgen2VQao8Rd2eChY85yLR3MlUXp7K3gzRLeasNfiloKNtnhPHri6TeIpZcwTAK63d9BEdYUGr_TEwiuqgyW6ZteXAv1WyN6SgMv7LD2QtA0PMeUTdAXy8_IhR1igiK_0p9kvA_Q17vYw5oTgYi5kVFd2ziqxh4WluIMU-vavJ9e-C1zKSQuK2IhQmWtTC3YO5J2ExrXN2Dgkk3arR_P1rO4XcZ3gAC1P4ukMwS0ama2u0AW7L8qrIxPKyA3zCZ5adESYWwc0zr8bLF9RvtaoFOVvAQfeRPDKjxd95awJF6k3LcSFC0tKBhGQ8cTHTlvQU0Mxv5GhW5_KPp4o-w0RnZaVZJAq3iy5iY_01epLK-Fa2SjjiG72Utx9T8WJtY2qLruoXPvyOMcYB99JIiZlZhvFTLh-gV7py4cmoZnn7zwfA9EInenD3FrR4bugPY4gXsNv8ynPAFF6Ds5WCOpQGhpG0V-qb0
-#EXTINF:-1,Somoy TV
-https://live.bongobd.com/hls/gN1o5jv0SDE10b_V_4PGVQ/1700230469/shomoy_tv_hi/index.m3u8
 
 #EXTINF:-1,NEWS24
 http://bd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 
 #EXTINF:-1,DBC NEWS
 http://bd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1,DBC NEWS
-https://ott.sonyplex.com:444/hls/fA9m5a75DyQagANKhL3eIcN2FVrXJrpcr86o6btUCrdAgefF0N3iGzD8iZgrtTsIZ9QWisISJrWTt4jlHcyFihtdMXPJvVORekoPZ8Oi3JFFz_TvYhnfYP7HZXVNIulo
 
 #EXTINF:-1,CHANNEL 24
 http://bd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL 24
-https://ott.sonyplex.com:444/auth/3EngcsAwsKC-Am7TRylBv2UK9R3P2PfXynLtYdl4EUxLB8cfO6usv3mLoBLo57LzCrOK9GPvojnwEbKaQzTbK5I7GVxR5nQKHiMLnZVrn52Y4i1CoRBeYT0eKTDE43e1ktrtSvbZDT6b_S1DD1OoHRlv1s5Df2ACJ-VTvsxOBFzKKzur2tQWRsnzmvGNI2uNsN9bZMcMsWyIdpFpimZgXZOoI_ZmljYU_0xFGSZ9xYk9dlchfJvzb63_taRxD5MCn-N_gs_qRKOEmEZvXKtVpsXaA77kvtcGetYZjJIitV7h39fjzfW04H46VS6dl9G0HXcaumxwln169MlbuDoGjMR_wkyKrLcX4IXSy7Mmezl-e4DVeMNlN1ctvLVLJkWIiiqdm-bd8JaGkQISxGbzHIos0FAWuo2QPE59aIZ6b1aORLh72w-u_pTYYiuHYa2RoJOU7V6PGXc8h8TxMuB5ZAPEOQ6KOdA6gmrZryYI-Ag0Sba2teMnio4If5jk9UlFS0jaN99DsyCIDxaaV58xYPo7a8o6V48ae4Capidh6aWI5xY7xNblKP_IROrg-ZeUE-cZV2x3zjl188RIBslmKs4FtNd9W0f8b7CnrC84yuY
 
 #EXTINF:-1,ATN NEWS
 http://bd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
@@ -27,7 +19,6 @@ http://bd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
 http://bd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1,Ekattor
-https://ott.sonyplex.com:444/auth/OrKmIoarOcNEObzdPjvjGalFGVfnJ_M7va5liSl8x2Fwl-vTkdW-FCB9GfZCHAen4fLk6Mbc7GZ8qF8iG0-e7K2Z8BXcak59-DdodIld4TejjuzRbWv4FEZyXA_LV8bS8zJHYXR6DlZS-FNWKix0ab7IFQjSaKPpvdOYJ5pi_cvQXTGHzKMMO_P99gCzlOi3-QNEEluZegOPmLvQatC-lHsp__AZWICG7SM6dxaJV8TgEoU3_oRwNfZvv84LCLKOiVvuvBqiKT3LYoZ-009MA4i-wwH1hrDHXNqmWmSz59ysGnIcXb_eJgFq0LZQaRU4NCEPDRVB7S1fDjeefH-cigOzTzMAdQnQDl2ccZDFV5-QWvwe9Irzzj8bgEDWOZJvF4bu0CE2jqsA_1rJL19tCInEKxQb0IZzKg0tcAjyrzOwVWqSlgbozcOSdnEYHYX_XuS3tvlxJ4NdMgtXrh3kQZKXiqoMUFZAGpeypBfs7gkWCDgMJIX-HVTQqRQAKn_9lS4zYFX3EAepjsRkmeFEfW30mucGCLMwEAWEuqJDYaM2S_d9G2LObDWNbHmNqJf44zKJB4eIfVXoNxRO4hJH3QFX7bKo-G2XX4dwlO_4Ass
 
 #EXTINF:-1,CHANNEL I
 http://bd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
@@ -38,7 +29,6 @@ https://stream.rockstreamer.com/live/121212.m3u8
 http://bd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,N TV
-https://edge4.bioscopelive.com/hls/anonymous/G2wSegNKi3jOgOOisqqgLA/1700230783/live-n-tv_hi/index.m3u8
 
 #EXTINF:-1,RTV
 http://bd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -117,8 +107,6 @@ https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1700225102~exp
 
 #EXTINF:-1,Nexus TV
 http://bd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1,Nexus TV
-https://live.bongobd.com/hls/3P98U-g4Rdb12xHcnWagLQ/1700230637/nexus_tv_hi/index.m3u8
 
 #EXTINF:-1,EKHON TV
 http://bd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
