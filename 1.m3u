@@ -19,6 +19,7 @@ http://bd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
 http://bd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1,Ekattor
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700931187/ei/E9JhZZCrM86z6dsPiqKCkAs/ip/92.205.15.128/id/wWWR-V2p1EM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/UWF9f-8cXfpSvXRwKH_4PP6u39pSKmmPIHZVGJn2bA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgfLnqQ4-ZgIqqRBOBRnVl7UIQ7CVZ1OYBei3zr5gGZ0oCICo0Bsf6AD6V_Zk2X-GNZfIZM7xx-pPAKC4d0Ixa1jLm/file/index.m3u8
 
 #EXTINF:-1,CHANNEL I
 http://bd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
