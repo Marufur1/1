@@ -107,6 +107,8 @@ https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1700225102~exp
 
 #EXTINF:-1,Nexus TV
 http://bd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1,Nexus TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700915344/ei/MJRhZef1Leilg8UPueOK-A4/ip/202.51.176.57/id/G3Sk20lq2NY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6-pzVch6zxbRwkjBlosXy6mnMkwhOoRTV6RPA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgCVrJwU_XoVpw90gT_hndsxzljGrAZN4yOK1_vSAhNyYCIDoECO5XqIJai_1YXrm0p9wq3D_UMCANg_rljAxOWzoV/file/index.m3u8
 
 #EXTINF:-1,EKHON TV
 http://bd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
