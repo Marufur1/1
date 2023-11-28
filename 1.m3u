@@ -16,6 +16,8 @@ http://bd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1,ATN NEWS
 http://bd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1,ATN NEWS
+https://bd.jagobd.com:444/live-orgin/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1,JAMUNA TV
 http://bd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -46,6 +48,8 @@ https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,SA TV
 http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1,SA TV
+https://bd.jagobd.com:444/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1,Boishakhi TV
 http://bd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
@@ -56,6 +60,8 @@ https://bd.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-1,CHANNEL 9
 http://bd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL 9
+https://bd.jagobd.com:444/live-orgin/channel9hd.stream/chunks.m3u8
 
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -70,6 +76,8 @@ https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1,MY TV
 http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1,MY TV
+https://bd.jagobd.com:444/live-orgin/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-1,ASIAN TV
 http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
