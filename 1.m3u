@@ -5,8 +5,6 @@ http://bd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1,NEWS24
 http://bd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1,NEWS24
-https://bd.jagobd.com:444/live-orgin/news24local.stream/chunks.m3u8
 
 #EXTINF:-1,DBC NEWS
 http://bd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
@@ -326,6 +324,8 @@ http://162.254.149.187:9300/;stream.mp3
 
 For epg
 http://botallen.live/epg.xml.gz
+#EXTINF:-1,NEWS24
+https://bd.jagobd.com:444/live-orgin/news24local.stream/chunks.m3u8
 
 -----------------------------------------------------------------------------------
 https://raw.githubusercontent.com/aniketda/iptv2050/main/iptv
