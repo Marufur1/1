@@ -59,6 +59,10 @@ http://bd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1,DEEPTO TV
 http://bd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1,DEEPTO TV (Deepto play) FHD
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-1080p.m3u8
+#EXTINF:-1,DEEPTO TV (Deepto play)
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 
 #EXTINF:-1,MY TV
 http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
@@ -92,6 +96,7 @@ http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 
 #EXTINF:-1,GAZI
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 
 #EXTINF:-1,T SPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
@@ -106,6 +111,9 @@ http://bd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1,Green TV
 http://bd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
+
+#EXTINF:-1,Global TV
+http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1,JAGONEWS 24 TV
 http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
@@ -284,6 +292,21 @@ For epg
 http://botallen.live/epg.xml.gz
 #EXTINF:-1,NEWS24
 https://bd.jagobd.com:444/live-orgin/news24local.stream/chunks.m3u8
+https://bd.jagobd.com:444/live-orgin/satvoff5666.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
+https://tempskyview.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
+https://statics.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/chunks.m3u8?nimblesessionid=21863516&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIzIDU6MTE6NTAgQU0maGFzaF92YWx1ZT1uWjV0bUU3eEJOMDg2MUhPOTRUd2N3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://bd.jagobd.com:444/live-orgin/satvoff5666.stream/chunks.m3u8
 
 -----------------------------------------------------------------------------------
 https://raw.githubusercontent.com/aniketda/iptv2050/main/iptv
