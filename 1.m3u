@@ -113,6 +113,8 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 #EXTINF:-1,Sony sports ten 1
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 
+#EXTINF:-1,Sony sports ten 2 fast server
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/playlist.m3u8
 #EXTINF:-1,Sony sports ten 2
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 
