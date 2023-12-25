@@ -44,7 +44,11 @@ http://208.86.19.13:81/510.stream/index.m3u8?
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1,N TV
-https://1rdk.short.gy/Himel-Op/ntv.ts
+https://stream-03.sg1.dailymotion.com/sec(z2M2wDrtuAfeyL34lFjliruvtIVacBOAUZEHEwDesX1H5fHZj36D6HiG6AAY2XxI)/dm/3/x8ps6at/d/live-2.m3u8
+#EXTINF:-1,N TV
+https://stream-05.sg1.dailymotion.com/sec(z2M2wDrtuAfeyL34lFjliruvtIVacBOAUZEHEwDesX1H5fHZj36D6HiG6AAY2XxI)/dm/3/x8ps6at/d/live-1.m3u8
+#EXTINF:-1,N TV
+https://stream-05.sg1.dailymotion.com/sec(z2M2wDrtuAfeyL34lFjliruvtIVacBOAUZEHEwDesX1H5fHZj36D6HiG6AAY2XxI)/dm/3/x8ps6at/d/live-0.m3u8
 
 #EXTINF:-1,RTV
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
