@@ -161,6 +161,8 @@ https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1,Global TV
 http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1,Global TV
+https://edge4.bioscopelive.com/hls/anonymous/cQdd4AIUJAcb48gQdrDu_g/1703609924/live-global-tv_hi/index.m3u8
 
 #EXTINF:-1,JAGONEWS 24 TV
 https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
