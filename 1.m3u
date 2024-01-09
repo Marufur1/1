@@ -117,8 +117,10 @@ http://galaxyiptv.pro:8080/asimbutt/000423/178405
 #EXTINF:-1,MOHONA TV jagobd
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1,movie bangla TV
+#EXTINF:-1,movie bangla TV jagobd
 https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1,movie bangla TV
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1,Star Sports fast server
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
@@ -136,7 +138,8 @@ http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 
 #EXTINF:-1,GAZI
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
-
+#EXTINF:-1,GAZI
+http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1,GAZI
 https://1rdk.short.gy/Gtv/Himel-Op.m3u8
 
@@ -349,6 +352,12 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1,Peace TV Bangla
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
+#EXTINF:-1,Discovery
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1,Discovery
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+#EXTINF:-1,Discovery
+http://103.132.181.118:82/play/a007
 #EXTINF:-1,Discovery
 https://1rdk.short.gy/Discovery-Bangla/Himel-Op.m3u8
 #EXTINF:-1,Discovery
