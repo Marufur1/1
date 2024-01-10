@@ -31,10 +31,6 @@ https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 ,Ekattor TV HD palki
-http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,Ekattor TV HD
-http://cdn01.palki.tv/live/EkattorTV-M/tracks-v2a2/index.fmp4.m3u8
-#EXTINF:-1 ,Ekattor TV HD
 http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,CHANNEL I jago
@@ -58,8 +54,7 @@ https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,BANGLA VISION jago
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,BANGLAVISION palki
-http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1/index.fmp4.m3u8
-
+http://cdn01.palki.tv/live/BanglaVision-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,MAASRANGA TV official
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
@@ -69,12 +64,14 @@ https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,Boishakhi TV jagobd
 https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,BOISHAKHI TV palki
-http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
+http://cdn01.palki.tv/live/BoishakhiTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,NAGORIK TV
 
 #EXTINF:-1,CHANNEL 9 jagobd
 https://livess.jagobd.com.bd/live-orgin/channel9hd.stream/chunks.m3u8
+#EXTINF:-1,Channel 9 HD palki.tv
+http://cdn01.palki.tv/live/Channel9-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -146,10 +143,8 @@ https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1,EKHON TV jagobd
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 ,EKHON TV palki
-http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1/index.fmp4.m3u8
-http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
-http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1/index.fmp4.m3u8
-http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
+http://cdn01.palki.tv:80/live/EkhonTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+
 #EXTINF:-1,Green TV jagobd
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
@@ -279,7 +274,7 @@ https://livess.jagobd.com.bd/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,Rtv Music Jago
 https://livess.jagobd.com.bd/live-orgin/rtvmusic.stream/chunks.m3u8
 
-#EXTINF:-1,GAAN BANGLA palki.tv
+#EXTINF:-1,GAAN BANGLA palki.tv-02
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1,GAAN BANGLA jagobd
 https://livess.jagobd.com.bd/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
