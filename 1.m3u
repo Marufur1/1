@@ -5,8 +5,8 @@
 #EXTINF:-1,BTV Official
 http://103.230.105.252:1935/live/btv/manifest.mpd
 #EXTINF:-1,BTV palki.tv
-http://cdn01.palki.tv/live/BTV-M/tracks-v2a2/mono.m3u8
 http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+
 #EXTINF:-1,Somoy TV jago
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
