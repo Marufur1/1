@@ -214,6 +214,22 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1,Star Sports fast server
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
+#EXTINF:-1,Star Sports 1 HD ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=42
+
+#EXTINF:-1,Star Sports 1 HD ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=43
+#EXTINF:-1,Star Sports 1 HD ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=45
+#EXTINF:-1,Star Sports 1 HD ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=46
+#EXTINF:-1,Star Sports 1 HD ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=47
+#EXTINF:-1,Star Sports 1 HD ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=48
+#EXTINF:-1,Star Sports 1 HD ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=49
+
 #EXTINF:-1,Sony sports ten 1
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 
@@ -260,6 +276,8 @@ https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=32
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 ,EKHON TV palki
 http://cdn01.palki.tv:80/live/EkhonTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1 ,EKHON TV ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=40
 
 #EXTINF:-1,Green TV jagobd
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
@@ -464,6 +482,8 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 https://1rdk.short.gy/Animal-Planet-Muti/Himel-Op.m3u8
 #EXTINF:-1 ,Animal PlanetHD
 http://95.111.193.211:8106/play/a00b/index.m3u8
+#EXTINF:-1,Animal Planet HD ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=55
 
 #EXTINF:-1 ,NatGeo Wild HD
 http://95.111.193.211:8106/play/a00y/index.m3u8
@@ -478,6 +498,8 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 http://cdn.connectbr.com.br/h2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,History HD
 http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
+#EXTINF:-1,History HD ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=44
 
 #EXTINF:-1,TLC
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
@@ -487,6 +509,14 @@ https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/i
 
 #EXTINF:-1,Discovery TURBO
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+#EXTINF:-1,Discovery TURBO ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=53
+
+#EXTINF:-1,Investigation Discovery HD ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=56
+
+#EXTINF:-1,Discovery Science ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=54
 
 #EXTINF:-1,Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
