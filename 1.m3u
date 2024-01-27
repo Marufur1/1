@@ -28,6 +28,8 @@ https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=17
 https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1,NEWS24 palki
 http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,NEWS24 ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=30
 
 #EXTINF:-1,DBC NEWS jago
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
@@ -192,6 +194,8 @@ https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=16
 https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV palki.tv
 http://cdn01.palki.tv/live/BanglaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,BANGLA TV ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=31
 
 #EXTINF:-1,MOHONA TV jagobd
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -247,6 +251,8 @@ https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=28
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1,Nexus TV palki
 http://cdn01.palki.tv/live/NexusTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,Nexus TV ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=32
 
 #EXTINF:-1,EKHON TV jagobd
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
