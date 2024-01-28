@@ -52,12 +52,12 @@ http://cdn01.palki.tv/live/Independent-M/index.fmp4.m3u8?expire=1671299853&token
 
 #EXTINF:-1,ATN NEWS
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
-#EXTINF:-1,ATN NEWS jago
-https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1,ATN NEWS palki
 http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,ATN NEWS ayna
 https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=14
+#EXTINF:-1,ATN NEWS jago
+https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1,JAMUNA TV jago
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -7766,5 +7766,18 @@ http://botallen.live/epg.xml.gz
 https://pastebin.pl/view/raw/e8c8b27b
 https://pastebin.pl/view/raw/11807a3e
 https://raw.githubusercontent.com/aniketda/iptv2050/main/iptv
+
+https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Toffee.m3u
+https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/AYNA.m3u
+https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Bioscope.m3u
+https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Vai.m3u8
+https://github.com/eaminvai/eaminiptv/raw/Master/Yamin%202.0.m3u8
+https://github.com/eaminvai/eaminiptv/raw/Master/Yamin%20BD.m3u8
+https://github.com/eaminvai/eaminiptv/raw/Master/Yamin%20Tv.m3u8
+https://github.com/eaminvai/eaminiptv/raw/Master/Yamin.m3u8
+https://github.com/eaminvai/eaminiptv/raw/Master/bdix%20iptv.m3u8
+
+https://github.com/eaminvai/eaminiptv/blob/Master/Yamin%202.0.m3u8
+
 https://github.com/Marufur1/1/edit/main/1.m3u
 https://raw.githubusercontent.com/Marufur1/1/main/1.m3u
