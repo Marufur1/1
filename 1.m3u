@@ -129,8 +129,6 @@ https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=10
 
 #EXTINF:-1,NAGORIK TV palki
 http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
-#EXTINF:-1,NAGORIK TV palki
-http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,CHANNEL 9 jagobd
 https://livess.jagobd.com.bd/live-orgin/channel9hd.stream/chunks.m3u8
@@ -157,9 +155,9 @@ https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=12
 
 #EXTINF:-1,DEEPTO TV jago
 https://livess.jagobd.com.bd/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1,DEEPTO TV (Deepto play) FHD
+#EXTINF:-1,DEEPTO TV (Deepto play)-01
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-1080p.m3u8
-#EXTINF:-1,DEEPTO TV (Deepto play)
+#EXTINF:-1,DEEPTO TV (Deepto play)-02
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1,DEEPTO TV palki.tv
 http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -243,8 +241,6 @@ http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 
 #EXTINF:-1,GAZI
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
-#EXTINF:-1,GAZI
-http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1,GAZI palki.tv
 http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,Gazi TV ayna
@@ -252,12 +248,6 @@ https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=18
 #EXTINF:-1,Gazi TV HD ayna
 https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=19
 
-#EXTINF:-1 ,T SPORTS
-http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1 ,T SPORTS
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1,T SPORTS
-http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1,T SPORTS palki
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,T SPORTS HD ayna
@@ -286,12 +276,17 @@ http://cdn01.palki.tv/live/GreenTV-M/index.fmp4.m3u8?expire=1671299853&token=222
 #EXTINF:-1,Green TV ayna
 https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=35
 
-#EXTINF:-1,Global TV
-http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1,Global TV palki.tv
 http://cdn01.palki.tv/live/Duronto-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,Global TV ayna
 https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=34
+
+#EXTINF:-1,Duronto palki.tv
+http://cdn01.palki.tv/live/Duronto-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,Duronto
+https://1rdk.short.gy/Duronto-Tv/Himel-Op.m3u8
+#EXTINF:-1,Duronto ayna
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=36
 
 #EXTINF:-1,JAGONEWS 24 TV jagobd
 https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
@@ -526,11 +521,6 @@ https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=54
 
 #EXTINF:-1,Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-
-#EXTINF:-1,Duronto
-https://1rdk.short.gy/Duronto-Tv/Himel-Op.m3u8
-#EXTINF:-1,Duronto ayna
-https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=36
 
 #EXTINF:-1,Nick Bangla
 http://himeop-premium.ddns.net:25461/live/web/web/615.ts
