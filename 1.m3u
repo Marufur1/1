@@ -13,6 +13,8 @@ http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8?expire=1671299853&tok
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Somoy TV palki
 http://cdn01.palki.tv/live/SomoyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,Somoy TV bongo
+https://api.bongohub.pw/bongo.php?cc=somoy-tv
 
 #EXTINF:-1,NEWS24 jago
 https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
@@ -23,6 +25,8 @@ http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8?expire=1671299853&token=2224
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,DBC NEWS palki.tv
 http://cdn01.palki.tv/live/DBC-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,DBC NEWS bongo
+https://api.bongohub.pw/bongo.php?cc=dbc-news
 
 #EXTINF:-1,CHANNEL 24 jago
 https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
@@ -160,17 +164,32 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1,Star Sports fast server
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
+#EXTINF:-1,Star Sports 2
+http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 
 #EXTINF:-1,Sony sports ten 1
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 
+#EXTINF:-1,Sony sports ten 1 bongo
+https://bongohub.pw/Sony.php?id=1000009276&e=.m3u8
+
+#EXTINF:-1,Sony sports ten 2 bongo
+https://bongohub.pw/Sony.php?id=1000009277&e=.m3u8
+
 #EXTINF:-1,Sony sports ten 2 fast server
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/playlist.m3u8
+
 #EXTINF:-1,Sony sports ten 2
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 
-#EXTINF:-1,Sony sports ten 5
-http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
+#EXTINF:-1,Sony sports ten 3 bongo
+https://bongohub.pw/Sony.php?id=1000009278&e=.m3u8
+
+#EXTINF:-1,Sony sports ten 3 bongo
+https://bongohub.pw/Sony.php?id=1000119186&e=.m3u8
+
+#EXTINF:-1,Sony sports ten 3 bongo
+https://bongohub.pw/Sony.php?id=1000009275&e=.m3u8
 
 #EXTINF:-1,GAZI
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
@@ -184,6 +203,8 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=222
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1,Nexus TV palki
 http://cdn01.palki.tv/live/NexusTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,Nexus TV Bongo
+https://api.bongohub.pw/bongo.php?cc=nexus-tv
 
 #EXTINF:-1,EKHON TV jagobd
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
@@ -282,6 +303,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 ,Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
+#EXTINF:-1,Zee Bangla bongo
+https://api.bongohub.pw/bongo.php?cc=zee-bangla
 #EXTINF:-1,Zee Bangla HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 #EXTINF:-1,Zee Bangla HD
@@ -297,6 +320,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacin
 #EXTINF:-1,Jalsha Movies HD
 http://95.111.193.211:8106/play/a00o/index.m3u8
 
+#EXTINF:-1,Sony AATH bongo
+https://bongohub.pw/Sony.php?id=1000009255&e=.m3u8
 #EXTINF:-1,Sony AATH
 http://103.132.181.118:82/play/a009
 #EXTINF:-1 ,Sony Aath
@@ -339,9 +364,14 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1,Discovery
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1,Discovery
+https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
+#EXTINF:-1,Discovery
 http://103.132.181.118:82/play/a007
 #EXTINF:-1,Discovery
 https://1rdk.short.gy/Discovery-Bangla/Himel-Op.m3u8
+
+#EXTINF:-1,SONY BBC EARTH HD bongo
+https://bongohub.pw/Sony.php?id=1000009252&e=.m3u8
 
 #EXTINF:-1,xlpore HD
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
@@ -354,7 +384,6 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1,CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
-
 
 #EXTINF:-1,TLC
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
@@ -380,6 +409,39 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
 
 #EXTINF:-1,wow-tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,Sony WAH bongo
+https://bongohub.pw/Sony.php?id=1000009253&e=.m3u8
+
+#EXTINF:-1,Sony YAY bongo
+https://bongohub.pw/Sony.php?id=1000001971&e=.m3u8
+
+#EXTINF:-1,Sony Pal bongo
+https://bongohub.pw/Sony.php?id=1000009273&e=.m3u8
+
+#EXTINF:-1,pictures-hd bongo
+https://api.bongohub.pw/bongo.php?cc=pictures-hd
+
+#EXTINF:-1,zee-cinema-hd bongo
+https://api.bongohub.pw/bongo.php?cc=zee-cinema-hd
+
+#EXTINF:-1,zee-bollywood bongo
+https://api.bongohub.pw/bongo.php?cc=zee-bollywood
+
+#EXTINF:-1,zee-anmol bongo
+https://api.bongohub.pw/bongo.php?cc=zee-anmol
+
+#EXTINF:-1,zee-action bongo
+https://api.bongohub.pw/bongo.php?cc=zee-action
+
+#EXTINF:-1,zee-tv-hd bongo
+https://api.bongohub.pw/bongo.php?cc=zee-tv-hd
+
+#EXTINF:-1,Sony Max 2 bongo
+https://bongohub.pw/Sony.php?id=1000044878&e=.m3u8
+
+#EXTINF:-1,Sony Max HD bongo
+https://bongohub.pw/Sony.php?id=1000009247&e=.m3u8
 
 #EXTINF:-1,BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
