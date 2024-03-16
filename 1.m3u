@@ -4,20 +4,16 @@
 http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,BTV World palki.tv
 http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,BTV World bongo
-https://api.bongohub.pw/bongo.php?cc=btv-world
+
 #EXTINF:-1,BTV Chattogram palki.tv
 http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,Sangshad TV bongo
-https://api.bongohub.pw/bongo.php?cc=sangsad-tv
 
 #EXTINF:-1,Somoy TV jago
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Somoy TV palki
 http://cdn01.palki.tv/live/SomoyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,Somoy TV bongo
-https://api.bongohub.pw/bongo.php?cc=somoy-tv
 
 #EXTINF:-1,NEWS24 jago
 https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
@@ -28,10 +24,8 @@ http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8?expire=1671299853&token=2224
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,DBC NEWS palki.tv
 http://cdn01.palki.tv/live/DBC-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,DBC NEWS bongo
-https://api.bongohub.pw/bongo.php?cc=dbc-news
 
-#EXTINF:-1,CHANNEL 24 jago
+#EXTINF:-1,CHANNEL 24 jago@
 https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL 24 palki.tv
 http://cdn01.palki.tv/live/Channel24-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -40,17 +34,13 @@ http://cdn01.palki.tv/live/Channel24-M/index.fmp4.m3u8?expire=1671299853&token=2
 https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,INDEPENDENT TV palki
 http://cdn01.palki.tv/live/Independent-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,INDEPENDENT TV bongo
-https://api.bongohub.pw/bongo.php?cc=independent-tv
 
 #EXTINF:-1,ATN NEWS
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1,ATN NEWS palki
 http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,ATN NEWS jago
+#EXTINF:-1,ATN NEWS jago@
 https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1,ATN NEWS bongo
-https://api.bongohub.pw/bongo.php?cc=atn-news
 
 #EXTINF:-1,JAMUNA TV jago
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -73,8 +63,6 @@ http://208.86.19.13:81/510.stream/index.m3u8?
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,ATN BANGLA palki
 http://cdn01.palki.tv/live/ATNBangla-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,ATN BANGLA bongo
-https://api.bongohub.pw/bongo.php?cc=atn-bangla
 
 #EXTINF:-1,N TV palki
 http://cdn01.palki.tv/live/NTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -92,40 +80,40 @@ https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 http://cdn01.palki.tv/live/BanglaVision-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,MAASRANGA TV official
-https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+#EXTINF:-1,MAASRANGA TV official
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAASRANGA TV palki
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,SA TV jagobd
+#EXTINF:-1,SA TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,SA TV palki
 http://cdn01.palki.tv/live/SATV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,SA TV bongo
-https://api.bongohub.pw/bongo.php?cc=sa-tv
 
 #EXTINF:-1,Boishakhi TV jagobd
 https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,BOISHAKHI TV palki
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,NAGORIK TV palki
+#EXTINF:-1,NAGORIK TV palki@
 http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
 
-#EXTINF:-1,CHANNEL 9 jagobd
+#EXTINF:-1,CHANNEL 9 jagobd@
 https://livess.jagobd.com.bd/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1,Channel 9 HD palki.tv
 http://cdn01.palki.tv/live/Channel9-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,EKUSHEY jago
+#EXTINF:-1,EKUSHEY jago@
 https://livess.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
 #EXTINF:-1,EKUSHEY palki.tv
 http://cdn01.palki.tv/live/EkusheyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,DESH TV Jagobd
+#EXTINF:-1,DESH TV Jagobd@
 https://livess.jagobd.com.bd/live-orgin/deshtv.stream/playlist.m3u8
-#EXTINF:-1,DESH TV palki.tv
+#EXTINF:-1,DESH TV palki.tv@
 http://cdn01.palki.tv/live/DeshTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,DEEPTO TV jago
@@ -137,24 +125,20 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1,DEEPTO TV palki.tv
 http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,MY TV jagobd
+#EXTINF:-1,MY TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1,MY TV palki
+#EXTINF:-1,MY TV palki@
 http://cdn01.palki.tv/live/MyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,MY TV bongohub
-https://api.bongohub.pw/bongo.php?cc=my-tv
 
-#EXTINF:-1,ASIAN TV jagobd
+#EXTINF:-1,ASIAN TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,ASIAN TV palki
 http://cdn01.palki.tv/live/AsianTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,Ananda TV jagobd
+#EXTINF:-1,Ananda TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1,Ananda TV palki
 http://cdn01.palki.tv/live/AnandaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,Ananda TV bongo
-https://api.bongohub.pw/bongo.php?cc=ananda-tv
 
 #EXTINF:-1,BIJOY TV jagobd
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
@@ -166,7 +150,7 @@ https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV palki.tv
 http://cdn01.palki.tv/live/BanglaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,MOHONA TV jagobd
+#EXTINF:-1,MOHONA TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1,MOHONA TV palki
 http://cdn01.palki.tv/live/MohonaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -175,38 +159,6 @@ http://cdn01.palki.tv/live/MohonaTV-M/index.fmp4.m3u8?expire=1671299853&token=22
 https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1,movie bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1,movie bangla TV bongo
-https://api.bongohub.pw/bongo.php?cc=movie-bangla-8827458fcaf5
-
-#EXTINF:-1,Star Sports fast server
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-
-#EXTINF:-1,Star Sports 2
-http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
-
-#EXTINF:-1,Sony sports ten 1
-http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
-
-#EXTINF:-1,Sony sports ten 1 bongo
-https://bongohub.pw/Sony.php?id=1000009276&e=.m3u8
-
-#EXTINF:-1,Sony sports ten 2 bongo
-https://bongohub.pw/Sony.php?id=1000009277&e=.m3u8
-
-#EXTINF:-1,Sony sports ten 2 fast server
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/playlist.m3u8
-
-#EXTINF:-1,Sony sports ten 2
-http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
-
-#EXTINF:-1,Sony sports ten 3 bongo
-https://bongohub.pw/Sony.php?id=1000009278&e=.m3u8
-
-#EXTINF:-1,Sony sports ten 3 bongo
-https://bongohub.pw/Sony.php?id=1000119186&e=.m3u8
-
-#EXTINF:-1,Sony sports ten 3 bongo
-https://bongohub.pw/Sony.php?id=1000009275&e=.m3u8
 
 #EXTINF:-1,GAZI
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
@@ -216,19 +168,15 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 #EXTINF:-1,T SPORTS palki
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,Nexus TV jagobd
+#EXTINF:-1,Nexus TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1,Nexus TV palki
 http://cdn01.palki.tv/live/NexusTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,Nexus TV Bongo
-https://api.bongohub.pw/bongo.php?cc=nexus-tv
 
 #EXTINF:-1,EKHON TV jagobd
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 ,EKHON TV palki
 http://cdn01.palki.tv:80/live/EkhonTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1 ,EKHON TV bongo
-https://api.bongohub.pw/bongo.php?cc=ekhon-tv
 
 #EXTINF:-1,Green TV jagobd
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
@@ -237,7 +185,6 @@ http://cdn01.palki.tv/live/GreenTV-M/index.fmp4.m3u8?expire=1671299853&token=222
 
 #EXTINF:-1,Global TV palki.tv
 http://cdn01.palki.tv/live/GlobalTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-
 
 #EXTINF:-1,Duronto palki.tv
 http://cdn01.palki.tv/live/Duronto-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -250,13 +197,9 @@ https://livess.jagobd.com.bd/live-orgin/boulive.stream/chunks.m3u8
 
 #EXTINF: -1,NRB TV jagobd
 https://livess.jagobd.com.bd/live-orgin/nrb-eu.stream/chunks.m3u8
+
 #EXTINF:-1,CAN BANGLA jagobd
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/canbanglatv.stream/chunks.m3u8
-
-#EXTINF:-1,bongo-dramas
-https://api.bongohub.pw/bongo.php?cc=bongo-dramas
-#EXTINF:-1,bongo-movies
-https://api.bongohub.pw/bongo.php?cc=bongo-movies
 
 #EXTINF:-1,কুমিল্লা-টিভি
 http://103.149.142.133/0.m3u8
@@ -314,60 +257,26 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,B24C jagobd
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/chunks.m3u8
 
-#EXTINF:-1,BISWA BANGLA TV jagobd
+#EXTINF:-1,BISWA BANGLA TV jagobd@
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/chunks.m3u8
 ---------------------------------------------------------
 
 -----------------------------------------------------------
 #EXTINF:-1,Star Jalsha HD
-http://103.132.181.118:82/play/a001
-#EXTINF:-1,Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 ,Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
-
-#EXTINF:-1,Zee Bangla bongo
-https://api.bongohub.pw/bongo.php?cc=zee-bangla
-#EXTINF:-1,Zee Bangla HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:-1,Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/himelhimu.m3u8
-#EXTINF:-1,Zee Bangla HD
-http://103.132.181.118:82/play/a00k
-
-#EXTINF:-1,Zee Bangla Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-#EXTINF:-1,ZEE BANGLA CINEMA HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacinema-audio_208482_und=208000-video=2137600.m3u8
-
-#EXTINF:-1,Jalsha Movies HD
-http://95.111.193.211:8106/play/a00o/index.m3u8
-
-#EXTINF:-1,Sony AATH bongo
-https://bongohub.pw/Sony.php?id=1000009255&e=.m3u8
-#EXTINF:-1,Sony AATH
-http://103.132.181.118:82/play/a009
-#EXTINF:-1 ,Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-
-#EXTINF:-1,Enter 10 Bangla
-http://103.132.181.118:82/play/a00n
-
-#EXTINF:-1 ,COLORS BANGLA HD
-https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 -------------------------------------------------------------------------
 #EXTINF:-1,ATN Music Jago
 https://livess.jagobd.com.bd/live-orgin/atnmusic.stream/playlist.m3u8
 
-#EXTINF:-1,Rtv Music Jago
+#EXTINF:-1,Rtv Music Jago@
 https://livess.jagobd.com.bd/live-orgin/rtvmusic.stream/chunks.m3u8
 
 #EXTINF:-1,GAAN BANGLA palki.tv
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1,GAAN BANGLA jagobd
 https://livess.jagobd.com.bd/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1,GAAN BANGLA bongo
-https://api.bongohub.pw/bongo.php?cc=gaan-bangla
 ------------------------------------------------------------------------
 #EXTINF:-1,ATN Islam jago
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/chunks.m3u8
@@ -390,13 +299,6 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1,Discovery
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
-#EXTINF:-1,Discovery
-http://103.132.181.118:82/play/a007
-#EXTINF:-1,Discovery
-https://1rdk.short.gy/Discovery-Bangla/Himel-Op.m3u8
-
-#EXTINF:-1,SONY BBC EARTH HD bongo
-https://bongohub.pw/Sony.php?id=1000009252&e=.m3u8
 
 #EXTINF:-1,xlpore HD
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
@@ -419,13 +321,6 @@ https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/i
 #EXTINF:-1,Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
-#EXTINF:-1,Cartoon Network
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-#EXTINF:-1,Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 ,CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-
 #EXTINF:-1,zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 
@@ -435,46 +330,11 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
 #EXTINF:-1,wow-tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1,Sony WAH bongo
-https://bongohub.pw/Sony.php?id=1000009253&e=.m3u8
-
-#EXTINF:-1,Sony YAY bongo
-https://bongohub.pw/Sony.php?id=1000001971&e=.m3u8
-
-#EXTINF:-1,Sony Pal bongo
-https://bongohub.pw/Sony.php?id=1000009273&e=.m3u8
-
-#EXTINF:-1,pictures-hd bongo
-https://api.bongohub.pw/bongo.php?cc=pictures-hd
-
-#EXTINF:-1,zee-cinema-hd bongo
-https://api.bongohub.pw/bongo.php?cc=zee-cinema-hd
-
-#EXTINF:-1,zee-bollywood bongo
-https://api.bongohub.pw/bongo.php?cc=zee-bollywood
-
-#EXTINF:-1,zee-anmol bongo
-https://api.bongohub.pw/bongo.php?cc=zee-anmol
-
-#EXTINF:-1,zee-action bongo
-https://api.bongohub.pw/bongo.php?cc=zee-action
-
-#EXTINF:-1,zee-tv-hd bongo
-https://api.bongohub.pw/bongo.php?cc=zee-tv-hd
-
-#EXTINF:-1,Sony Max 2 bongo
-https://bongohub.pw/Sony.php?id=1000044878&e=.m3u8
-
-#EXTINF:-1,Sony Max HD bongo
-https://bongohub.pw/Sony.php?id=1000009247&e=.m3u8
-
 #EXTINF:-1,BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1,AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1,AlJazeera bongo
-https://api.bongohub.pw/bongo.php?cc=al-jazeera
 
 #EXTINF:-1,DW Official
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
@@ -484,20 +344,17 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,France 24 jagobd
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/chunks.m3u8
 
-#EXTINF:-1,fashion-tv bongo
-https://api.bongohub.pw/bongo.php?cc=fashion-tv
 -----------------------------------------------------------------------------------
 ***** FM Radio *****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFnUmxM.png" group-title="FM Radio", ABC Radio (89.2)
-http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (88.8)
-http://as3.digitalsynapsebd.com:8263/;stream.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIIvblK.png" group-title="FM Radio", Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meR71iP.png" group-title="FM Radio", Colours FM (101.6)
-http://45.64.135.88:8000/stream1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tymBHqQ.png" group-title="FM Radio", Dhaka FM (90.4)
 http://118.179.219.244:8000/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgjOpqz.png" group-title="FM Radio", Jago FM (94.4)
@@ -513,20 +370,14 @@ http://118.179.215.45:8000/;stream/1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HrUDOH.png" group-title="FM Radio", Radio Today (89.6)
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dbNaIjP.png" group-title="FM Radio", Radio Dhoni (91.2)
-http://103.148.172.30:1020/;stream.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dbNaIjP.png" group-title="FM Radio", Radio Dhoni (91.2)
 https://stream-14.zeno.fm/ybf1umk1k18uv?zs=bzDiu7IWQ5GSL0AXW9Uzag
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UDrB3Z9.png" group-title="FM Radio", Radio Shadhin (92.4)
-http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oCqZq70.png" group-title="FM Radio", Radio Mirchi (98.3)
-http://peridot.streamguys.com:7150/Mirchi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FtO5Esl.png" group-title="FM Radio", Radio Ekattor (98.4)
-http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SzLPkH4.png" group-title="FM Radio", Spice FM (96.4)
-http://162.254.149.187:9300/;stream.mp3
+
 -----------------------------------------------------------------------------------
-#EXTINF:-1,Test
-http://cdn17274170.blazingcdn.net/UNO%20Sir%20%282024%29-Bengali%20DP%20WEB-D-ottbangla.shop.mkv
+
 -----------------------------------------------------------------------------------
 For epg
 http://botallen.live/epg.xml.gz
