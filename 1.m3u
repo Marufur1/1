@@ -8,7 +8,7 @@ http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8?expire=1671299853&token=22
 #EXTINF:-1,BTV Chattogram palki.tv
 http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,Sangshad TV bongo
+#EXTINF:-1,Sangshad TV
 
 #EXTINF:-1,Somoy TV jago
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
@@ -25,8 +25,9 @@ https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,DBC NEWS palki.tv
 http://cdn01.palki.tv/live/DBC-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,CHANNEL 24 jago@
-https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL 24 jago
+https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8
+
 #EXTINF:-1,CHANNEL 24 palki.tv
 http://cdn01.palki.tv/live/Channel24-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -80,14 +81,13 @@ https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 http://cdn01.palki.tv/live/BanglaVision-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,MAASRANGA TV official
-https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1,MAASRANGA TV official
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAASRANGA TV palki
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,SA TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
+
 #EXTINF:-1,SA TV palki
 http://cdn01.palki.tv/live/SATV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -125,6 +125,8 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1,DEEPTO TV palki.tv
 http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,MY TV official
+https://myflixbd.com/0.m3u8
 #EXTINF:-1,MY TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1,MY TV palki@
@@ -347,9 +349,17 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 -----------------------------------------------------------------------------------
 ***** FM Radio *****
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CFnUmxM.png" group-title="FM Radio", ABC Radio (89.2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (Traffic Broadcast Service88.8)
+https://as1.digitalsynapsebd.com/proxy/bbdktraf/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (ka)
+https://as1.digitalsynapsebd.com/proxy/bbdkka/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (kha)
+https://as1.digitalsynapsebd.com/proxy/bbdkkha/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (Commercial Service)
+https://as1.digitalsynapsebd.com/proxy/bbdkcom/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (Commercial Service)
+https://as1.digitalsynapsebd.com/proxy/bbdkcom2/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (88.8)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIIvblK.png" group-title="FM Radio", Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
