@@ -14,6 +14,8 @@ http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8?expire=1671299853&tok
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Somoy TV palki
 http://cdn01.palki.tv/live/SomoyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,Somoy TV hoichoi24.com
+https://tv5.hoichoi24.com/1111/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,NEWS24 jago
 https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
@@ -24,6 +26,8 @@ http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8?expire=1671299853&token=2224
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,DBC NEWS palki.tv
 http://cdn01.palki.tv/live/DBC-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,DBC NEWS hoichoi24.com
+https://tv5.hoichoi24.com/1104/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,CHANNEL 24 jago
 https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8
@@ -42,14 +46,20 @@ http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,ATN NEWS jago@
 https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1,ATN NEWS hoichoi24
+https://tv5.hoichoi24.com/1134/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,JAMUNA TV jago
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,JAMUNA TV palki
 http://cdn01.palki.tv/live/JamunaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,JAMUNA TV hoichoi24
+https://tv5.hoichoi24.com/1106/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Ekattor TV HD palki
 http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1 ,Ekattor TV HD hoichoi24.com
+https://tv5.hoichoi24.com/1136/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,CHANNEL I jago
 https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
@@ -59,11 +69,15 @@ https://stream.rockstreamer.com/live/121212.m3u8
 http://cdn01.palki.tv/live/Channeli-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,CHANNEL I
 http://208.86.19.13:81/510.stream/index.m3u8?
+#EXTINF:-1,CHANNEL I hoichoi24.com
+https://tv5.hoichoi24.com/1120/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,ATN BANGLA jago
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,ATN BANGLA palki
 http://cdn01.palki.tv/live/ATNBangla-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,ATN BANGLA hoichoi24
+https://tv5.hoichoi24.com/1126/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,N TV palki
 http://cdn01.palki.tv/live/NTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -74,27 +88,36 @@ http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,RTV palki
 http://cdn01.palki.tv/live/RTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,RTV hoichoi24.com
+https://tv5.hoichoi24.com/1128/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BANGLA VISION jago
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1,BANGLAVISION palki
 http://cdn01.palki.tv/live/BanglaVision-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,BANGLAVISION hoichoi24.com
+https://tv5.hoichoi24.com/1125/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,MAASRANGA TV official
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAASRANGA TV palki
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,MAASRANGA TV hoichoi24.com
+https://tv5.hoichoi24.com/1122/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,SA TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
-
 #EXTINF:-1,SA TV palki
 http://cdn01.palki.tv/live/SATV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,SA TV hoichoi24.com
+https://tv5.hoichoi24.com/1133/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Boishakhi TV jagobd
 https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,BOISHAKHI TV palki
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,BOISHAKHI TV hoichoi24.com
+https://tv5.hoichoi24.com/1118/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,NAGORIK TV palki@
 http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
@@ -103,6 +126,8 @@ http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
 https://livess.jagobd.com.bd/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1,Channel 9 HD palki.tv
 http://cdn01.palki.tv/live/Channel9-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,Channel 9 HD hoichoi24.com
+https://tv5.hoichoi24.com/1124/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -124,6 +149,8 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-1080p.m3u8
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1,DEEPTO TV palki.tv
 http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,DEEPTO TV hoichoi24.com
+https://tv5.hoichoi24.com/1105/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,MY TV official
 https://myflixbd.com/0.m3u8
@@ -151,11 +178,15 @@ http://cdn01.palki.tv/live/BijoyTV-M/index.fmp4.m3u8?expire=1671299853&token=222
 https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV palki.tv
 http://cdn01.palki.tv/live/BanglaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,BANGLA TV hoichoi24.com
+https://tv5.hoichoi24.com/1116/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,MOHONA TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1,MOHONA TV palki
 http://cdn01.palki.tv/live/MohonaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,MOHONA TV hoichoi24.com
+https://tv5.hoichoi24.com/1123/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,movie bangla TV jagobd
 https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
@@ -294,8 +325,20 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 ,Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
+#EXTINF:-1 ,Star Jalsha HD hoichoi24
+https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Zee bangla HD
 https://tv5.hoichoi24.com/1405/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,COLOR bangla HD
+https://tv5.hoichoi24.com/1411/tracks-v1/mono.m3u8
+#EXTINF:-1,Star Jalsha CINEMA HD
+https://tv5.hoichoi24.com/1408/index.m3u8
+
+#EXTINF:-1,ZE BANGLA CINEMA HD
+https://tv5.hoichoi24.com/1401/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,SONY AYT HD
+https://tv5.hoichoi24.com/1409/tracks-v1a1/mono.m3u8
 -------------------------------------------------------------------------
 #EXTINF:-1,ATN Music Jago
 https://livess.jagobd.com.bd/live-orgin/atnmusic.stream/playlist.m3u8
@@ -329,6 +372,14 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1,Discovery
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+https://tv5.hoichoi24.com/1902/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BBC EARTH hoichoi24.com
+https://tv5.hoichoi24.com/1801/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC EARTH hoichoi24.com
+https://tv5.hoichoi24.com/1806/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,xlpore HD
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
@@ -365,6 +416,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1,AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,AlJazeera hoichoi24.com
+https://tv5.hoichoi24.com/1802/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,DW Official
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
