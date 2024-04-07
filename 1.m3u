@@ -225,6 +225,9 @@ https://tv5.hoichoi24.com/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Star SPORTS
 https://tv5.hoichoi24.com/1026/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,SPORTS
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
+
 #EXTINF:-1,Nexus TV jagobd@
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1,Nexus TV palki
