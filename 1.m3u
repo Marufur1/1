@@ -73,6 +73,7 @@ http://208.86.19.13:81/510.stream/index.m3u8?
 https://tv5.hoichoi24.com/1120/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,ATN BANGLA jago
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,ATN BANGLA palki
 http://cdn01.palki.tv/live/ATNBangla-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -92,6 +93,7 @@ http://cdn01.palki.tv/live/RTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a06
 https://tv5.hoichoi24.com/1128/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BANGLA VISION jago
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1,BANGLAVISION palki
 http://cdn01.palki.tv/live/BanglaVision-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -113,6 +115,10 @@ http://cdn01.palki.tv/live/SATV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0
 https://tv5.hoichoi24.com/1133/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Boishakhi TV jagobd
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1,Boishakhi TV official
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
 https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,BOISHAKHI TV palki
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -159,7 +165,8 @@ https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1,MY TV palki@
 http://cdn01.palki.tv/live/MyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,ASIAN TV jagobd@
+#EXTINF:-1,ASIAN TV official
+https://mtlivestream.site/asian/ytlive/index.m3u8
 https://livess.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,ASIAN TV palki
 http://cdn01.palki.tv/live/AsianTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -170,11 +177,13 @@ https://livess.jagobd.com.bd/live-orgin/anandatv.stream/chunks.m3u8
 http://cdn01.palki.tv/live/AnandaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,BIJOY TV jagobd
+https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1,BIJOY TV palki.tv
 http://cdn01.palki.tv/live/BijoyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,BANGLA TV Jagobd
+https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV palki.tv
 http://cdn01.palki.tv/live/BanglaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -311,6 +320,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voa.stream/chunks.m3u8
 
 #EXTINF:-1,ATN BANGLA UK jagobd
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/chunks.m3u8
 
 #EXTINF:-1,AMAR BANGLA jagobd
