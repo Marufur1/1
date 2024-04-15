@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,BTV palki.tv100
+#EXTINF:-1,BTV palki.tv-1
 http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,BTV World palki.tv
 http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -405,7 +405,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 -----------------------------------------------------------
 #EXTINF:-1,Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:-1 ,Star Jalsha HD
+#EXTINF:-1 ,Star Jalsha HD-2
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #EXTINF:-1 ,Star Jalsha HD hoichoi24
 https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
@@ -417,9 +417,9 @@ https://tv5.hoichoi24.com/1405/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,COLOR bangla HD
 https://tv5.hoichoi24.com/1411/tracks-v1/mono.m3u8
-#EXTINF:-1 ,COLOR bangla HD
+#EXTINF:-1 ,COLOR bangla HD-2
 http://mag.trexlive.me:80/Michael88/Michael88/225740
-#EXTINF:-1 ,COLOR bangla HD
+#EXTINF:-1 ,COLOR bangla HD-3
 http://xtv.ooo:8080/T4S00515/820172/245895
 
 #EXTINF:-1,Star Jalsha CINEMA HD
@@ -427,17 +427,19 @@ https://tv5.hoichoi24.com/1408/index.m3u8
 
 #EXTINF:-1,ZE BANGLA CINEMA HD
 https://tv5.hoichoi24.com/1401/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZE BANGLA CINEMA HD
+#EXTINF:-1,ZE BANGLA CINEMA HD-2
 http://xtv.ooo:8080/T4S00515/820172/245897
+
 #EXTINF:-1,SONY AYT HD
 https://tv5.hoichoi24.com/1409/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Akash Aath
 http://mag.trexlive.me/Michael88/Michael88/282065
-#EXTINF:-1,Akash Aath
+#EXTINF:-1,Akash Aath-2
 http://176.119.29.52/live.ts?channelId=079&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1,Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
 #EXTINF:-1,Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
@@ -476,9 +478,9 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 #EXTINF:-1,Discovery
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1,Discovery
+#EXTINF:-1,Discovery-2
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-#EXTINF:-1,Discovery
+#EXTINF:-1,Discovery-3
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC
@@ -486,7 +488,7 @@ https://tv5.hoichoi24.com/1902/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BBC EARTH hoichoi24.com
 https://tv5.hoichoi24.com/1801/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BBC EARTH hoichoi24.com
+#EXTINF:-1,BBC EARTH hoichoi24.com-2
 https://tv5.hoichoi24.com/1806/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,xlpore HD
