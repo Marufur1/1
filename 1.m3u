@@ -587,6 +587,64 @@ https://stream-14.zeno.fm/ybf1umk1k18uv?zs=bzDiu7IWQ5GSL0AXW9Uzag
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SzLPkH4.png" group-title="FM Radio", Spice FM (96.4)
 
 -----------------------------------------------------------------------------------
+[
+  {
+    "name": "Banglami",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/287497/logo/240x240/mobile_logo_644514001712755411.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1713211585:KeyName=prod_live_events:Signature=I-Hg_O_J-EE5zZF1iLT35PjfQhWsFHxNcqf-KJOSJcalNZ1JNfaQYM7e4tbKz_USmB1y8wqMKxQz7uBUxp2CAg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "IPL VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1713233176:KeyName=prod_live_events:Signature=VvbuHISTauz-ulEukwur-bJgXp0IzkPx9rlY-qBw1WZsS5Al-0yP1n3i4YhiA7MApCRZvXl46tRBUEpmOGLVBw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Sports VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1713333949:KeyName=prod_linear:Signature=OXgWBrS5oh_9oLZRn_AutuuI9UXSaMbdNL9K8Bc38-2Bp9RrD8fdihJcIkFBv7JlSRJ57ZzJWjOfgIy3P3RaBw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Dramas",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1713333949:KeyName=prod_linear:Signature=OXgWBrS5oh_9oLZRn_AutuuI9UXSaMbdNL9K8Bc38-2Bp9RrD8fdihJcIkFBv7JlSRJ57ZzJWjOfgIy3P3RaBw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1713333949:KeyName=prod_linear:Signature=OXgWBrS5oh_9oLZRn_AutuuI9UXSaMbdNL9K8Bc38-2Bp9RrD8fdihJcIkFBv7JlSRJ57ZzJWjOfgIy3P3RaBw",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
+]
+-----------------------------------------------------------------------------------
 for epg
 http://botallen.live/epg.xml.gz
 for playlist
@@ -605,7 +663,8 @@ https://raw.githubusercontent.com/Marufur1/1/main/1.m3u
 7.  https://daem.short.gy/ddfreedish
 8.  https://s.id/BDStreamHub
 9.  https://s.id/hasantvbd0
-10.  https://s.id/Yaminvai
+10. https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
+
 
 https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Yamin%202.0.m3u8
 
