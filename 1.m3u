@@ -503,8 +503,10 @@ https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1,ATN Music http://xtv.ooo
 http://xtv.ooo:8080/667861/336612/245939
 
-#EXTINF:-1,Rtv Music Jago@
+#EXTINF:-1,Rtv Music Jago
 https://livess.ncare.live/live-orgin/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1,Rtv Music https://ythls-v2.onrender.com
+https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 
 #EXTINF:-1,GAAN BANGLA palki.tv
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
@@ -542,31 +544,54 @@ https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1,Discovery-3
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 
+#EXTINF:-1,Discovery Science
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+
+#EXTINF:-1,Discovery Turbo
+https://dplus.gammacdn.workers.dev/videos/98.m3u8
+
+#EXTINF:-1,Discovery Asia
+http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/382920.ts
+
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 https://tv5.hoichoi24.com/1902/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,National Geographic Wild
+https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
+
+#EXTINF:-1,Animal Planet HD
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1,Animal Planet HD-2
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1,BBC EARTH hoichoi24.com
 https://tv5.hoichoi24.com/1801/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC EARTH hoichoi24.com-2
 https://tv5.hoichoi24.com/1806/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,TLC
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
+#EXTINF:-1,TLC-2
+https://dplus.gammacdn.workers.dev/videos/97.m3u8
+
+#EXTINF:-1,TRAVELXP
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1,xlpore HD
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Animal Planet HD
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
-#EXTINF:-1,CGTN Documentary
-http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
-
-#EXTINF:-1,TLC
-https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
-
 #EXTINF:-1,Food Network
 https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_14.m3u8
+#EXTINF:-1,Food Network-2
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF:-1,Food Network-3
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+
+#EXTINF:-1,CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1,Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
@@ -582,6 +607,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1,BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -601,51 +629,65 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (Traffic Broadcast Service88.8)
 https://as1.digitalsynapsebd.com/proxy/bbdktraf/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (ka)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio",Bangladesh Betar (ka)
 https://as1.digitalsynapsebd.com/proxy/bbdkka/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (kha)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio",Bangladesh Betar (kha)
 https://as1.digitalsynapsebd.com/proxy/bbdkkha/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (Commercial Service)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio",Bangladesh Betar (Commercial Service)
 https://as1.digitalsynapsebd.com/proxy/bbdkcom/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (Commercial Service)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio",Bangladesh Betar (Commercial Service)
 https://as1.digitalsynapsebd.com/proxy/bbdkcom2/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio",Bangladesh Betar 
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YIIvblK.png" group-title="FM Radio", Radio Bhumi FM (92.8)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIIvblK.png" group-title="FM Radio",Radio Bhumi FM (92.8)
 https://stream-156.zeno.fm/ybf1umk1k18uv?zs=8UjBVjgFR2ane9gEZ3p8Sg&rj-ttl=5&rj-tok=AAABe1NFO6gA542z2Iqhtx1S5w
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RSoi6ue.png" group-title="FM Radio", Radio Foorti (88.0)
 https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RSoi6ue.png" group-title="FM Radio", Radio Foorti (88.0)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RSoi6ue.png" group-title="FM Radio",Radio Foorti (88.0)
 https://stream-152.zeno.fm/cwa3vg8s8druv?zs=IJBALcDWT9-oW3tQUesISw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tymBHqQ.png" group-title="FM Radio", Dhaka FM (90.4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tymBHqQ.png" group-title="FM Radio",Dhaka FM (90.4)
 http://118.179.219.244:8000/;stream.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tymBHqQ.png" group-title="FM Radio", Dhaka FM (90.4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tymBHqQ.png" group-title="FM Radio",Dhaka FM (90.4)
 https://stream-163.zeno.fm/u9mphfk604zuv?zs=X4o2REd5TGa0_yHyBjUoQA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tymBHqQ.png" group-title="FM Radio",Dhaka FM (90.4)
+https://stream-162.zeno.fm/ay4pqkk604zuv?zs=uxE5poqeQiiHORwP1eBreQ
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YIIvblK.png" group-title="FM Radio", Big FM (92.7)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIIvblK.png" group-title="FM Radio",Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF:-1 tvg-logo="https://i.imgur.com/meR71iP.png" group-title="FM Radio", Colours FM (101.6)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/meR71iP.png" group-title="FM Radio",Colours FM (101.6)
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sgjOpqz.png" group-title="FM Radio", Jago FM (94.4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgjOpqz.png" group-title="FM Radio",Jago FM (94.4)
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sgjOpqz.png" group-title="FM Radio", Jago FM (94.4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgjOpqz.png" group-title="FM Radio",Jago FM (94.4)
 http://128.199.184.111:12496/;stream/1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ocVszJG.png" group-title="FM Radio", Peoples Radio (91.6)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocVszJG.png" group-title="FM Radio",Peoples Radio (91.6)
 http://s3.myradiostream.com:14498/;stream.mp3
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ni355Vy.png" group-title="FM Radio", Radio Amar (88.4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ni355Vy.png" group-title="FM Radio",Radio Amar (88.4)
 http://118.179.215.45:8000/;stream/1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0HrUDOH.png" group-title="FM Radio", Radio Today (89.6)
-http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dbNaIjP.png" group-title="FM Radio", Radio Dhoni (91.2)
-https://stream-14.zeno.fm/ybf1umk1k18uv?zs=bzDiu7IWQ5GSL0AXW9Uzag
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UDrB3Z9.png" group-title="FM Radio", Radio Shadhin (92.4)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FtO5Esl.png" group-title="FM Radio", Radio Ekattor (98.4)
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SzLPkH4.png" group-title="FM Radio", Spice FM (96.4)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HrUDOH.png" group-title="FM Radio",Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HrUDOH.png" group-title="FM Radio",Radio Today (89.6)
+http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbNaIjP.png" group-title="FM Radio",Radio Dhoni (91.2)
+https://stream-14.zeno.fm/ybf1umk1k18uv?zs=bzDiu7IWQ5GSL0AXW9Uzag
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDrB3Z9.png" group-title="FM Radio",Radio Shadhin (92.4)
+http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtO5Esl.png" group-title="FM Radio",Radio Ekattor (98.4)
+http://192.144.82.200:9302/;stream/1;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SzLPkH4.png" group-title="FM Radio",Spice FM (96.4)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SzLPkH4.png" group-title="FM Radio",Redio Sarabela
+http://103.4.145.50:8000/stream/1/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SzLPkH4.png" group-title="FM Radio",Redio Padma
+http://cassini.shoutca.st:9109/radiopadma.mp3
 
 -----------------------------------------------------------------------------------
 [
@@ -723,7 +765,7 @@ https://raw.githubusercontent.com/Marufur1/1/main/1.m3u
 6.  https://s.id/BongoFlix
 7.  https://daem.short.gy/ddfreedish
 8.  https://s.id/BDStreamHub
-9.  UF-https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
+9.  https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
 10. https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
 
 
