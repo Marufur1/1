@@ -160,6 +160,10 @@ https://freeiptv25.netlify.app/live/bdix/app/Channel9.m3u8
 
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,EKUSHEY Official-2
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1,EKUSHEY Official-3
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,EKUSHEY jago
 https://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
 #EXTINF:-1,EKUSHEY palki.tv
@@ -203,6 +207,8 @@ http://cdn01.palki.tv/live/AsianTV-M/index.fmp4.m3u8?expire=1671299853&token=222
 https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1,Ananda TV palki
 http://cdn01.palki.tv/live/AnandaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,Ananda TV http://103.107.79.87
+http://103.107.79.87:8080/1113/video.m3u8
 #EXTINF:-1,Ananda TV http://tv5.hoichoi24.com
 http://tv5.hoichoi24.com/1113/tracks-v1a1/index.m3u8
 
@@ -236,6 +242,8 @@ https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1,movie bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+#EXTINF:-1,GAZI http://103.107.79.87
+http://103.107.79.87:8080/1102/video.m3u8
 #EXTINF:-1,GAZI hoichoi24
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GAZI
@@ -299,6 +307,8 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1,Duronto palki.tv
 http://cdn01.palki.tv/live/Duronto-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,Duronto http://103.107.79.87
+http://103.107.79.87:8080/CH8108HD01/video.m3u8
 
 #EXTINF:-1,JAGONEWS 24 TV jagobd
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
@@ -761,17 +771,11 @@ https://raw.githubusercontent.com/Marufur1/1/main/1.m3u
 
 ☞  আইপিটিভি প্লেলিস্ট ↓
 
-1. 
-2.  https://is.gd/bdixsky.m3u
-3.  
-4.  https://s.id/freetvbd
-5.  
-6.  https://s.id/BongoFlix
-7.  
-
-
-9.  https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
-10. https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
+1. https://is.gd/bdixsky.m3u
+2. https://s.id/freetvbd
+3. https://s.id/BongoFlix
+4.  https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
+5. https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
 
 
 https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Yamin%202.0.m3u8
