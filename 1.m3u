@@ -380,36 +380,28 @@ http://mag.trexlive.me:80/Michael88/Michael88/225740
 #EXTINF:-1,Star Jalsha CINEMA HD
 
 #EXTINF:-1,Jalsha Movies HD-3
-http://tv.mototvlive.net:8880/live/salman/salman/1563.m3u8
 
 #EXTINF:-1,ZE BANGLA CINEMA HD
-https://tv5.hoichoi24.com/1401/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZE BANGLA CINEMA HD-2
-http://xtv.ooo:8080/T4S00515/820172/245897
 
 #EXTINF:-1,COLORS BANGLA CINEMA
-https://tv5.hoichoi24.com/1404/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sun Bangla Cinema
-https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 -------------------------------------------------------------------------
 #EXTINF:-1,ATN Music Jago
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1,ATN Music http://xtv.ooo
+#EXTINF:-1,ABC Music http://xtv.ooo
 http://xtv.ooo:8080/667861/336612/245939
 
-#EXTINF:-1,Rtv Music Jago
-https://livess.ncare.live/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Rtv Music https://ythls-v2.onrender.com
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+#EXTINF:-1,Rtv Music Jago@
+https://livess.ncare.live/live-orgin/rtvmusic.stream/chunks.m3u8
 
 #EXTINF:-1,GAAN BANGLA palki.tv
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
-#EXTINF:-1,GAAN BANGLA jagobd
+#EXTINF:-1,GAAN BANGLA jagobd@
 https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1,GAAN BANGLA https://himel-op.top
-https://himel-op.top/portal/puk.m3u8?id=11895
 
 ------------------------------------------------------------------------
 #EXTINF:-1,ATN Islam jago
@@ -421,8 +413,6 @@ https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 http://208.86.19.13:81/507.stream/index.m3u8
 #EXTINF:-1,Iqra Bangla https://ap02.iqplay.tv
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
-#EXTINF:-1,Iqra Bangla https://cdn5.iqsat.net
-https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 
 #EXTINF:-1,Deen TV UK [Jagobd]
 https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
@@ -447,10 +437,8 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 
 #EXTINF:-1,Discovery Asia
-http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/382920.ts
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-https://tv5.hoichoi24.com/1902/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,National Geographic Wild
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
@@ -460,10 +448,7 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 #EXTINF:-1,Animal Planet HD-2
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
-#EXTINF:-1,BBC EARTH hoichoi24.com
-https://tv5.hoichoi24.com/1801/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BBC EARTH hoichoi24.com-2
-https://tv5.hoichoi24.com/1806/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC EARTH
 
 #EXTINF:-1,TLC
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
@@ -502,25 +487,22 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1,BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1,CNN
+#EXTINF:-1,CNN OFFICIALS 
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1,AlJazeera hoichoi24.com
-https://tv5.hoichoi24.com/1802/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AlJazeera-2
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1,DW Official
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1,DW jagobd
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 
 #EXTINF:-1,France 24 jagobd
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 
 -----------------------------------------------------------------------------------
 ***** FM Radio *****
