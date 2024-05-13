@@ -197,9 +197,9 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,Test
+#EXTINF:-1,Toffe-1
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-3&hls=master_1300.m3u8
-#EXTINF:-1,Test
+#EXTINF:-1,Toffe-2
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
 
 #EXTINF:-1,Nexus TV jagobd
