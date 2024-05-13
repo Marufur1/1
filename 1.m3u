@@ -134,8 +134,6 @@ https://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
 http://cdn01.palki.tv/live/EkusheyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,DESH TV
-#EXTINF:-1,DESH TV freeiptv25.net
-https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1,DESH TV Jagobd@
 https://livess.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
@@ -176,7 +174,7 @@ http://cdn01.palki.tv/live/BijoyTV-M/index.fmp4.m3u8?expire=1671299853&token=222
 http://xtv.ooo:8080/667861/336612/245946
 
 #EXTINF:-1,BANGLA TV Official
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1,BANGLA TV Jagobd
 https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV palki.tv
@@ -199,6 +197,10 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,Test
+https://its-nayeemparvez.xyz/toffee/stream.php?id=match-3&hls=master_1300.m3u8
+#EXTINF:-1,Test
+https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
 
 #EXTINF:-1,Nexus TV jagobd
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
@@ -238,7 +240,7 @@ https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-1,BANGLA TV Europe official
-https://byphdgllyk.gpcdn.net/hls/banglatveurope/0_1/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
 #EXTINF:-1,CAN BANGLA jagobd
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/canbanglatv.stream/chunks.m3u8
@@ -485,7 +487,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1,BBC World News
-
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1,CNN OFFICIALS 
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -579,6 +581,7 @@ for playlist
 6.https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Yamin%202.0.m3u8
 7.https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
 8.https://raw.githubusercontent.com/Gunganstudio/api/main/Pro-Playlist.m3u8
+9.https://github.com/aniketda/iptv2050/blob/main/iptv
 
 ☞  আইপিটিভি টেলিগ্রাম গ্রুপ ↓
 
