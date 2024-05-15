@@ -221,6 +221,10 @@ https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
 #EXTINF:-1,Toffe-2
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1000.m3u8
+#EXTINF:-1,Toffe-2
+https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_640.m3u8
+#EXTINF:-1,Toffe-TEXT
+https://bdixtv247.techpriyo.com/api/bpl/ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640.m3u8
 
 #EXTINF:-1,Nexus TV jagobd
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
@@ -597,6 +601,7 @@ http://botallen.live/epg.xml.gz
 For playlist
 1.https://raw.githubusercontent.com/Marufur1/1/main/1.m3u
 2. https://github.com/aniketda/iptv2050/blob/main/iptv
+3. https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
 3.(Sports) https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
 4.(toffee) https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
 5.(toffee) https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
@@ -604,8 +609,8 @@ For playlist
 
 ☞  আইপিটিভি টেলিগ্রাম চ্যানেল ↓
 
-1.  https://t.me/bdstreamhub
-2.  https://t.me/manikfreecatv
+1.  
+2.  
 3.  https://t.me/bdixftpiptv
 4.  https://t.me/bdxstream
 5.  https://t.me/BongoFlixBD
