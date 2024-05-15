@@ -196,17 +196,13 @@ https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-1,GAZI palki.tv@
 http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,GAZI http://103.151.60.214
-http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,T SPORTS http://103.151.60.214
-http://103.151.60.214:7444/1101/video.m3u8
 
-#EXTINF:-1,Test-1
+#EXTINF:-1,T SPORTS-1 FHD
 http://starshare.live:8080/live/35858547/86368536/18452.ts
-#EXTINF:-1,Test-2
+#EXTINF:-1,T SPORTS-2
 http://starshare.live:8080/live/35858547/86368536/130714.ts
 #EXTINF:-1,Test-3
 http://starshare.live:8080/live/35858547/86368536/304279.ts
@@ -216,9 +212,9 @@ http://starshare.live:8080/live/35858547/86368536/2494.ts
 http://starshare.live:8080/live/35858547/86368536/304278.ts
 #EXTINF:-1,Test-6 Bangla
 http://starshare.live:8080/live/35858547/86368536/304296.ts
-#EXTINF:-1,Test-6
+#EXTINF:-1,Test-6 HINDI
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
-#EXTINF:-1,Test-7
+#EXTINF:-1,Test-7 LOW FAST
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 
 #EXTINF:-1,Toffe-1
@@ -601,10 +597,9 @@ http://botallen.live/epg.xml.gz
 For playlist
 1.https://raw.githubusercontent.com/Marufur1/1/main/1.m3u
 2. https://github.com/aniketda/iptv2050/blob/main/iptv
-3.(toffee) https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
-4.(Sports) https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
-5. https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
-6.https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Yamin%202.0.m3u8
+3.(Sports) https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
+4.(toffee) https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
+5.(toffee) https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
 
 
 ☞  আইপিটিভি টেলিগ্রাম চ্যানেল ↓
