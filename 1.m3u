@@ -1,3 +1,62 @@
+[
+  {
+    "name": "IPL VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716430055:KeyName=prod_live_events:Signature=s7zsv20rUTtAZcSNlh5k8YHKAjXUdmWOW-_YrOflNMg73_XjE-d3ymViqIz-uXB5VAPotXOHmClErdJc5zA6Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "ICC Men's T20 World Cup VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716408396:KeyName=prod_live_events:Signature=EfSQ1nGEPQZjKXBaqxZUU25QoCWhhPZzixJyCSyr_QIXrgr75tp0Bcx-el_7OGWFtl4EbUAPQqmRgKIs_PlwBg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Dramas",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716530827:KeyName=prod_linear:Signature=gZmp0SIhMkgitDofx-GZGU6W0f0-LdWeXXCYG6LUrgqnn8gZz160l-h8vYkajojB6hyuQl6n-ZwWYQqCYk8PBg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716530827:KeyName=prod_linear:Signature=gZmp0SIhMkgitDofx-GZGU6W0f0-LdWeXXCYG6LUrgqnn8gZz160l-h8vYkajojB6hyuQl6n-ZwWYQqCYk8PBg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Sports VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716530827:KeyName=prod_linear:Signature=gZmp0SIhMkgitDofx-GZGU6W0f0-LdWeXXCYG6LUrgqnn8gZz160l-h8vYkajojB6hyuQl6n-ZwWYQqCYk8PBg",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
+]
+
+
 #EXTM3U
 
 #EXTINF:-1,BTV palki.tv-1
@@ -192,28 +251,12 @@ http://starshare.live:8080/live/35858547/86368536/18452.m3u8
 http://starshare.live:8080/live/35858547/86368536/130714.m3u8
 #EXTINF:-1,T SPORTS-3
 http://livetvbox.live:8080/live/Derrick/Derrick/130714.m3u8
-#EXTINF:-1,Test-1 LOW FAST
+#EXTINF:-1,Test-1 LOW
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
-#EXTINF:-1,Test-2
+#EXTINF:-1,Test-2 LOW
 http://starshare.live:8080/live/35858547/86368536/2494.m3u8
-#EXTINF:-1,Test-3 Bangla
-http://starshare.live:8080/live/35858547/86368536/304296.m3u8
 #EXTINF:-1,Test-4 HINDI
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
-
-
-#EXTINF:-1,Toffe
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716755268:KeyName=prod_live_events:Signature=l1ReQZPsTBA5UTYnX4sNRLoewbIleX5ES2h_muiP1sc2hYOFBs-2_OZALyye-KiNxfbuF0LIGVQN-0Jeb0wEBA&auth=Fazla-Rabby
-#EXTINF:-1,IPL BANGLA
-http://livetvbox.live:8080/live/Derrick/Derrick/304286.m3u8
-#EXTINF:-1,Toffe-1
-https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
-#EXTINF:-1,Toffe-2
-https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1000.m3u8
-#EXTINF:-1,Toffe-2
-https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_640.m3u8
-#EXTINF:-1,Toffe-TEXT
-https://bdixtv247.techpriyo.com/api/bpl/ts.php?url=https://mprod-cdn.toffeelive.com/live/match-1/master_640.m3u8
 
 #EXTINF:-1,Nexus TV jagobd
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
@@ -224,8 +267,6 @@ http://cdn01.palki.tv/live/NexusTV-M/index.fmp4.m3u8?expire=1671299853&token=222
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 ,EKHON TV palki
 http://cdn01.palki.tv:80/live/EkhonTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1 ,EKHON TV https://ythls-v2.onrender.com
-https://ythls-v2.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
 #EXTINF:-1,Green TV jagobd
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
