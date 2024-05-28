@@ -6,8 +6,6 @@ http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a06
 http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,BTV http://xtv.ooo
 http://xtv.ooo:8080/live/415663775/826262627/245930.ts
-#EXTINF:-1,BTV world http://xtv.ooo
-http://xtv.ooo:8080/live/415663775/826262627/245922.ts
 #EXTINF:-1,BTV Chattogram palki.tv
 http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -20,10 +18,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716899459/ei/I
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Somoy TV palki
 http://cdn01.palki.tv/live/SomoyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,Somoy TV hoichoi24.com
-https://tv5.hoichoi24.com/1111/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Somoy TV http://103.151.60
-http://103.151.60.214:7444/1111/video.m3u8
 
 #EXTINF:-1,NEWS24 jago
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
