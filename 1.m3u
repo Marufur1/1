@@ -32,7 +32,8 @@ http://cdn01.palki.tv/live/DBC-M/index.fmp4.m3u8?expire=1671299853&token=2224a06
 #EXTINF:-1,CHANNEL 24 jago
 https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8
 #EXTINF:-1,CHANNEL 24 official
-https://live-ak.vimeocdn.com/exp=1714472500~acl=%2F23282587-328e-4470-90e3-14c205b37242%2F%2A~hmac=7f3f0f92d7aa8bff5d60aa2f4ac9af749e01d93023795f4860674ebf51db36d3/23282587-328e-4470-90e3-14c205b37242/chunklist_b728000.m3u8
+https://live-ak.vimeocdn.com/exp=1716893225~acl=%2Fa258d22d-8e38-40e5-b30e-e3d93f424281%2F%2A~hmac=feafe5d0764b0d8d0e5d112b71a7744552ac4e398298ada773fb58c6ae0623fc/a258d22d-8e38-40e5-b30e-e3d93f424281/chunklist_b3256000.m3u8
+
 #EXTINF:-1,CHANNEL 24 palki.tv
 http://cdn01.palki.tv/live/Channel24-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -40,8 +41,6 @@ http://cdn01.palki.tv/live/Channel24-M/index.fmp4.m3u8?expire=1671299853&token=2
 https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,INDEPENDENT TV palki
 http://cdn01.palki.tv/live/Independent-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,INDEPENDENT TV https://ythls-v2.onrender.com
-https://ythls-v2.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
 #EXTINF:-1,ATN NEWS palki
 http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -65,14 +64,8 @@ https://stream.rockstreamer.com/live/121212.m3u8
 
 #EXTINF:-1,CHANNEL I jago
 https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL I http://208.86.19.13:81
-http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1,CHANNEL I palki.tv
 http://cdn01.palki.tv/live/Channeli-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,CHANNEL I freeiptv25.netlify.app
-https://freeiptv25.netlify.app/live/bdix/app/Channeli.m3u8
-#EXTINF:-1,CHANNEL I
-http://208.86.19.13:81/510.stream/index.m3u8
 
 #EXTINF:-1,ATN BANGLA jago Official
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -110,8 +103,6 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,BOISHAKHI TV palki
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,BOISHAKHI TV freeiptv25
-https://freeiptv25.netlify.app/live/bdix/app/Boishakhi.m3u8
 
 #EXTINF:-1,NAGORIK TV palki@
 http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
@@ -120,8 +111,6 @@ http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
 http://cdn01.palki.tv/live/Channel9-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,CHANNEL 9 jagobd@
 https://livess.ncare.live/live-orgin/channel9hd.stream/chunks.m3u8
-#EXTINF:-1,Channel 9 HD freeiptv25.netlif 
-https://freeiptv25.netlify.app/live/bdix/app/Channel9.m3u8
 
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -171,7 +160,7 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.fmp4.m3u8?expire=1671299853&token=22
 https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1,BIJOY TV palki.tv
 http://cdn01.palki.tv/live/BijoyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,BIJOY TV xtv.ooo
+#EXTINF:-1,BIJOY TV xtv.ooo SLOW
 http://xtv.ooo:8080/667861/336612/245946
 
 #EXTINF:-1,BANGLA TV Official
@@ -181,12 +170,10 @@ https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV palki.tv
 http://cdn01.palki.tv/live/BanglaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,MOHONA TV jagobd@
-https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1,MOHONA TV palki
 http://cdn01.palki.tv/live/MohonaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,MOHONA https://freeiptv25.netlif
-https://freeiptv25.netlify.app/live/bdix/app/Mohona.m3u8
+#EXTINF:-1,MOHONA TV jagobd@
+https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1,movie bangla TV official
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -199,26 +186,21 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,T SPORTS-1 FHD
-http://starshare.live:8080/live/35858547/86368536/18452.ts
+#EXTINF:-1,T SPORTS-1 FHD SLOW
+http://starshare.live:8080/live/35858547/86368536/18452.m3u8
 #EXTINF:-1,T SPORTS-2
-http://starshare.live:8080/live/35858547/86368536/130714.ts
-
+http://starshare.live:8080/live/35858547/86368536/130714.m3u8
 #EXTINF:-1,T SPORTS-3
 http://livetvbox.live:8080/live/Derrick/Derrick/130714.m3u8
-
-#EXTINF:-1,Test-3
-http://starshare.live:8080/live/35858547/86368536/304279.ts
-#EXTINF:-1,Test-4
-http://starshare.live:8080/live/35858547/86368536/2494.ts
-#EXTINF:-1,Test-5
-http://starshare.live:8080/live/35858547/86368536/304278.ts
-#EXTINF:-1,Test-6 Bangla
-http://starshare.live:8080/live/35858547/86368536/304296.ts
-#EXTINF:-1,Test-6 HINDI
-https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
-#EXTINF:-1,Test-7 LOW FAST
+#EXTINF:-1,Test-1 LOW FAST
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1,Test-2
+http://starshare.live:8080/live/35858547/86368536/2494.m3u8
+#EXTINF:-1,Test-3 Bangla
+http://starshare.live:8080/live/35858547/86368536/304296.m3u8
+#EXTINF:-1,Test-4 HINDI
+https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+
 
 #EXTINF:-1,Toffe
 https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716755268:KeyName=prod_live_events:Signature=l1ReQZPsTBA5UTYnX4sNRLoewbIleX5ES2h_muiP1sc2hYOFBs-2_OZALyye-KiNxfbuF0LIGVQN-0Jeb0wEBA&auth=Fazla-Rabby
