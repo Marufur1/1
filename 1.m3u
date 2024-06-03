@@ -431,6 +431,7 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1,Discovery-1
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
 #EXTINF:-1,Discovery-2
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1,Discovery-3
@@ -439,15 +440,21 @@ https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 #EXTINF:-1,Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 
+#EXTINF:-1,Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8 
 #EXTINF:-1,Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
-
+#EXTINF:-1,Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8 
 #EXTINF:-1,Discovery Asia
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 
 #EXTINF:-1,National Geographic Wild
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
+
+#EXTINF:-1,Wild Earth(BD) 
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1,Animal Planet HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
