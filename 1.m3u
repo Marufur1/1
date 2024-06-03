@@ -13,8 +13,10 @@ http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8?expire=1671299853&tok
 
 
 #EXTINF:-1,Somoy TV YOUTUBE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716899459/ei/I3pVZuqTI82Ei9oPhae_mA4/ip/86.107.43.88/id/guUykSvBvik.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPMxsBfS9oec3no4fLGLeZRDBVaBXBUmqEqcmf2PLMRHAiEAkb7cgiu6XNV8PZG8bzrzlhIcaQKXmOCdJ3PGuN3_KuQ%3D/file/index.m3u8
-#EXTINF:-1,Somoy TV jago
+https://www.youtube.com/watch?v=mF6zTmiFaAs
+#EXTINF:-1,Somoy TV
+https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t1_r720001.m3u8?useVODOTFE=false
+#EXTINF:-1,Somoy TV
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Somoy TV palki
 http://cdn01.palki.tv/live/SomoyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
@@ -48,7 +50,7 @@ http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8?expire=1671299853&token=222
 https://livess.ncare.live/live-orgin/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1,JAMUNA TV YOUTUBE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716900287/ei/X31VZuXDK4jo6dsP-PyEiA4/ip/86.107.43.88/id/Li7TlLJXt8U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKB-BpJt5mXqDFLC8M9YOfkmr1TEl0Dev2o1sTF_s9WeAiAPtdvbfmfrHuHfhtqXnK41JTL8Ny9MrlIzi-hx5fDrqA%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=LtJkDwI2aUo
 #EXTINF:-1,JAMUNA TV jago
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,JAMUNA TV palki
@@ -185,6 +187,9 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+#EXTINF:-1,T SPORTS
+http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
+
 #EXTINF:-1,TOFFEE Match-1
 https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.toffeelive.com/live/match-1/master_1300.m3u8
 
@@ -196,6 +201,12 @@ http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8
 
 #EXTINF:-1,T20
 http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3960&deviceMac=00:1A:79:09:AC:16
+#EXTINF:-1,PTV
+https://bdixtv247.techpriyo.com/api/chd2/techpriyo.php/ptvpk.m3u8
+#EXTINF:-1,T20
+https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
+#EXTINF:-1,T20
+https://bdixtv247.techpriyo.com/api/chd2/techpriyo.php/vvwillow.m3u8
 
 #EXTINF:-1,Nexus TV jagobd
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
@@ -439,7 +450,7 @@ https://dplus.gammacdn.workers.dev/videos/98.m3u8
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
 #EXTINF:-1,Animal Planet HD
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
 #EXTINF:-1,Animal Planet HD-2
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
@@ -500,6 +511,7 @@ https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
 
 -----------------------------------------------------------------------------------
+
 ***** FM Radio *****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srXJwSN.png" group-title="FM Radio", Bangladesh Betar (Traffic Broadcast Service88.8)
@@ -578,7 +590,8 @@ For playlist
 3. https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
 3.(Sports) https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
 4.(toffee) https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
-
+5.(TSPORTS HD) https://raw.githubusercontent.com/sohag1192/BDIX-IPTV/master/TSPORTS%20HD.m3u8
+6. https://bdixtv247.techpriyo.com/m3u/play18.php?e=.m3u
 
 ☞  আইপিটিভি/ লাইভ টিভি অ্যাপ ↓
 
