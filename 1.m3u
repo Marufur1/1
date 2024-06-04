@@ -21,29 +21,38 @@ https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Somoy TV palki
 http://cdn01.palki.tv/live/SomoyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,NEWS24 YouTube
+https://www.youtube.com/watch?v=2Wa-3czd-_I
 #EXTINF:-1,NEWS24 jago
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1,NEWS24 palki
 http://cdn01.palki.tv/live/News24-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,DBC NEWS YouTube 
+https://www.youtube.com/watch?v=dlSqshkDaPY
 #EXTINF:-1,DBC NEWS jago official
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,DBC NEWS palki.tv
 http://cdn01.palki.tv/live/DBC-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,CHANNEL 24
+https://www.youtube.com/watch?v=o6Qm50bYB78
 #EXTINF:-1,CHANNEL 24 jago
 https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream_480p/chunks.m3u8
 #EXTINF:-1,CHANNEL 24 official
 https://live-ak.vimeocdn.com/exp=1716893225~acl=%2Fa258d22d-8e38-40e5-b30e-e3d93f424281%2F%2A~hmac=feafe5d0764b0d8d0e5d112b71a7744552ac4e398298ada773fb58c6ae0623fc/a258d22d-8e38-40e5-b30e-e3d93f424281/chunklist_b3256000.m3u8
-
 #EXTINF:-1,CHANNEL 24 palki.tv
 http://cdn01.palki.tv/live/Channel24-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,INDEPENDENT TV
+https://www.youtube.com/watch?v=2iGBdzTWvcA
 #EXTINF:-1,INDEPENDENT TV LIVE jago
 https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,INDEPENDENT TV palki
 http://cdn01.palki.tv/live/Independent-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,ATN NEWS
+https://www.youtube.com/watch?v=nw6T7278gRw
 #EXTINF:-1,ATN NEWS palki
 http://cdn01.palki.tv/live/ATNNews-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,ATN NEWS jago@
@@ -56,14 +65,17 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,JAMUNA TV palki
 http://cdn01.palki.tv/live/JamunaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,Ekattor TV
+https://www.youtube.com/watch?v=cCNwpSHHerA
 #EXTINF:-1,Ekattor TV HD palki
 http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,Ekattor TV HD
 https://freeiptv25.netlify.app/live/bdix/app/Ekattor.m3u8
 
+#EXTINF:-1,CHANNEL I
+https://www.youtube.com/watch?v=8tvpdpYqSwg
 #EXTINF:-1,CHANNEL I (iScreen)
 https://stream.rockstreamer.com/live/121212.m3u8
-
 #EXTINF:-1,CHANNEL I jago
 https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I palki.tv
@@ -74,9 +86,13 @@ https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,ATN BANGLA palki
 http://cdn01.palki.tv/live/ATNBangla-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,N TV
+https://www.youtube.com/watch?v=nKCQG-HpRC8
 #EXTINF:-1,N TV palki
 http://cdn01.palki.tv/live/NTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,RTV
+https://www.youtube.com/watch?v=pZvvue1gliw
 #EXTINF:-1,RTV official
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1,RTV jago
@@ -125,6 +141,8 @@ https://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
 #EXTINF:-1,EKUSHEY palki.tv
 http://cdn01.palki.tv/live/EkusheyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,DESH TV
+https://www.youtube.com/watch?v=8u6h05SVTCw
 #EXTINF:-1,DESH TV
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1,DESH TV Jagobd@
@@ -230,6 +248,8 @@ https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1,Nexus TV palki
 http://cdn01.palki.tv/live/NexusTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,EKHON TV
+https://www.youtube.com/watch?v=4etMOBpFCqM
 #EXTINF:-1,EKHON TV jagobd
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 ,EKHON TV palki
