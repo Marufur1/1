@@ -210,6 +210,13 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=222
 #EXTINF:-1,T SPORTS
 http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
 
+#EXTINF:-1,T20 ftp
+http://172.21.21.6:8080/hls/.m3u8
+#EXTINF:-1,NAGORIK TV ftp
+http://198.51.100.100/hls/5008.m3u8
+#EXTINF:-1,NAGORIK TV
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8
+
 #EXTINF:-1,TOFFEE Match-1 (1080P)
 https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.toffeelive.com/live/match-1/master_1300.m3u8
 #EXTINF:-1,TOFFEE Match-1 (720P)
@@ -233,10 +240,7 @@ https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.tof
 #EXTINF:-1,TOFFEE Match-2 (144P)
 https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.toffeelive.com/live/match-2/master_180.m3u8
 
-#EXTINF:-1,NAGORIK TV
-http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8
-
-#EXTINF:-1,T20
+http://172.21.21.6:8080/hls/.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1,PTV
 https://bdixtv247.techpriyo.com/api/chd2/techpriyo.php/ptvpk.m3u8
@@ -414,6 +418,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 
 #EXTINF:-1 ,Zee bangla HD
+http://198.51.100.100/hls/5048.m3u8
 
 #EXTINF:-1 ,COLOR bangla HD
 http://mag.trexlive.me:80/Michael88/Michael88/225740
