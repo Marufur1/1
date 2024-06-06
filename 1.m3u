@@ -78,9 +78,13 @@ https://www.youtube.com/watch?v=8tvpdpYqSwg
 https://stream.rockstreamer.com/live/121212.m3u8
 #EXTINF:-1,CHANNEL I jago
 https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL I jago
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/mono.m3u8
 #EXTINF:-1,CHANNEL I palki.tv
 http://cdn01.palki.tv/live/Channeli-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,ATN BANGLA jago
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/mono.m3u8
 #EXTINF:-1,ATN BANGLA jago Official
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,ATN BANGLA palki
@@ -97,6 +101,8 @@ https://www.youtube.com/watch?v=pZvvue1gliw
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1,RTV jago
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1,RTV jago
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1,RTV palki@
 http://cdn01.palki.tv/live/RTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -110,6 +116,8 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAASRANGA TV palki
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,SA TV jagobd
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/mono.m3u8
 #EXTINF:-1,SA TV jagobd
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,SA TV palki
@@ -149,6 +157,8 @@ http://cdn01.palki.tv/live/DeshTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1,DEEPTO TV jago
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1,DEEPTO TV jago
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/mono.m3u8
 #EXTINF:-1,DEEPTO TV palki.tv
 http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -245,16 +255,25 @@ https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 https://bdixtv247.techpriyo.com/api/chd2/techpriyo.php/vvwillow.m3u8
 
 #EXTINF:-1,Nexus TV jagobd
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
+#EXTINF:-1,Nexus TV jagobd
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1,Nexus TV palki
 http://cdn01.palki.tv/live/NexusTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,EKHON TV YouTube
+#EXTINF:-1,EKHON TV YouTube-1
+https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
+#EXTINF:-1,EKHON TV YouTube-2
 https://www.youtube.com/watch?v=4etMOBpFCqM
+#EXTINF:-1,EKHON TV jagobd
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/mono.m3u8
 #EXTINF:-1,EKHON TV jagobd
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 ,EKHON TV palki
 http://cdn01.palki.tv:80/live/EkhonTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
+
+#EXTINF:-1,Rajdhani TV jagobd
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/mono.m3u8
 
 #EXTINF:-1,Green TV jagobd
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
@@ -275,8 +294,13 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1,PEN TV jagobd
 https://livess.jagobd.com.bd/live-orgin/boulive.stream/chunks.m3u8
 
+#EXTINF:-1,ATN Bangla
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/mono.m3u8
+
 #EXTINF: -1,NRB TV jagobd
 https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF: -1,NRB TV jagobd
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/mono.m3u8
 
 #EXTINF:-1,NTV Europe [Jagobd]
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
@@ -417,6 +441,11 @@ http://198.51.100.100/hls/5048.m3u8
 
 #EXTINF:-1 ,COLOR bangla HD
 http://mag.trexlive.me:80/Michael88/Michael88/225740
+#EXTINF:-1 ,COLOR bangla HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1,Ener 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1,Sun Bangla
 
@@ -436,6 +465,8 @@ https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1,ABC Music http://xtv.ooo
 http://xtv.ooo:8080/667861/336612/245939
 
+#EXTINF:-1,Rtv Music (Youtube)
+https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 #EXTINF:-1,Rtv Music https://ythls-v2.onrender.com
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF:-1,Rtv Music Jago@
@@ -449,6 +480,9 @@ https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 ------------------------------------------------------------------------
 #EXTINF:-1,ATN Islam jago
 https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1,Makkah Tv
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Iqra Bangla jagobd
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
@@ -467,15 +501,25 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
 #EXTINF:-1,Discovery
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
+#EXTINF:-1,Discovery
+https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
+#EXTINF:-1,Discovery
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
+#EXTINF:-1,Discovery
 https://freeott.site/discovery/Discovery_Channel.m3u8
-#EXTINF:-1,Discovery-1
+#EXTINF:-1,Discovery
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-
-#EXTINF:-1,Discovery-2
+#EXTINF:-1,Discovery
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-#EXTINF:-1,Discovery-3
+#EXTINF:-1,Discovery
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 
+
+#EXTINF:-1,Discovery Science
+https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8
+#EXTINF:-1,Discovery Science
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 #EXTINF:-1,Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 
@@ -497,15 +541,28 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1,Animal Planet HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
-#EXTINF:-1,Animal Planet HD-2
+#EXTINF:-1,Animal Planet HD
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1,Animal Planet HD
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1,Animal Planet HD
+https://od.lk/s/ODRfNzIxOTE5NjFf/Animal_Plannet.m3u8
+
+#EXTINF:-1,Investigation Discovery
+https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
+#EXTINF:-1,Investigation Discovery
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
 
 #EXTINF:-1,BBC EARTH
 
 #EXTINF:-1,TLC
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
-#EXTINF:-1,TLC-2
+#EXTINF:-1,TLC
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
+#EXTINF:-1,TLC
+https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
+#EXTINF:-1,TLC
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 
 #EXTINF:-1,TRAVELXP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
@@ -529,6 +586,18 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1,Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
+#EXTINF:-1,Carton Netw  Networ
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
+#EXTINF:-1,Carton Netw  Networ
+https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+
+#EXTINF:-1,Discovery Kids
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8
+
+#EXTINF:-1,Pogo
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+#EXTINF:-1,Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1,zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 
