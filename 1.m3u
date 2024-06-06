@@ -244,15 +244,30 @@ https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.tof
 https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.toffeelive.com/live/match-2/master_640.m3u8
 #EXTINF:-1,TOFFEE Match-2 (144P)
 https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.toffeelive.com/live/match-2/master_180.m3u8
-
+#EXTINF:-1,sky sport
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/7343/index.m3u8
+#EXTINF:-1,T20
 http://172.21.21.6:8080/hls/.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1,PTV
 https://bdixtv247.techpriyo.com/api/chd2/techpriyo.php/ptvpk.m3u8
+#EXTINF:-1,PTV
+http://103.131.214.129:9985/stream/channelid/1036861532.ts
+
 #EXTINF:-1,T20
 https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
 #EXTINF:-1,T20
 https://bdixtv247.techpriyo.com/api/chd2/techpriyo.php/vvwillow.m3u8
+#EXTINF:-1,Star sports 1
+http://103.120.172.74:4600
+#EXTINF:-1,Star sports 2
+http://103.120.172.74:4200
+#EXTINF:-1,Sports 18
+http://103.120.172.74:5500
+#EXTINF:-1,Star Sports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1,Star Sports Select 2
+http://103.120.172.74:4700
 
 #EXTINF:-1,Nexus TV jagobd
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
@@ -451,8 +466,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1,Star Jalsha CINEMA HD
 
-#EXTINF:-1,Jalsha Movies HD-3
-
+#EXTINF:-1,Jalsha Movies HD
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1563.ts
 #EXTINF:-1,ZE BANGLA CINEMA HD
 
 #EXTINF:-1,COLORS BANGLA CINEMA
