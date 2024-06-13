@@ -211,9 +211,10 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,T20 fast server
-https://edge14.xmediaget.com/hls-live/DR_1715372839/1/mediaplaylist.m3u8?s=8bb6a2316948af20e479676c6579fade79c3ced2456f24a645c3cc54d45d84f0&t=1718127082433&ai=1&av=13797&ui=869976601
-
+#EXTINF:-1,1xbet
+https://edge14.xmediaget.com/hls-live/DR_1715374994/1/mediaplaylist.m3u8
+#EXTINF:-1,1xbet
+https://edge14.xmediaget.com/hls-live/DR_1715374994/1/mediaplaylist.m3u8?s=6fab102bdb611586e5e15c1d9461b13b718b859024b894c180e2c22ad9cc0b27&t=1718292340085&ai=1&av=13797&ui=869976601
 
 #EXTINF:-1,T SPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
