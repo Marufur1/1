@@ -8,8 +8,7 @@ http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a06
 http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,BTV http://xtv.ooo
 http://xtv.ooo:8080/live/415663775/826262627/245930.m3u8
-#EXTINF:-1,BTV officials
-https://www.btvlive.gov.bd/streams/0c6977cc-aa89-4141-9b1e-d81e0fe59985/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_1_playlist.m3u8
+
 #EXTINF:-1,BTV Chattogram palki.tv
 http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -18,15 +17,13 @@ http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8?expire=1671299853&tok
 
 #EXTINF:-1,Somoy TV YOUTUBE (VLC PLAYER)
 https://www.youtube.com/watch?v=mF6zTmiFaAs
-#EXTINF:-1,Somoy TV (Official)
-https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t1_r720001.m3u8?useVODOTFE=false
 #EXTINF:-1,Somoy TV jago
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Somoy TV palki
 http://cdn01.palki.tv/live/SomoyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,NEWS24 YouTube (VLC PLAYER)
-https://www.youtube.com/watch?v=2Wa-3czd-_I
+https://www.youtube.com/watch?v=nXjuy8xE468
 #EXTINF:-1,NEWS24 jago
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1,NEWS24 palki
