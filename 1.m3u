@@ -206,8 +206,6 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=222
 #EXTINF:-1,T SPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1,Astro cricket
-http://172.21.21.6:8080/hls/.m3u8
-#EXTINF:-1,Astro cricket-2
 http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1,T20 ftp
 http://172.21.21.6:8080/hls/.m3u8
