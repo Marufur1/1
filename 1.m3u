@@ -203,11 +203,16 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,T SPORTS toffe retos
+#EXTINF:-1, TOFFEE SPorts retos
 https://retosbd.com/toffe/toffe.php?id=match-1
-
+#EXTINF:-1, TOFFEE SPorts retos bn
+https://retosbd.com/toffe/toffe.php?id=match-2
 #EXTINF:-1,NAGORIK TV
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM
+EXTINF:-1,NAGORIK TV ts
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
+#EXTINF:-1,T SPORTS hdstrem
+https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
 #EXTINF:-1,T SPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1,Astro cricket
