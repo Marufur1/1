@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,BTV YOUTUBE (VLC PLAYER)
-https://www.youtube.com/watch?v=jhQSQJSU_rM
 #EXTINF:-1,BTV palki.tv-1
 http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,BTV World palki.tv
@@ -17,8 +15,11 @@ http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8?expire=1671299853&tok
 
 #EXTINF:-1,Somoy TV YOUTUBE (VLC PLAYER)
 https://www.youtube.com/watch?v=mF6zTmiFaAs
-#EXTINF:-1,Somoy TV jago
+#EXTINF:-1,Somoy TV jago-01
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1,Somoy TV jago-02
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/mono.m3u8
+
 #EXTINF:-1,Somoy TV palki
 http://cdn01.palki.tv/live/SomoyTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
