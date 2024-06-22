@@ -83,7 +83,7 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://cdn01.palki.tv/live/JamunaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
 #EXTINF:-1,Ekattor TV YouTube (VLC PLAYER)
-https://www.youtube.com/watch?v=F-Y93LRBLUs
+https://www.youtube.com/@EkattorTelevision/live
 #EXTINF:-1,Ekattor TV HD palki
 http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -246,6 +246,8 @@ https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1,movie bangla TV jagobd-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/mono.m3u8
 
+#EXTINF:-1,GAZI YouTube (VLC PLAYER)
+https://www.youtube.com/channel/UCXuHIkEezOy_b1pnkN0-TIg/live
 #EXTINF:-1,GAZI palki.tv@
 http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -297,10 +299,8 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1,Nexus TV palki
 http://cdn01.palki.tv/live/NexusTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,EKHON TV github
-https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
-#EXTINF:-1,EKHON TV YouTube-2
-https://www.youtube.com/watch?v=4etMOBpFCqM
+#EXTINF:-1,EKHON TV YouTube vlc
+https://youtube.com/@ekhontv/live
 #EXTINF:-1,EKHON TV jagobd
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/mono.m3u8
 #EXTINF:-1 ,EKHON TV palki
@@ -732,6 +732,7 @@ http://cassini.shoutca.st:9109/radiopadma.mp3
 -----------------------------------------------------------------------------------
 for epg
 http://botallen.live/epg.xml.gz
+https://github.com/botallen/epg/releases/download/latest/epg.xml
 For playlist
 1.https://raw.githubusercontent.com/Marufur1/1/main/1.m3u
 2. https://github.com/aniketda/iptv2050/blob/main/iptv
@@ -739,6 +740,8 @@ For playlist
 3.(Sports) https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
 4.(toffee) https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
 5. https://freenote.biz/raw/pYlzrnIMZY
+6. https://github.com/gift4bd/yt-to-m3u/blob/main/youtube.m3u
+7. https://github.com/gift4bd 
 
 ☞  আইপিটিভি/ লাইভ টিভি অ্যাপ ↓
 
