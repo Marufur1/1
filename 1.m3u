@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,BTV officials
+https://www.btvlive.gov.bd/streams/f501d9ee-0dc8-4a8f-8837-246739e6e2f9/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 #EXTINF:-1,BTV palki.tv-1
 http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,BTV World palki.tv
@@ -726,7 +728,14 @@ http://cassini.shoutca.st:9109/radiopadma.mp3
 
 
 -----------------------------------------------------------------------------------
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1564000,RESOLUTION=1920x1080
+355ba051-9a60-48aa-adcf-5a6c64da8c5c_1_playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1064000,RESOLUTION=1280x720
+355ba051-9a60-48aa-adcf-5a6c64da8c5c_2_playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=564000,RESOLUTION=980x480
+355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 -----------------------------------------------------------------------------------
 for epg
 http://botallen.live/epg.xml.gz
