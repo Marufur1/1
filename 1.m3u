@@ -728,14 +728,7 @@ http://cassini.shoutca.st:9109/radiopadma.mp3
 
 
 -----------------------------------------------------------------------------------
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1564000,RESOLUTION=1920x1080
-355ba051-9a60-48aa-adcf-5a6c64da8c5c_1_playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1064000,RESOLUTION=1280x720
-355ba051-9a60-48aa-adcf-5a6c64da8c5c_2_playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=564000,RESOLUTION=980x480
-355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+
 -----------------------------------------------------------------------------------
 for epg
 http://botallen.live/epg.xml.gz
