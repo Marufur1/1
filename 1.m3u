@@ -268,40 +268,25 @@ https://retosbd.com/toffe/toffe.php?id=match-1
 #EXTINF:-1,TOFFEE Channel-1 English VIP-2
 https://retosbd.com/toffe/toffe.php?id=match-2
 
-#EXTINF:-1,NAGORIK TV
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM
-EXTINF:-1,NAGORIK TV ts
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
 EXTINF:-1,1xbet
 https://edge14.xmediaget.com/hls-live/DR_1715382909/1/mediaplaylist.m3u8?s=e682076ef0c2c82a1bb627c408bedbffdb7e14d99ccc0a6596f4d6e7797a451d&t=1718934686554&ai=1&av=13797&ui=869976601
 #EXTINF:-1,T SPORTS hdstrem
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
-#EXTINF:-1,T SPORTS
+#EXTINF:-1,T SPORTS Akash
 http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1,T SPORTS Akash
+http://198.51.100.100/hls/5008.m3u8
+#EXTINF:-1,NAGORIK TV ftp
+http://198.51.100.100/hls/6047.m3u8
 #EXTINF:-1,Astro cricket
 http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1,T20 ftp-1
 http://172.21.21.6:8080/hls/.m3u8
 #EXTINF:-1,T20 ftp-2
-http://198.51.100.100/hls/5008.m3u8
-#EXTINF:-1,T20 ftp-3
 http://172.21.21.6:8080/hls/.m3u8
-#EXTINF:-1,NAGORIK TV ftp
-http://198.51.100.100/hls/6047.m3u8
-#EXTINF:-1,NAGORIK TV ftp
-http://198.51.100.100/hls/5008.m3u8
+
 #EXTINF:-1,NAGORIK TV palki@
 http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
-
-
-#EXTINF:-1,Ten sports
-http://103.131.214.129:9985/stream/channelid/1036861532.ts
-
-#EXTINF:-1,Star sports
-http://103.120.172.74:4600
-
-#EXTINF:-1,Sports 18
-http://103.120.172.74:5500
 
 #EXTINF:-1,Nexus TV YouTube vlc player
 https://youtube.com/@NexusTelevisionLive/live
