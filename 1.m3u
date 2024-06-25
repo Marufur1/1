@@ -261,15 +261,16 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,TOFFEE Channel-1 English VIP
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8|"cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1719345621:KeyName=prod_live_events:Signature=_Nj1jalFUfVv6fTmQNu08mgb9sUtY3NdXNvL0by2uoA_5CRYGKpdOtyKdeewCtojv4_JeU3VUxIDow2ojlKgCg
 #EXTINF:-1,TOFFEE Channel-1 English VIP-1
 https://retosbd.com/toffe/toffe.php?id=match-1
 #EXTINF:-1,TOFFEE Channel-1 English VIP-2
 https://retosbd.com/toffe/toffe.php?id=match-2
 
-EXTINF:-1,1xbet
-https://edge14.xmediaget.com/hls-live/DR_1715382909/1/mediaplaylist.m3u8?s=e682076ef0c2c82a1bb627c408bedbffdb7e14d99ccc0a6596f4d6e7797a451d&t=1718934686554&ai=1&av=13797&ui=869976601
+#EXTINF:-1 group-title="LIVE EVENTS(Himel-OP)" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png", Toffee(Ott)
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1719345621:KeyName=prod_live_events:Signature=_Nj1jalFUfVv6fTmQNu08mgb9sUtY3NdXNvL0by2uoA_5CRYGKpdOtyKdeewCtojv4_JeU3VUxIDow2ojlKgCg"}
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
+
 #EXTINF:-1,T SPORTS hdstrem
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
 #EXTINF:-1,T SPORTS Akash
@@ -278,6 +279,8 @@ http://113.212.111.246:8080/hls/col12.m3u8
 http://198.51.100.100/hls/5008.m3u8
 #EXTINF:-1,NAGORIK TV ftp
 http://198.51.100.100/hls/6047.m3u8
+#EXTINF:-1,NAGORIK TV ftp
+http://himelop-back.ddns.net:8080/hls/col12.m3u8
 #EXTINF:-1,Astro cricket
 http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1,T20 ftp-1
