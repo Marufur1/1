@@ -261,13 +261,19 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,TOFFEE Channel-1 English VIP-1
-https://retosbd.com/toffe/toffe.php?id=match-1
-#EXTINF:-1,TOFFEE Channel-1 English VIP-2
-https://retosbd.com/toffe/toffe.php?id=match-2
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" group-title="LIVE EVENTS(Himel-OP)", Toffee(Ns)
+#EXTINF:-1,Toffee English VIP(Ns)
 https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1719345621:KeyName=prod_live_events:Signature=_Nj1jalFUfVv6fTmQNu08mgb9sUtY3NdXNvL0by2uoA_5CRYGKpdOtyKdeewCtojv4_JeU3VUxIDow2ojlKgCg
+#EXTINF:-1,Toffee Channel-2 Bangla VIP(Ns)
+https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1719346094:KeyName=prod_live_events:Signature=s6CjUH9ATeWAiufaksSd_hDPgLsMnCJX6sY0Q1KV7Q0jwIlRjBj6yo9uyzdtdFWPMayaFgrPEbbmQAePZY1KAQ
+#EXTINF:-1,Toffee COPA America VIP(Ns)
+https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1719346094:KeyName=prod_live_events:Signature=s6CjUH9ATeWAiufaksSd_hDPgLsMnCJX6sY0Q1KV7Q0jwIlRjBj6yo9uyzdtdFWPMayaFgrPEbbmQAePZY1KAQ
+#EXTINF:-1,TOFFEE Dramas VIP(Ns)
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719468040:KeyName=prod_linear:Signature=nLosZHnWVxTfYX1mTIMyDEwIGcDgsXEpuSE-gyMdf8MU_i5NIzh8Au9tx07yje5Uq5Reuk6-NU0IxTRJOvpdBw
+#EXTINF:-1,TOFFEE Movies VIP(Ns)
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719468040:KeyName=prod_linear:Signature=nLosZHnWVxTfYX1mTIMyDEwIGcDgsXEpuSE-gyMdf8MU_i5NIzh8Au9tx07yje5Uq5Reuk6-NU0IxTRJOvpdBw
+#EXTINF:-1,TOFFEE Sports VI(Ns)
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719468040:KeyName=prod_linear:Signature=nLosZHnWVxTfYX1mTIMyDEwIGcDgsXEpuSE-gyMdf8MU_i5NIzh8Au9tx07yje5Uq5Reuk6-NU0IxTRJOvpdBw
 
 #EXTINF:-1,T SPORTS hdstrem
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
