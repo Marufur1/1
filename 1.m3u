@@ -261,11 +261,12 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1, TOFFEE SPorts retos
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8|"cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1719108254:KeyName=prod_live_events:Signature=z6DUEtIszAZs5g96nGZUT7Gxvld6LubaU65k0TqctFy-R5kNavbO2XpEi2J5daCGyVCUr8bVLNROR08BXvhKDw
+#EXTINF:-1,TOFFEE SPorts test1
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8|"cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1719345621:KeyName=prod_live_events:Signature=_Nj1jalFUfVv6fTmQNu08mgb9sUtY3NdXNvL0by2uoA_5CRYGKpdOtyKdeewCtojv4_JeU3VUxIDow2ojlKgCg
 https://retosbd.com/toffe/toffe.php?id=match-1
-#EXTINF:-1, TOFFEE SPorts retos bn
+#EXTINF:-1,TOFFEE SPorts retos bn-3
 https://retosbd.com/toffe/toffe.php?id=match-2
+
 #EXTINF:-1,NAGORIK TV
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM
 EXTINF:-1,NAGORIK TV ts
@@ -749,10 +750,13 @@ http://botallen.live/epg.xml.gz
 https://github.com/botallen/epg/releases/download/latest/epg.xml
 For playlist
 1.https://raw.githubusercontent.com/Marufur1/1/main/1.m3u
-2. https://github.com/aniketda/iptv2050/blob/main/iptv
-3. https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
-3.(Sports) https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
-4.(toffee) https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
+2.(toffee) https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
+3.(Tsports) https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/NS_Player_Tsports_live.m3u
+4.(FanCode) https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_Live.m3u
+5. https://github.com/byte-capsule
+5. https://github.com/aniketda/iptv2050/blob/main/iptv
+6. https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
+7.(Sports) https://raw.githubusercontent.com/Hasanmahmud000/HasanTv/main/Hasan%20Tv
 5. https://freenote.biz/raw/pYlzrnIMZY
 6. https://github.com/gift4bd/yt-to-m3u/blob/main/youtube.m3u
 7. https://github.com/gift4bd 
