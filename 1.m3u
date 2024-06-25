@@ -272,13 +272,14 @@ https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8%7cCookie=Edge-Cache-Coo
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719468040:KeyName=prod_linear:Signature=nLosZHnWVxTfYX1mTIMyDEwIGcDgsXEpuSE-gyMdf8MU_i5NIzh8Au9tx07yje5Uq5Reuk6-NU0IxTRJOvpdBw
 #EXTINF:-1,TOFFEE Movies VIP(Ns)
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719468040:KeyName=prod_linear:Signature=nLosZHnWVxTfYX1mTIMyDEwIGcDgsXEpuSE-gyMdf8MU_i5NIzh8Au9tx07yje5Uq5Reuk6-NU0IxTRJOvpdBw
-#EXTINF:-1,TOFFEE Sports VI(Ns)
+#EXTINF:-1,TOFFEE Sports VIP(Ns)
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719468040:KeyName=prod_linear:Signature=nLosZHnWVxTfYX1mTIMyDEwIGcDgsXEpuSE-gyMdf8MU_i5NIzh8Au9tx07yje5Uq5Reuk6-NU0IxTRJOvpdBw
 
 #EXTINF:-1,T SPORTS apps UEFA Euro 2024(Ns)
 https://live-cdn.tsports.com/live-02/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1719350150:KeyName=tsports-ed25519-01:Signature=63gh5aSP6l-nVQJIq9XReZMbGqZMc79n-WSEwrKqM4PxoJJwiVelqo2P9DScW4MrjL8TTT_Axink2fPJv6buCQ
 T Sports Live apps(Ns)
 https://live-cdn.tsports.com/live-01/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1719350150:KeyName=tsports-ed25519-01:Signature=63gh5aSP6l-nVQJIq9XReZMbGqZMc79n-WSEwrKqM4PxoJJwiVelqo2P9DScW4MrjL8TTT_Axink2fPJv6buCQ
+
 #EXTINF:-1,T SPORTS hdstreamz
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
 #EXTINF:-1,T SPORTS Akash
