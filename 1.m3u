@@ -256,6 +256,8 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 #EXTINF:-1,GAZI YouTube (VLC PLAYER)
 https://www.youtube.com/channel/UCXuHIkEezOy_b1pnkN0-TIg/live
+#EXTINF:-1,GAZI jadoo
+https://nayeemparvez.tech/api/jadoo.php?id=gazi_tv_hd
 #EXTINF:-1,GAZI palki.tv@
 http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -296,6 +298,9 @@ http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3960&deviceMac=00:1A:79:09:AC:
 http://172.21.21.6:8080/hls/.m3u8
 #EXTINF:-1,T20 ftp-2
 http://172.21.21.6:8080/hls/.m3u8
+
+#EXTINF:-1,Star Sports 2 HD
+https://stream.thenayeemparvez.xyz/SPO_STARSPORTS2/index.m3u8
 
 #EXTINF:-1,NAGORIK TV palki@
 http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
