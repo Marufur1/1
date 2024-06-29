@@ -312,6 +312,8 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1404.ts
 http://198.51.100.100/hls/6047.m3u8
 #EXTINF:-1,NAGORIK TV ftp
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
+#EXTINF:-1,NAGORIK
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1719866709&md5=B6MQq_zDWPXxRGvtrjFcdw&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1,Astro cricket
 http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1,T20 ftp-1
