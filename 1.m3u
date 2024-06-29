@@ -298,6 +298,10 @@ https://live-cdn.tsports.com/live-01/index.m3u8%7cCookie=Edge-Cache-Cookie=URLPr
 http:\/\/us.greenbd.online:8880\/live\/Mahfuz340\/01933405340\/9.m3u8
 #EXTINF:-1,T SPORTS hdstreamz
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
+#EXTINF:-1,T SPORTS hdstreamz
+https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_144.m3u8
+#EXTINF:-1,T SPORTS hdstreamz
+https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_144.m3u8
 #EXTINF:-1,T SPORTS Akash
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1,T SPORTS Akash
