@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,BTV
+http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1,BTV officials yputube
 https://www.youtube.com/@BangladeshTelevision-BTV/live
 #EXTINF:-1,BTV officials
@@ -114,6 +116,8 @@ http://cdn01.palki.tv/live/ATNBangla-M/index.fmp4.m3u8?expire=1671299853&token=2
 
 #EXTINF:-1,N TV YouTube (VLC PLAYER)
 https://youtube.com/@NTVDigitalLive/live
+#EXTINF:-1,N TV
+http://103.230.105.252:1935/live/ntv/manifest.m3u8
 #EXTINF:-1,N TV palki
 http://cdn01.palki.tv/live/NTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
@@ -283,7 +287,8 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8%7cCooki
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8%7cCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719468040:KeyName=prod_linear:Signature=nLosZHnWVxTfYX1mTIMyDEwIGcDgsXEpuSE-gyMdf8MU_i5NIzh8Au9tx07yje5Uq5Reuk6-NU0IxTRJOvpdBw
 #EXTINF:-1,TOFFEE
 https://cdn.querysports.com/hls/toffee.m3u8
-
+#EXTINF:-1,TOFFEE
+https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/zY07aH-QTu2JODtSNbbGm_L-pa7eJ5fXeMDxdyq1oFOpANHpSjqdT4AYGX3SQup9CaMALUJfUQmAr6l99s1Qfg/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/playlist_16727207714487065981.m3u8
 #EXTINF:-1,toffe test
 #EXTVLCOPT:http-Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718763101:KeyName=prod_live_events:Signature=6Wrscx-8jFedX5AWMdVPrMcR_LnSfqV7kf5clU49R2V9Xk6d2dknfIlUONPzN89HFtT7foUXBLBbOwMJR2cBCA
 https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
