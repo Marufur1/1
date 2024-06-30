@@ -267,8 +267,8 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 
 #EXTINF:-1,T SPORTS palki@
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-#EXTINF:-1,T sports test
-http:\/\/us.greenbd.online:8880\/live\/Mahfuz340\/01933405340\/9.m3u8
+#EXTINF:-1,T SPORTS hdstreamz-1
+https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master.m3u8
 #EXTINF:-1,T SPORTS hdstreamz
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
 #EXTINF:-1,T SPORTS hdstreamz
