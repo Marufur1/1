@@ -267,7 +267,7 @@ http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8?expire=1671299853&token=2224
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_1080.m3u8
 #EXTINF:-1,T SPORTS hdstreamz 720
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_720.m3u8
-#EXTINF:-1,T SPORTS hdstreamz master 480
+#EXTINF:-1,T SPORTS hdstreamz 480
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_480.m3u8
 #EXTINF:-1,T SPORTS hdstreamz 360
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_360.m3u8
@@ -288,47 +288,19 @@ https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/l
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_240.m3u8
 #EXTINF:-1,T SPORTS hdstreamz 144
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_144.m3u8
-#EXTINF:-1,T SPORTS palki@
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 #EXTINF:-1,T SPORTS Akash http://113.212.111.246
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1,#EXTINF:-1,T SPORTS Akash http://himelop-back.ddns.net
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
+#EXTINF:-1,T SPORTS palki@
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
-#EXTINF:-1,Astro cricket
-http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3960&deviceMac=00:1A:79:09:AC:16
-#EXTINF:-1,T20 ftp-1
-http://172.21.21.6:8080/hls/.m3u8
-#EXTINF:-1,T20 ftp-2
-http://172.21.21.6:8080/hls/.m3u8
-#EXTINF:-1,PTV
-http://45.58.137.74/ptv-123456/tracks-v1a1/mono.m3u8?token=2a1c69d8775e4b8b400ae5b4e6712b4aaadd1f105a2b3ebb9044e3f6d6946c1b-349RT4L2BBCBM402-1717811000-1717800200
-#EXTINF:-1,WILLOW
-https://mm5-97.tinyuri.org/live/m4-index.m3u8
-#EXTINF:-1,Sky sports
-https://us.score806.cc/uk_sscricket/index.m3u8
-
-#EXTINF:-1, Sony live 
-http://172.17.50.112/live/antbd1001/index.m3u8
-
-#EXTINF:-1,Star Sports 2 HD
-https://stream.thenayeemparvez.xyz/SPO_STARSPORTS2/index.m3u8
-#EXTINF:-1,Sports-1
+#EXTINF:-1,Sports-1 retosbd.com
 https:\/\/retosbd.com\/cloud\/master.php?id=399
-#EXTINF:-1,Sports-2
-https:\/\/retosbd.com\/cloud\/master.php?id=400
-#EXTINF:-1,Sports-3
-https:\/\/retosbd.com\/cloud\/master.php?id=2919
-#EXTINF:-1,Sports-4
-https:\/\/retosbd.com\/cloud\/master.php?id=403
-#EXTINF:-1,Sports-5
+#EXTINF:-1,Sports-2 retosbd.com
 https:\/\/retosbd.com\/cloud\/master.php?id=402
-#EXTINF:-1,Sports-6
+#EXTINF:-1,Sports-3 retosbd.com
 https:\/\/retosbd.com\/cloud\/master.php?id=629
-#EXTINF:-1,Sports-7
-https:\/\/retosbd.com\/cloud\/master.php?id=3511
-#EXTINF:-1,Sports-8
-https:\/\/retosbd.com\/cloud\/master.php?id=417
 
 #EXTINF:-1,NAGORIK TV palki@
 http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
@@ -391,26 +363,14 @@ https://rajdhani.jaagobd.com/rajdhanitv/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1,Rajdhani TV [Jagobd]
 https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 
-#EXTINF:-1,TIME TELEVISION jagobd
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/chunks.m3u8
-
-#EXTINF:-1,iTV Official
-http://162.244.81.142:1935/live/livestream/playlist.m3u8
-
 #EXTINF:-1,NAN TV [Jagobd]
 https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
-
-#EXTINF:-1,CNN Bangla
-http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 
 #EXTINF:-1,Channel Europe [Jagobd]
 https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
 
 #EXTINF:-1,Bangla 24 Canada [Jagobd]
 https://livess.ncare.live/live-orgin/b24c.stream/chunks.m3u8
-
-#EXTINF:-1,Bangla TV US
-http://208.86.19.13:81/504.stream/index.m3u8
 
 #EXTINF:-1,Alpha TV Canada [Jagobd]
 https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
@@ -427,26 +387,11 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,Deshe TV
 http://208.86.19.13:81/514.stream/index.m3u8
 
-#EXTINF:-1,Channel S UK Jagobd
-https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1,Channel S UK http://208.86.19.13
-http://208.86.19.13:81/519.stream/index.m3u8
-
-#EXTINF:-1,Nandan TV Official
-https://web.nandansyst.com/hls/nandan.m3u8
-
 #EXTINF:-1,Nobanno TV [Jagobd]
 https://livess.ncare.live/live-orgin/cmtv.stream/chunks.m3u8
 
-#EXTINF:-1,TBN 24 USA Official
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
-#EXTINF:-1,TBN24 TV UK Official
-https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TBN24 palki
 http://cdn01.palki.tv/live/TBN24-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
-
-#EXTINF:-1,MILLENNIUM TV 24 NEWS jagobd
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/chunks.m3u8
 
 #EXTINF:-1,Millennium TV USA [Jagobd]
 https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
@@ -454,20 +399,9 @@ https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF:-1,MeTV BD
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1,SHREE BANGLA jagobd
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8
-
-#EXTINF:-1,Voice of America jagobd
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voa.stream/chunks.m3u8
 
 #EXTINF:-1,ATN Bangla UK [Jagobd]
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-
-#EXTINF:-1,AMAR BANGLA jagobd
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
-
-#EXTINF:-1,B24C jagobd
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/chunks.m3u8
 
 #EXTINF:-1,Biswa Bangla 24 [Jagobd]
 https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
@@ -495,12 +429,6 @@ https://livess.ncare.live/live-orgin/times24tv.stream/chunks.m3u8
 #EXTINF:-1,TV ONE UK [Jagobd]
 https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
 
-#EXTINF:-1,Varendra TV [Jagobd]
-https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
-
-#EXTINF:-1,KTV Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-
 ---------------------------------------------------------
 
 -----------------------------------------------------------
@@ -514,20 +442,15 @@ https://fmrx.short.gy/Zee_Bangla_HD/Join@AbidDthOfficial/ABID_DTH.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
 
 #EXTINF:-1 ,COLOR bangla HD
-http://mag.trexlive.me:80/Michael88/Michael88/225740
-#EXTINF:-1 ,COLOR bangla HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
 #EXTINF:-1,ENTER 10
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/cb573e1c786c678b84c83a64cef94382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae0554d8e69a6b4011a9d2c44fa83439c8101b2d4d2598316d776f0419c93f783db1481e4325293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f8f7b53430df30a07ba129a4e90399a7eb84bdd89a65a19d8ad236743d4f65a6f20b0f0b2cadf3c25b475f2ade79f01143a58250a259839a24a0f319efcc10491d15ff0dc47d0e63c4d6a80f931ea48e51b4db44713bc5ccf0df4ac0f1978434e68a74eab9b22ff21dc73a9f4de40364269a2805cc88ad811652c1fc6c869dd1d1fb6cc98c3f13a7b9b30550ab320ee520b3a986f2c64b379b0da1d7c992a0fb2303fd05121cf17afef62a6f19bad2d1381f3eb0ebf63e6be0f92d107aa6633104290fa3e5048493281bc36436037930bb493f9e0710812e5b898ad971d6b514b623866bcebe9749499d3694c46b3340854344147d854ac2ab5666e0f21ce12d6d679578d142e20e3e7721d6d6598ccbe969494ad60b06cd8dbf22925590d35a5521ae8e197ba76d3d5ae53032681e06f91/46/1280x720_3072000/index.m3u8
 
-
 #EXTINF:-1,Sun Bangla
-
 #EXTINF:-1,Star Jalsha CINEMA HD
 
 #EXTINF:-1,Jalsha Movies HD
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1563.ts
+
 #EXTINF:-1,Jalsha Movies
 http://216.227.156.106/BEN_STARJALSHAMOVIEHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZE BANGLA CINEMA HD
@@ -539,17 +462,11 @@ http://216.227.156.106/BEN_STARJALSHAMOVIEHD/tracks-v1a1/mono.m3u8
 -------------------------------------------------------------------------
 #EXTINF:-1,ATN Music Jago
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1,ABC Music http://xtv.ooo
-http://xtv.ooo:8080/667861/336612/245939
 
-#EXTINF:-1,Rtv Music (Youtube)
-https://youtube.com/c/RtvMusic/live
-#EXTINF:-1,Rtv Music (Youtube) vlc player
-https://www.youtube.com/watch?v=J5UjWwkrJUE
-#EXTINF:-1,Rtv Music https://ythls-v2.onrender.com
-https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF:-1,Rtv Music YouTube bypass
 https://rtv-music.raban3453.workers.dev/live/@RtvMusic.m3u8
+#EXTINF:-1,Rtv Music youtube VLC PLAYER
+https://youtube.com/c/RtvMusic/live
 #EXTINF:-1,Rtv Music Jago@
 https://livess.ncare.live/live-orgin/rtvmusic.stream/chunks.m3u8
 
