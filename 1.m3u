@@ -482,8 +482,9 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 
 ------------------------------------------------------------------------
-#EXTINF:-1,Madani TV Bangla YTLive
+#EXTINF:-1,Madani TV Bangla youtube VLC PLAYER
 https://youtube.com/@MadaniChannelBanglaLive/live
+
 #EXTINF:-1,ATN Islam jago
 https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
 
@@ -492,8 +493,7 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 #EXTINF:-1,Iqra Bangla jagobd
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1,Iqra Bangla
-http://208.86.19.13:81/507.stream/index.m3u8
+
 #EXTINF:-1,Iqra Bangla https://ap02.iqplay.tv
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
@@ -735,6 +735,7 @@ For playlist
 2.(toffee) https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/main/toffee_NS_Player.m3u
 3.(Tsports) https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/NS_Player_Tsports_live.m3u
 4.(FanCode) https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_Live.m3u
+5. https://raw.githubusercontent.com/kasintv2-0/kasintv/0aa9b6b8fe2c09607eb9149255d45fb54e80822f/TV/tsport1.m3u8
 5. https://github.com/byte-capsule
 6. https://raw.githubusercontent.com/msujoy1495/Live-TV/main/OrangeTV.m3u8
 
