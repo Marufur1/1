@@ -310,7 +310,10 @@ http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
 #EXTINF:-1, Star Sports
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1,Sony Sports
-http://212.46.43.31/live/719865/988111/167571.m3u8?token=GhMNBEZcR1gRA1ELVARTDFEGDQ9UAl5UA1YBUlcPVFVVAVIGDAJRAANEGBoXEhZRBVtrXgVGAgFUUQIDAhQUFhJUFzpcUEdYEVEFAFNSURZIFEBeDAEaClJKFURaXBRZQwJQUgEBR04RA0xMARQKVQhpUFIXDVtVQFxZQV9UGkEOXzoBUFkEDFdEDhpUREgWDUVEFVsKTVwOShVWWkxEAhVUR18XBVxXBkQYGgcJEVoQRE0VW0Z6dEBKFVFLTFMNElgKCxcORw8AEwwaSEQNRztEUUQVFl1RDwNFFgkaBkFNEwgETWsGDV0IUVsQDwtaFxQOFVBGFBIPCVldR1dEPBFYAUcPFlNUClAWRQ==
+https://tsneh.vercel.app/eagleflix.ten2.m3u8
+#EXTINF:-1,Sony Sports
+https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
+
 
 #EXTINF:-1,Nexus TV YouTube vlc player
 https://youtube.com/@NexusTelevisionLive/live
