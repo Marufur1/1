@@ -307,6 +307,9 @@ https:\/\/retosbd.com\/cloud\/master.php?id=629
 #EXTINF:-1,NAGORIK TV palki@
 http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
 
+#EXTINF:-1, Star Sports
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
 #EXTINF:-1,Nexus TV YouTube vlc player
 https://youtube.com/@NexusTelevisionLive/live
 #EXTINF:-1,Nexus TV jagobd
