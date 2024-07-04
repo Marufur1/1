@@ -672,7 +672,12 @@ https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
 
 #EXTINF:-1,France 24 jagobd
 https://livess.ncare.live/live-orgin/fr24.stream/chunks.m3u8
-
+#EXTINF:-1,France
+http://194.120.144.109/VOD/home/H/137.mp4/tracks-v1a1/index.m3u8
+#EXTINF:-1,France
+http://185.217.137.136/VOD/60/vod2/T/24.mp4/index.m3u8
+#EXTINF:-1,France
+http://185.217.137.136/VOD/54/ZMIX/H19.mp4/index.m3u8
 -----------------------------------------------------------------------------------
 
 ***** FM Radio *****
