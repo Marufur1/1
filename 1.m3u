@@ -96,6 +96,7 @@ https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,RTV official
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8?expires=1720474262&md5=t6HnbDXgT_ORMgfGuv2yTA&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=nYRLfBB3uILnRDIMCSVU6g&expires=1720474825&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1,BANGLA VISION youtube VLC PLAYER
 https://youtube.com/@banglavisionlive/live
 #EXTINF:-1,BANGLA VISION jago official 01
