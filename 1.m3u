@@ -210,6 +210,8 @@ https://nayeemparvez.tech/api/jadoo.php?id=gazi_tv_hd
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1,T SPORTS Akash http://himelop-back.ddns.net
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
+#EXTINF:-1,T SPORTS NS PLAYER
+http://filex.tv:8080/live/2TVtkhVJ7ajs/baevzdFA5xu8/288303.ts
 
 #EXTINF:-1,Sports-1 retosbd.com
 https:\/\/retosbd.com\/cloud\/master.php?id=399
