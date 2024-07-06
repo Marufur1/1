@@ -205,12 +205,6 @@ https://www.youtube.com/channel/UCXuHIkEezOy_b1pnkN0-TIg/live
 #EXTINF:-1,GAZI jadoo
 https://nayeemparvez.tech/api/jadoo.php?id=gazi_tv_hd
 
-#EXTINF:-1,T SPORTS
-http://103.151.60.214:7444/1101/video.m3u8
-#EXTINF:-1,T SPORTS
-https://cdn.hotflix-bd.online/hotflixbd/Premier-sports1/index.m3u8
-#EXTINF:-1,T SPORTS
-https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 #EXTINF:-1,T SPORTS Akash http://113.212.111.246
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1,T SPORTS Akash http://himelop-back.ddns.net
