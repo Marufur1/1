@@ -430,6 +430,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
 #EXTINF:-1,Discovery
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
+#EXTINF:-1,Discovery
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 #EXTINF:-1,Discovery
 https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
@@ -444,7 +446,8 @@ https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1,Discovery
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 
-
+#EXTINF:-1,Discovery Science
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscSci.m3u8
 #EXTINF:-1,Discovery Science
 https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8
 #EXTINF:-1,Discovery Science
@@ -459,10 +462,11 @@ https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF:-1,Discovery Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-
 #EXTINF:-1,DISCOVERY RELAXATION
 https://discovery-relaxation.raban3453.workers.dev/live/@discoveryrelaxation3457.m3u8
 
+#EXTINF:-1,Discovery Id
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscID.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 
 #EXTINF:-1,National Geographic Wild
