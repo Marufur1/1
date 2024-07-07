@@ -204,8 +204,10 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1,GAZI YouTube (VLC PLAYER)
 https://www.youtube.com/channel/UCXuHIkEezOy_b1pnkN0-TIg/live
 #EXTINF:-1,GAZI jadoo
-https://nayeemparvez.tech/api/jadoo.php?id=gazi_tv_hd
+https://nayeemparvez.tech/api/jadoo.php?id=gazi_tv_hd#EXTINF:-1,T SPORTS
 
+#EXTINF:-1,T SPORTS
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #EXTINF:-1,T SPORTS
 http://50.7.218.122:80/sp1hd/index.m3u8
 #EXTINF:-1,T SPORTS
