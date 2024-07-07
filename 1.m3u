@@ -458,6 +458,9 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1,Discovery Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1,Discovery Turbo
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscTurbo.m3u8
 #EXTINF:-1,Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF:-1,Discovery Turbo
@@ -473,6 +476,7 @@ https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscID.m3u8
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF:-1,National Geographic Wild you
 https://youtube.com/@NatGeo/live
+
 #EXTINF:-1,Wild Earth(BD) 
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1,Wild Earth(BD) 
@@ -480,6 +484,8 @@ https://www.youtube.com/@NatGeoWild/live
 #EXTINF:-1,Wild Earth
 https://wild.raban3453.workers.dev/live/NatGeoWild.m3u8
 
+#EXTINF:-1,Animal Planet HD
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_22.m3u8
 #EXTINF:-1,Animal Planet HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
 #EXTINF:-1,Animal Planet HD
