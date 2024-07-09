@@ -1,13 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1,BTV
-http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:-1,BTV National
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=1&e=.m3u8
+#EXTINF:-1,BTV World
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=2&e=.m3u8
 #EXTINF:-1,BTV officials yputube
 https://www.youtube.com/@BangladeshTelevision-BTV/live
 #EXTINF:-1,Sangshad TV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=3&e=.m3u8
+#EXTINF:-1,BTV Chattogram
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=4&e=.m3u8
 
 #EXTINF:-1,Somoy TV YouTube bypass
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#EXTINF:-1,Somoy News TV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=17&e=.m3u8
 #EXTINF:-1,Somoy TV YOUTUBE (VLC PLAYER)
 https://youtube.com/@somoynews360/live
 #EXTINF:-1,Somoy TV jago-01
@@ -31,6 +38,8 @@ https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,DBC NEWS jago official-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/mono.m3u8
 
+#EXTINF:-1,CHANNEL 24
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=21&e=.m3u8
 #EXTINF:-1,CHANNEL 24 YouTube
 https://youtube.com/@channel24digital/live
 #EXTINF:-1,CHANNEL 24 jago-01
@@ -47,6 +56,8 @@ https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,INDEPENDENT TV LIVE jago-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/mono.m3u8
 
+#EXTINF:-1,ATN NEWS
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=14&e=.m3u8
 #EXTINF:-1,ATN NEWS YouTube (VLC PLAYER)
 https://youtube.com/@atnnewslive/live
 #EXTINF:-1,ATN NEWS jago@-01
@@ -66,6 +77,8 @@ http://xtv.ooo:8080/global/global/245915
 #EXTINF:-1,Ekattor TV YouTube (VLC PLAYER)
 https://www.youtube.com/@EkattorTelevision/live
 
+#EXTINF:-1,CHANNEL I
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=6&e=.m3u8
 #EXTINF:-1,CHANNEL I YouTube (VLC PLAYER)-01
 https://youtube.com/@ChanneliNews/live
 #EXTINF:-1,CHANNEL I YouTube (VLC PLAYER)-02
@@ -77,11 +90,16 @@ https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I jago-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/mono.m3u8
 
+#EXTINF:-1,ATN Bangla
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=9&e=.m3u8
 #EXTINF:-1,ATN Bangla jago Official jago-01
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/mono.m3u8
 #EXTINF:-1,ATN BANGLA jago Official jago-02
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+https://statics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8?nimblesessionid=34487157&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjQgNzozNjo1NyBBTSZoYXNoX3ZhbHVlPXgvZkhhaWpiSDBkVXpwTlBBb0NEZmc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
+#EXTINF:-1,NTV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=8&e=.m3u8
 #EXTINF:-1,N TV YouTube (VLC PLAYER)
 https://youtube.com/@NTVDigitalLive/live
 #EXTINF:-1,N TV
@@ -97,6 +115,9 @@ https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8?expires=1720474262&md5=t6HnbDXgT_ORMgfGuv2yTA&user=c15be118d93a464dabf77260596012cf
 https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=nYRLfBB3uILnRDIMCSVU6g&expires=1720474825&user=c15be118d93a464dabf77260596012cf
+
+#EXTINF:-1,BANGLA VISION
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=5&e=.m3u8
 #EXTINF:-1,BANGLA VISION youtube VLC PLAYER
 https://youtube.com/@banglavisionlive/live
 #EXTINF:-1,BANGLA VISION jago official 01
@@ -104,6 +125,8 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1,BANGLA VISION jago official 02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/mono.m3u8
 
+#EXTINF:-1,MAASRANGA TV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=11&e=.m3u8
 #EXTINF:-1,MAASRANGA TV official-01
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1,MAASRANGA TV official-02
@@ -116,6 +139,8 @@ https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,SA TV jagobd-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/mono.m3u8
 
+#EXTINF:-1,Boishakhi TV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=10&e=.m3u8
 #EXTINF:-1,Boishakhi TV official
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1,Boishakhi TV jagobd-01
@@ -123,10 +148,15 @@ https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,Boishakhi TV jagobd-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/mono.m3u8
 
+#EXTINF:-1,CHANNEL 9
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=20&e=.m3u8
 #EXTINF:-1,CHANNEL 9 jagobd@-01
 https://livess.ncare.live/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL 9 jagobd@-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/mono.m3u8
+
+#EXTINF:-1,Ekushey TV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=7&e=.m3u8
 #EXTINF:-1,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,EKUSHEY Official-2
@@ -138,6 +168,8 @@ https://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
 #EXTINF:-1,EKUSHEY jago@-01
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/mono.m3u8
 
+#EXTINF:-1,DESH TV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=12&e=.m3u8
 #EXTINF:-1,DESH TV YouTube (VLC PLAYER)
 https://youtube.com/@livedeshtv/live
 #EXTINF:-1,DESH TV Jagobd@-01
@@ -152,6 +184,8 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1,DEEPTO TV jago-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/mono.m3u8
 
+#EXTINF:-1,MY TV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=13&e=.m3u8
 #EXTINF:-1,MY TV official
 https://myflixbd.com/0.m3u8
 #EXTINF:-1,MY TV YouTube (VLC PLAYER)
@@ -175,6 +209,8 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1,Ananda TV palki
 http://cdn01.palki.tv/live/AnandaTV-M/index.fmp4.m3u8?expire=1671299853&token=2224a0618c200f5df478752f81c4615f&filter;.tracks=v1a1
 
+#EXTINF:-1,BIJOY TV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=16&e=.m3u8
 #EXTINF:-1,BIJOY TV jagobd-01
 https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1,BIJOY TV jagobd-02
@@ -189,6 +225,8 @@ https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV Jagobd-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/mono.m3u8
 
+#EXTINF:-1,MOHONA TV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=15&e=.m3u8
 #EXTINF:-1,MOHONA TV jagobd@-01
 https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1,MOHONA TV jagobd@-02
@@ -204,8 +242,11 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1,GAZI YouTube (VLC PLAYER)
 https://www.youtube.com/channel/UCXuHIkEezOy_b1pnkN0-TIg/live
 #EXTINF:-1,GAZI jadoo
-https://nayeemparvez.tech/api/jadoo.php?id=gazi_tv_hd#EXTINF:-1,T SPORTS
-
+https://nayeemparvez.tech/api/jadoo.php?id=gazi_tv_hd
+#EXTINF:-1,Gazi TV
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=18&e=.m3u8
+#EXTINF:-1,Gazi TV HD
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=19&e=.m3u8
 #EXTINF:-1,T SPORTS
 http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #EXTINF:-1,T SPORTS
@@ -397,6 +438,8 @@ https://youtube.com/c/RtvMusic/live
 #EXTINF:-1,Rtv Music Jago@
 https://livess.ncare.live/live-orgin/rtvmusic.stream/chunks.m3u8
 
+#EXTINF:-1,GAAN BANGLA
+https://nayeemparvez.online/aynaottnew/stream.m3u8?id=22&e=.m3u8
 #EXTINF:-1,GAAN BANGLA jagobd@
 https://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,SANGEET BANGLA
