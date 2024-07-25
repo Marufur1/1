@@ -52,6 +52,8 @@ https://livess.ncare.live/live-orgin/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1,ATN NEWS jago@-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/mono.m3u8
 
+#EXTINF:-1,JAMUNA TV
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1,JAMUNA TV YOUTUBE (VLC PLAYER)
 https://youtube.com/@JamunaTVbd/live
 #EXTINF:-1,JAMUNA TV jago-01
@@ -217,8 +219,6 @@ http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 http://50.7.218.122:80/sp1hd/index.m3u8
 #EXTINF:-1,T SPORTS
 http://filex.tv:8080/live/2TVtkhVJ7ajs/baevzdFA5xu8/288303.ts?podhotv85905.m3u
-#EXTINF:-1,T SPORTS Akash http://113.212.111.246
-http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1,T SPORTS Akash http://himelop-back.ddns.net
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
 #EXTINF:-1,T SPORTS NS PLAYER
