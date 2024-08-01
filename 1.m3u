@@ -372,6 +372,8 @@ http://176.119.29.52/live/00:1A:79:00:02:27/SN_1697176356/116.m3u8
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 
 #EXTINF:-1,Zee bangla HD
+http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
+#EXTINF:-1,Zee bangla HD
 http://103.151.60.174/manikvai
 #EXTINF:-1,Zee bangla HD
 http://103.151.60.174/torponalam
