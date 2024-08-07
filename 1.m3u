@@ -249,6 +249,8 @@ https://youtube.com/@NexusTelevisionLive/live
 #EXTINF:-1,Nexus TV jagobd
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
 
+#EXTINF:-1,EKHON TV
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gF0INC1z_6xvs0HyhpT9j0w/ts
 #EXTINF:-1,EKHON TV YouTube vlc
 https://youtube.com/@ekhontv/live
 #EXTINF:-1,EKHON TV jagobd
