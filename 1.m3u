@@ -266,6 +266,9 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1,Global TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJ_X5WhrYEIvgVzxsW_OBsQ
 
+#EXTINF:-1,montvlivestream
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
 #EXTINF:-1,Duronto palki.tv
 
 #EXTINF:-1,JAGONEWS 24 TV jagobd
