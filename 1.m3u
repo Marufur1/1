@@ -75,6 +75,8 @@ https://youtube.com/@NTVDigitalLive/live
 #EXTINF:-1,N TV
 http://103.230.105.252:1935/live/ntv/manifest.m3u8
 
+#EXTINF:-1,RTV
+http://xtv.ooo:8080/4412823896/7155272299/245911
 #EXTINF:-1,RTV YouTube (VLC PLAYER)
 https://youtube.com/@RtvNews/live
 #EXTINF:-1,RTV jago-01
