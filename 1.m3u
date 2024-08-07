@@ -172,6 +172,8 @@ https://livess.ncare.live/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,ASIAN TV jago-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/mono.m3u8
 
+#EXTINF:-1,Ananda TV
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNR9e8M3P27IYrfKkOJe3vw/ts
 #EXTINF:-1,Ananda TV jagobd-01
 https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1,Ananda TV jagobd-02
