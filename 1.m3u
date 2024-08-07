@@ -115,6 +115,8 @@ https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,Boishakhi TV jagobd-02
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/mono.m3u8
 
+#EXTINF:-1,CHANNEL 9
+http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1,CHANNEL 9 jagobd@-01
 https://livess.ncare.live/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL 9 jagobd@-02
